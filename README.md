@@ -7,6 +7,7 @@
 | 目录 | 内容 | 篇数 |
 |---|---|---|
 | [duan-ayaseeri/](duan-ayaseeri/) | 段永平投资问答录（含其对巴菲特、芒格等人的评价与引用），来源 [duan.ayaseeri.com](https://duan.ayaseeri.com/) | 154 |
+| [buffett-ayaseeri/](buffett-ayaseeri/) | 巴菲特知识库：致股东信、致合伙人信、访谈演讲、股东大会、主题解读，来源 [buffett.ayaseeri.com](https://buffett.ayaseeri.com/) | 347 |
 
 ## 结构说明
 
