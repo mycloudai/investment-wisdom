@@ -1,4 +1,4 @@
-# value-investing-qa
+# investment-wisdom
 
 价值投资大师问答录合集。来源：[段永平投资问答录](https://duan.ayaseeri.com/)（已抓取全站 154 篇，2026-08-29）。
 
