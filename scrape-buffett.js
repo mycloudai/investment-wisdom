@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const BASE = 'https://buffett.ayaseeri.com';
-const OUT = path.join(__dirname, 'buffett-ayaseeri');
+const OUT = path.join(__dirname, 'buffett');
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36';
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 

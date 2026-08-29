@@ -4,9 +4,9 @@ const path = require('path');
 
 const ROOT = __dirname;
 const SITES = [
-  { dir: 'duan-ayaseeri', host: 'duan.ayaseeri.com' },
-  { dir: 'buffett-ayaseeri', host: 'buffett.ayaseeri.com' },
-  { dir: 'munger-ayaseeri', host: 'munger.ayaseeri.com' },
+  { dir: 'duan', host: 'duan.ayaseeri.com' },
+  { dir: 'buffett', host: 'buffett.ayaseeri.com' },
+  { dir: 'munger', host: 'munger.ayaseeri.com' },
 ];
 const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 

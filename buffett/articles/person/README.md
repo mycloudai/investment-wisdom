@@ -1,0 +1,15 @@
+# 巴菲特 · 主题解读·人物（共 13 篇）
+
+- [本杰明·格雷厄姆](./01-benjamin-graham.md)
+- [阿吉特·贾恩](./02-ajit-jain.md)
+- [查理·芒格](./03-charlie-munger.md)
+- [格雷格·阿贝尔](./04-greg-abel.md)
+- [杰克·林沃尔特](./05-jack-ringwalt.md)
+- [菲利普·费雪](./06-philip-fisher.md)
+- [唐·基奥](./07-don-keough.md)
+- [凯瑟琳·格雷厄姆](./08-katharine-graham.md)
+- [罗丝·布鲁姆金](./09-rose-blumkin.md)
+- [史蒂夫·乔布斯](./10-steve-jobs.md)
+- [蒂姆·库克](./11-tim-cook.md)
+- [汤姆·墨菲](./12-tom-murphy.md)
+- [沃伦·巴菲特](./13-warren-buffett.md)

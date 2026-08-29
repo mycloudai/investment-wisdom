@@ -15,7 +15,7 @@ function walk(dir, out = []) {
 function safeDecode(s) { try { return decodeURIComponent(s); } catch (e) { return s; } }
 
 (async () => {
-  for (const site of ['buffett-ayaseeri', 'munger-ayaseeri']) {
+  for (const site of ['buffett', 'munger']) {
     const siteDir = path.join(ROOT, site);
     // 1) 按目录收集编号文件，计算新名
     const byDir = new Map(); // dirAbs -> [{old, num, base}]

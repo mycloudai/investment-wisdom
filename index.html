@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>投资智慧知识库</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+</head>
+<body>
+<div id="app">加载中…</div>
+<script>
+window.$docsify = {
+  name: '投资智慧知识库',
+  loadSidebar: true,
+  subMaxLevel: 3,
+  auto2top: true,
+  coverpage: true,
+  pagination: { previousText: '上一篇', nextText: '下一篇', crossChapter: true },
+  search: {
+    depth: 3,
+    noData: { '/': '没有找到相关结果' },
+    placeholder: { '/': '搜索全文…' },
+    hideOtherSidebarContent: false
+  }
+};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+<script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+</body>
+</html>
