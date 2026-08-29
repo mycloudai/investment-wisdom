@@ -1,7 +1,5 @@
 # 王宁：段永平为什么欣赏泡泡玛特创始人
 
-> 来源：https://duan.ayaseeri.com/person-wangning
-
 # 王宁：段永平为什么欣赏泡泡玛特创始人
 
 ## 一句话结论

@@ -1,7 +1,5 @@
 # 互联网、科技与新产业
 
-> 来源：https://duan.ayaseeri.com/wenda-company-tech-platforms
-
 ## 第一节 互联网平台
 
 ### 腾讯

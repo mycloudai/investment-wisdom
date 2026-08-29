@@ -1,7 +1,5 @@
 # 2015年vivo 20周年晚宴沈炜讲话
 
-> 来源：https://duan.ayaseeri.com/shenwei-2015nian-vivo-20zhounian-wanyan-jianghua
-
 # 2015年vivo 20周年晚宴沈炜讲话
 
 亲爱的各位同事、各位一级老板及嘉宾们、各位老朋友和兄弟姐妹们：

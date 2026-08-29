@@ -1,7 +1,5 @@
 # 2001年 我为什么要去读书？ —— 《读者》2001年11月刊
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2001nian-woweishenmeyaoqudushu-duzhe-2001nian11yuekan
-
 # 段永平：2001年 我为什么要去读书？ —— 《读者》2001年11月刊
 
 **（注：由于年代久远，段永平**称本文应该是采访，非个人所写）

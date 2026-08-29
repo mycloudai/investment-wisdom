@@ -1,7 +1,5 @@
 # 折现
 
-> 来源：https://duan.ayaseeri.com/zhexian
-
 # 折现
 
 ## 定义与起源

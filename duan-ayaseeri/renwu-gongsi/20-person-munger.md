@@ -1,7 +1,5 @@
 # 芒格：段永平为什么重视他的理性
 
-> 来源：https://duan.ayaseeri.com/person-munger
-
 # 芒格：段永平为什么重视他的理性
 
 ## 一句话结论

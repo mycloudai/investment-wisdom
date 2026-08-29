@@ -30,7 +30,8 @@ function inlineToMd(html, curCat) {
   s = s.replace(/<a\b[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi, (_, href, text) => {
     const t = text.replace(/<br\s*\/?>/gi, ' ').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
     if (!t) return '';
-    return `[${t}](${resolveLink(href, curCat)})`;
+    const r = resolveLink(href, curCat);
+    return r ? `[${t}](${r})` : t;
   });
   return s.replace(/<[^>]+>/g, '');
 }
@@ -101,24 +102,34 @@ function extractTitle(html) {
 
 // ---------- URL 列表 + 分类 ----------
 function extractUrls() {
-  const html = fs.readFileSync('/tmp/munger-home.html', 'utf8');
   const seen = new Map();
-  const re = /<a\b[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/g;
-  let m;
-  while ((m = re.exec(html)) !== null) {
-    let p = decodeURIComponent(m[1].split('#')[0]).replace(/\/$/, '');
-    const name = m[2].replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
-    if (!name || !p.startsWith('/')) continue;
-    // 只收文章页：sources/*、articles/* 及 4 个特殊页
-    const ok = /^\/(sources|articles)\/.+/.test(p) ||
-      /^\/(thinking-grids|stop-doing|book-list)$/.test(p) ||
-      p === '/sources/seeking-wisdom-中文版';
-    if (!ok) continue;
-    if (!seen.has(p)) seen.set(p, name);
-  }
+  const collect = (file, onlyThinking) => {
+    const html = fs.readFileSync(file, 'utf8');
+    const re = /<a\b[^>]*href="([^"]+)"[^>]*>([\s\S]*?)<\/a>/g;
+    let m;
+    while ((m = re.exec(html)) !== null) {
+      let p = safeDecode(m[1].split('#')[0]).replace(/\/$/, '');
+      const name = m[2].replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+      if (!name || !p.startsWith('/')) continue;
+      if (onlyThinking && !/^\/thinking-grids\/.+/.test(p)) continue;
+      if (!onlyThinking) {
+        // 只收文章页：sources/*、articles/*、topics、特殊页（thinking-grids 子页从专页提取）
+        const ok = /^\/(sources|articles)\/.+/.test(p) ||
+          /^\/(stop-doing|book-list)$/.test(p) ||
+          /^\/topics(\/.+)?$/.test(p) ||
+          p === '/sources/seeking-wisdom-中文版';
+        if (!ok) continue;
+      }
+      if (!seen.has(p)) seen.set(p, name);
+    }
+  };
+  collect('/tmp/munger-home.html', false);
+  collect('/tmp/mg-thinking-grids.html', true); // 思维格栅 178 个子页
   return [...seen.entries()].map(([p, name]) => ({ path: p, name }));
 }
 function catOf(p, name) {
+  if (/^\/thinking-grids\/.+/.test(p)) return 'thinking-grids';
+  if (/^\/topics(\/.+)?$/.test(p)) return 'topics';
   if (/^\/(thinking-grids|stop-doing|book-list)$/.test(p) || p.includes('seeking-wisdom')) return 'guides';
   if (p.startsWith('/articles/')) return 'articles';
   if (name.includes('致股东信')) return 'letters';
@@ -132,15 +143,28 @@ const catName = {
   meetings: '股东会讲话',
   'li-lu': '李录（芒格传承）',
   articles: '主题解读',
+  'thinking-grids': '思维格栅',
+  topics: '主题专题',
   guides: '指南与书单',
 };
+function relPath(curCat, target) {
+  const d = curCat.split('/').filter(Boolean);
+  const t = target.split('/');
+  let i = 0;
+  while (i < d.length && i < t.length - 1 && d[i] === t[i]) i++;
+  return d.slice(i).map(() => '..').concat(t.slice(i)).join('/');
+}
+function safeDecode(s) { try { return decodeURIComponent(s); } catch (e) { return s; } }
 const SLUG_MAP = (() => {
+  const items = extractUrls();
+  const totals = {};
+  for (const it of items) totals[catOf(it.path, it.name)] = (totals[catOf(it.path, it.name)] || 0) + 1;
   const counters = {};
   const map = {};
-  for (const it of extractUrls()) {
+  for (const it of items) {
     const cat = catOf(it.path, it.name);
     counters[cat] = (counters[cat] || 0) + 1;
-    const num = String(counters[cat]).padStart(2, '0');
+    const num = String(counters[cat]).padStart(String(totals[cat]).length, '0');
     const base = it.path.split('/').pop() || it.path.replace(/\//g, '');
     map[it.path] = cat + '/' + num + '-' + base + '.md';
   }
@@ -148,13 +172,25 @@ const SLUG_MAP = (() => {
 })();
 function resolveLink(href, curCat) {
   if (!href) return href;
-  if (/^(https?:|#|mailto:)/.test(href)) return href;
-  const p = decodeURIComponent(href.split('#')[0]).replace(/\/$/, '');
-  if (!p || !p.startsWith('/')) return href;
+  if (href.startsWith('#')) return href;
+  if (/^mailto:/i.test(href)) return href;
+  // 本站绝对 URL 解包，与相对路径统一处理
+  let rest = null;
+  const abs = href.match(/^https?:\/\/munger\.ayaseeri\.com(\/[^#]*)?(#.*)?$/i);
+  if (abs) rest = (abs[1] || '/') + (abs[2] || '');
+  else if (/^https?:/i.test(href)) return href;
+  else rest = href;
+  const hash = rest.indexOf('#');
+  const raw = hash >= 0 ? rest.slice(0, hash) : rest;
+  const anchor = hash >= 0 ? rest.slice(hash) : '';
+  const p = safeDecode(raw).replace(/\.html?$/i, '').replace(/\/$/, '');
+  if (!p || p === '/') return BASE + '/';
   const target = SLUG_MAP[p];
-  if (!target) return BASE + encodeURI(p);
-  const parts = target.split('/');
-  return parts[0] === curCat ? parts[1] : '../' + target;
+  if (!target) {
+    if (/\.html?$/i.test(raw)) return null; // 站内 html 文件（无对应页面）→ 降级纯文本
+    return BASE + encodeURI(p) + anchor;
+  }
+  return relPath(curCat, target);
 }
 
 // ---------- 主流程 ----------

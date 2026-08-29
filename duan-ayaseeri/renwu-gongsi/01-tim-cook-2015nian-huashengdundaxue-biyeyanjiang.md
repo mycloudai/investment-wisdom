@@ -1,7 +1,5 @@
 # 2015年苹果CEO库克华盛顿大学毕业典礼演讲：找到你的北斗星
 
-> 来源：https://duan.ayaseeri.com/tim-cook-2015nian-huashengdundaxue-biyeyanjiang
-
 # 2015年苹果CEO库克华盛顿大学毕业典礼演讲：找到你的北斗星
 
 大家好！

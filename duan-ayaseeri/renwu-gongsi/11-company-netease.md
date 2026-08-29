@@ -1,7 +1,5 @@
 # 网易：段永平为什么长期评价这家公司
 
-> 来源：https://duan.ayaseeri.com/company-netease
-
 # 网易：段永平为什么长期评价这家公司
 
 ## 一句话结论

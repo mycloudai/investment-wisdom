@@ -1,7 +1,5 @@
 # 马化腾：段永平为什么正面评价他
 
-> 来源：https://duan.ayaseeri.com/person-mahuateng
-
 # 马化腾：段永平为什么正面评价他
 
 ## 一句话结论

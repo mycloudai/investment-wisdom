@@ -1,7 +1,5 @@
 # 巴菲特：2023年 查理芒格：伯克希尔的总设计师
 
-> 来源：https://buffett.ayaseeri.com/sources/interviews/ba-fei-te-2023nian-cha-li-mang-ge-bo-ke-xi-er-de-zong-she-ji-shi
-
 # 巴菲特：2023年 查理芒格：伯克希尔的总设计师
 
 访谈与文章
@@ -10,9 +8,9 @@
 
 2023年11月28日
 
-就在几分钟前，查理芒格家人通知[伯克希尔](../articles/03-berkshire.md)哈撒韦公司，他于今天早上在加州一家医院平静地去世了。
+就在几分钟前，查理芒格家人通知[伯克希尔](../articles/company/03-berkshire.md)哈撒韦公司，他于今天早上在加州一家医院平静地去世了。
 
-伯克希尔的[CEO](https://buffett.ayaseeri.com/keywords/ceo) 沃伦巴菲特悼念道：
+伯克希尔的[CEO](../keywords/033-ceo.md) 沃伦巴菲特悼念道：
 
 “没有查理的启发、智慧和参与，伯克希尔哈撒韦公司不可能发展到现在的地位。”
 

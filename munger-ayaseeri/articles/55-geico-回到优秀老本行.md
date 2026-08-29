@@ -1,7 +1,5 @@
 # GEICO:回到优秀老本行
 
-> 来源：https://munger.ayaseeri.com/articles/geico-%E5%9B%9E%E5%88%B0%E4%BC%98%E7%A7%80%E8%80%81%E6%9C%AC%E8%A1%8C
-
 > 「GEICO 保险的主业非常好」
 > ——《查理芒格:1994年南加州大学马歇尔商学院演讲》1994
 

@@ -1,7 +1,5 @@
 # 丁磊：段永平为什么说他很有悟性
 
-> 来源：https://duan.ayaseeri.com/person-dinglei
-
 # 丁磊：段永平为什么说他很有悟性
 
 ## 一句话结论

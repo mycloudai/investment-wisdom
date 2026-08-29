@@ -1,7 +1,5 @@
 # 长期持有
 
-> 来源：https://duan.ayaseeri.com/zhangqichiyou
-
 # 长期持有
 
 ## 定义与起源

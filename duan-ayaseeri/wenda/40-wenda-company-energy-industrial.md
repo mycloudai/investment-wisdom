@@ -1,7 +1,5 @@
 # 能源与工业企业案例
 
-> 来源：https://duan.ayaseeri.com/wenda-company-energy-industrial
-
 ## 第一节 能源与工业企业
 
 ### OXY（西方石油）

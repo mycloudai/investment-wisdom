@@ -1,7 +1,5 @@
 # 季克良：段永平为什么说他对茅台至关重要
 
-> 来源：https://duan.ayaseeri.com/person-jikeliang
-
 # 季克良：段永平为什么说他对茅台至关重要
 
 ## 一句话结论

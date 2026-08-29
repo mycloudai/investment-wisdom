@@ -1140,6 +1140,338 @@
   "name": "2026年伯克希尔股东大会"
  },
  {
+  "path": "/keywords/an-quan-bian-ji",
+  "name": "安全边际"
+ },
+ {
+  "path": "/keywords/bao-shou-zhu-yi",
+  "name": "保守主义"
+ },
+ {
+  "path": "/keywords/bi-mian-yong-jiu-xing-sun-shi",
+  "name": "避免永久性损失"
+ },
+ {
+  "path": "/keywords/bu-dong-bu-zuo",
+  "name": "不懂不做"
+ },
+ {
+  "path": "/keywords/chang-qi-zhu-yi",
+  "name": "长期主义"
+ },
+ {
+  "path": "/keywords/chang-shi",
+  "name": "常识"
+ },
+ {
+  "path": "/keywords/du-li-si-kao",
+  "name": "独立思考"
+ },
+ {
+  "path": "/keywords/fu-li",
+  "name": "复利"
+ },
+ {
+  "path": "/keywords/hu-cheng-he",
+  "name": "护城河"
+ },
+ {
+  "path": "/keywords/ji-hui-cheng-ben",
+  "name": "机会成本"
+ },
+ {
+  "path": "/keywords/ji-lv",
+  "name": "纪律"
+ },
+ {
+  "path": "/keywords/nei-zai-jia-zhi",
+  "name": "内在价值"
+ },
+ {
+  "path": "/keywords/neng-li-quan",
+  "name": "能力圈"
+ },
+ {
+  "path": "/keywords/ni-xiang-si-wei",
+  "name": "逆向思维"
+ },
+ {
+  "path": "/keywords/shao-ji-shi-duo",
+  "name": "少即是多"
+ },
+ {
+  "path": "/keywords/shi-chang-xian-sheng",
+  "name": "市场先生"
+ },
+ {
+  "path": "/keywords/chang-qi-tou-zi",
+  "name": "长期投资"
+ },
+ {
+  "path": "/keywords/di-cheng-ben-zhi-shu-ji-jin",
+  "name": "低成本指数基金"
+ },
+ {
+  "path": "/keywords/duan-qi-guo-zhai",
+  "name": "短期国债"
+ },
+ {
+  "path": "/keywords/fen-hong",
+  "name": "分红"
+ },
+ {
+  "path": "/keywords/fen-san-tou-zi",
+  "name": "分散投资"
+ },
+ {
+  "path": "/keywords/gu-piao-hui-gou",
+  "name": "股票回购"
+ },
+ {
+  "path": "/keywords/ji-zhong-tou-zi",
+  "name": "集中投资"
+ },
+ {
+  "path": "/keywords/jia-zhi-tou-zi",
+  "name": "价值投资"
+ },
+ {
+  "path": "/keywords/liu-cun-shou-yi-zai-tou-zi",
+  "name": "留存收益再投资"
+ },
+ {
+  "path": "/keywords/mai-chu-ji-lv",
+  "name": "卖出纪律"
+ },
+ {
+  "path": "/keywords/mai-ru-shi-ji",
+  "name": "买入时机"
+ },
+ {
+  "path": "/keywords/qi-ye-shou-gou-jia-ge",
+  "name": "企业收购价格"
+ },
+ {
+  "path": "/keywords/shou-gou",
+  "name": "收购"
+ },
+ {
+  "path": "/keywords/xian-jin-chu-bei",
+  "name": "现金储备"
+ },
+ {
+  "path": "/keywords/zhai-quan",
+  "name": "债券"
+ },
+ {
+  "path": "/keywords/zi-ben-pei-zhi",
+  "name": "资本配置"
+ },
+ {
+  "path": "/keywords/ceo",
+  "name": "CEO"
+ },
+ {
+  "path": "/keywords/chang-qi-gu-dong",
+  "name": "长期股东"
+ },
+ {
+  "path": "/keywords/ding-jia-quan",
+  "name": "定价权"
+ },
+ {
+  "path": "/keywords/dong-shi-hui",
+  "name": "董事会"
+ },
+ {
+  "path": "/keywords/dong-shi-ze-ren",
+  "name": "董事责任"
+ },
+ {
+  "path": "/keywords/gu-dong-li-yi",
+  "name": "股东利益"
+ },
+ {
+  "path": "/keywords/gu-dong-gou-tong",
+  "name": "股东沟通"
+ },
+ {
+  "path": "/keywords/guan-li-ceng-dong-ji",
+  "name": "管理层动机"
+ },
+ {
+  "path": "/keywords/guan-li-ceng-ji-li",
+  "name": "管理层激励"
+ },
+ {
+  "path": "/keywords/ji-ren",
+  "name": "继任"
+ },
+ {
+  "path": "/keywords/jing-li-ren",
+  "name": "经理人"
+ },
+ {
+  "path": "/keywords/pin-pai",
+  "name": "品牌"
+ },
+ {
+  "path": "/keywords/qi-ye-wen-hua",
+  "name": "企业文化"
+ },
+ {
+  "path": "/keywords/qu-zhong-xin-hua-guan-li",
+  "name": "去中心化管理"
+ },
+ {
+  "path": "/keywords/xiao-fei-zhe-long-duan",
+  "name": "消费者垄断"
+ },
+ {
+  "path": "/keywords/xin-chou",
+  "name": "薪酬"
+ },
+ {
+  "path": "/keywords/cai-wu-bao-biao",
+  "name": "财务报表"
+ },
+ {
+  "path": "/keywords/gu-ben-hui-bao-lv",
+  "name": "股本回报率"
+ },
+ {
+  "path": "/keywords/gu-dong-quan-yi",
+  "name": "股东权益"
+ },
+ {
+  "path": "/keywords/gu-fen-xi-shi",
+  "name": "股份稀释"
+ },
+ {
+  "path": "/keywords/gu-zhi",
+  "name": "估值"
+ },
+ {
+  "path": "/keywords/jing-ji-shang-yu",
+  "name": "经济商誉"
+ },
+ {
+  "path": "/keywords/kuai-ji",
+  "name": "会计"
+ },
+ {
+  "path": "/keywords/liu-cun-shou-yi",
+  "name": "留存收益"
+ },
+ {
+  "path": "/keywords/mei-gu-shou-yi",
+  "name": "每股收益"
+ },
+ {
+  "path": "/keywords/qi-ye-jia-zhi",
+  "name": "企业价值"
+ },
+ {
+  "path": "/keywords/shi-ying-lv",
+  "name": "市盈率"
+ },
+ {
+  "path": "/keywords/shui-qian-li-run",
+  "name": "税前利润"
+ },
+ {
+  "path": "/keywords/wu-xing-zi-chan",
+  "name": "无形资产"
+ },
+ {
+  "path": "/keywords/xian-jin-liu",
+  "name": "现金流"
+ },
+ {
+  "path": "/keywords/ying-li-zhi-liang",
+  "name": "盈利质量"
+ },
+ {
+  "path": "/keywords/zhang-mian-jia-zhi",
+  "name": "账面价值"
+ },
+ {
+  "path": "/keywords/zhen-shi-shou-yi",
+  "name": "真实收益"
+ },
+ {
+  "path": "/keywords/zi-ben-hui-bao-lv",
+  "name": "资本回报率"
+ },
+ {
+  "path": "/keywords/bang-yang",
+  "name": "榜样"
+ },
+ {
+  "path": "/keywords/cai-fu-chuan-cheng",
+  "name": "财富传承"
+ },
+ {
+  "path": "/keywords/cheng-xin",
+  "name": "诚信"
+ },
+ {
+  "path": "/keywords/ci-shan",
+  "name": "慈善"
+ },
+ {
+  "path": "/keywords/gai-zheng-cuo-wu",
+  "name": "改正错误"
+ },
+ {
+  "path": "/keywords/li-cai-jiao-yu",
+  "name": "理财教育"
+ },
+ {
+  "path": "/keywords/li-xing",
+  "name": "理性"
+ },
+ {
+  "path": "/keywords/nai-xin",
+  "name": "耐心"
+ },
+ {
+  "path": "/keywords/pin-ge",
+  "name": "品格"
+ },
+ {
+  "path": "/keywords/nv-xing-ling-dao-li",
+  "name": "女性领导力"
+ },
+ {
+  "path": "/keywords/ren-sheng-xuan-ze",
+  "name": "人生选择"
+ },
+ {
+  "path": "/keywords/she-hui-ze-ren",
+  "name": "社会责任"
+ },
+ {
+  "path": "/keywords/sheng-yu",
+  "name": "声誉"
+ },
+ {
+  "path": "/keywords/tou-zi-zi-ji",
+  "name": "投资自己"
+ },
+ {
+  "path": "/keywords/yi-chan-gui-hua",
+  "name": "遗产规划"
+ },
+ {
+  "path": "/keywords/yue-du",
+  "name": "阅读"
+ },
+ {
+  "path": "/keywords/zi-nv-jiao-yu",
+  "name": "子女教育"
+ },
+ {
   "path": "/articles/company/berkshire-hathaway-energy",
   "name": "伯克希尔能源"
  },
@@ -1268,6 +1600,158 @@
   "name": "沃伦·巴菲特"
  },
  {
+  "path": "/keywords/bao-dan-ding-jia",
+  "name": "保单定价"
+ },
+ {
+  "path": "/keywords/bao-xian-tou-zi-zu-he",
+  "name": "保险投资组合"
+ },
+ {
+  "path": "/keywords/bao-xian-zhou-qi",
+  "name": "保险周期"
+ },
+ {
+  "path": "/keywords/bao-xian",
+  "name": "保险"
+ },
+ {
+  "path": "/keywords/cai-chan-xian",
+  "name": "财产险"
+ },
+ {
+  "path": "/keywords/cheng-bao",
+  "name": "承保"
+ },
+ {
+  "path": "/keywords/cheng-bao-ji-lv",
+  "name": "承保纪律"
+ },
+ {
+  "path": "/keywords/feng-xian-fen-lei",
+  "name": "风险分类"
+ },
+ {
+  "path": "/keywords/fu-cun-jin",
+  "name": "浮存金"
+ },
+ {
+  "path": "/keywords/ju-zai-feng-xian",
+  "name": "巨灾风险"
+ },
+ {
+  "path": "/keywords/yi-wai-xian",
+  "name": "意外险"
+ },
+ {
+  "path": "/keywords/zai-bao-xian",
+  "name": "再保险"
+ },
+ {
+  "path": "/keywords/fang-di-chan",
+  "name": "房地产"
+ },
+ {
+  "path": "/keywords/feng-xian-pian-hao",
+  "name": "风险偏好"
+ },
+ {
+  "path": "/keywords/gang-gan",
+  "name": "杠杆"
+ },
+ {
+  "path": "/keywords/gu-piao-shi-chang",
+  "name": "股票市场"
+ },
+ {
+  "path": "/keywords/jin-rong-wei-ji",
+  "name": "金融危机"
+ },
+ {
+  "path": "/keywords/kong-huang",
+  "name": "恐慌"
+ },
+ {
+  "path": "/keywords/liu-dong-xing",
+  "name": "流动性"
+ },
+ {
+  "path": "/keywords/pao-mo",
+  "name": "泡沫"
+ },
+ {
+  "path": "/keywords/shi-chang-bo-dong",
+  "name": "市场波动"
+ },
+ {
+  "path": "/keywords/shuai-tui",
+  "name": "衰退"
+ },
+ {
+  "path": "/keywords/tou-ji",
+  "name": "投机"
+ },
+ {
+  "path": "/keywords/xia-die",
+  "name": "下跌"
+ },
+ {
+  "path": "/keywords/yan-sheng-pin",
+  "name": "衍生品"
+ },
+ {
+  "path": "/keywords/cai-fu-fen-pei",
+  "name": "财富分配"
+ },
+ {
+  "path": "/keywords/cai-zheng-zheng-ce",
+  "name": "财政政策"
+ },
+ {
+  "path": "/keywords/chi-zi",
+  "name": "赤字"
+ },
+ {
+  "path": "/keywords/huang-jin",
+  "name": "黄金"
+ },
+ {
+  "path": "/keywords/huo-bi-zheng-ce",
+  "name": "货币政策"
+ },
+ {
+  "path": "/keywords/li-lv",
+  "name": "利率"
+ },
+ {
+  "path": "/keywords/mei-guo-jing-ji",
+  "name": "美国经济"
+ },
+ {
+  "path": "/keywords/mei-yuan",
+  "name": "美元"
+ },
+ {
+  "path": "/keywords/qi-ye-shui",
+  "name": "企业税"
+ },
+ {
+  "path": "/keywords/sheng-chan-lv",
+  "name": "生产率"
+ },
+ {
+  "path": "/keywords/tong-huo-peng-zhang",
+  "name": "通货膨胀"
+ },
+ {
+  "path": "/keywords/shui-shou",
+  "name": "税收"
+ },
+ {
+  "path": "/keywords/zheng-fu-zhai-wu",
+  "name": "政府债务"
+ },
+ {
   "path": "/articles/category-overview/bao-xian-ji-qi",
   "name": "巴菲特的保险机器"
  },
@@ -1386,5 +1870,61 @@
  {
   "path": "/articles/timeline/zi-ben-pei-zhi-si-xiang-yan-bian",
   "name": "资本配置思想的演变"
+ },
+ {
+  "path": "/categories/he-xin-zhe-xue",
+  "name": "道 核心哲学 16 篇 长期、理性与不犯大错"
+ },
+ {
+  "path": "/categories/tou-zi-li-nian",
+  "name": "投 投资理念 16 篇 从价值投资到资本配置"
+ },
+ {
+  "path": "/categories/qi-ye-jing-ying",
+  "name": "商 企业经营 16 篇 文化、经理人与股东利益"
+ },
+ {
+  "path": "/categories/cai-wu-zhi-biao",
+  "name": "数 财务指标 18 篇 从账面价值到真实收益"
+ },
+ {
+  "path": "/categories/pin-ge-yu-xin-xing",
+  "name": "心 品格与心性 17 篇 诚信、理性与改正错误"
+ },
+ {
+  "path": "/categories/gong-si",
+  "name": "司 公司 14 篇 伯克希尔如何理解一家公司"
+ },
+ {
+  "path": "/categories/hang-ye",
+  "name": "业 行业 5 篇 银行、报纸、公用事业、铁路与能源"
+ },
+ {
+  "path": "/categories/ren-wu",
+  "name": "人 人物 13 篇 导师、合伙人、经理人与接班人"
+ },
+ {
+  "path": "/categories/bao-xian-fu-cun-jin-yu-feng-xian",
+  "name": "险 保险、浮存金与风险 12 篇 浮存金、承保纪律与巨灾风险"
+ },
+ {
+  "path": "/categories/shi-chang-zhou-qi-yu-feng-xian-kong-zhi",
+  "name": "市 市场周期与风险控制 13 篇 波动、泡沫与风险控制"
+ },
+ {
+  "path": "/categories/hong-guan-jing-ji-yu-tou-zi-huan-jing",
+  "name": "宏 宏观经济与投资环境 13 篇 利率、通胀、美元与美国经济"
+ },
+ {
+  "path": "/categories/fen-lei-zong-lun",
+  "name": "纲 分类总论 12 篇 十二篇主题总论，从这里通览全局"
+ },
+ {
+  "path": "/categories/wen-ti",
+  "name": "问 问题 11 篇 投资者关心的高频问题与解答"
+ },
+ {
+  "path": "/categories/shi-jian-xian",
+  "name": "史 时间线 7 篇 伯克希尔与巴菲特的关键年表"
  }
 ]

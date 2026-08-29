@@ -1,7 +1,5 @@
 # 用户体验
 
-> 来源：https://duan.ayaseeri.com/yonghutiyan
-
 # 用户体验
 
 ## 定义与起源

@@ -1,7 +1,5 @@
 # 创新与敢为天下后
 
-> 来源：https://duan.ayaseeri.com/wenda-business-05
-
 ## 第一节 创新的目的
 
 网友：为什么不喜欢企业“创新”啊，因为啥呢？

@@ -1,7 +1,5 @@
 # 2018年段永平斯坦福大学53问
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2018nian-sitanfu-daxue-53wen
-
 # 2018年段永平斯坦福大学53问
 
 1. 对你来说什么东西是最重要的？为什么？

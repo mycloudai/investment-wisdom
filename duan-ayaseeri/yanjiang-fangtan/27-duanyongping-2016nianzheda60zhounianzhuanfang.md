@@ -1,7 +1,5 @@
 # 2016年浙大60周年专访
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2016nianzheda60zhounianzhuanfang
-
 # 段永平：2016年浙大60周年专访
 
 浙大信电学院60周年校史文集——**段永平**篇：[做对的事情](../zhuti/03-zuoduideshiqing.md)，[把事情做对](../zhuti/04-bashiqingzuodui.md)

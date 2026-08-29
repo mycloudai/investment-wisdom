@@ -1,7 +1,5 @@
 # 净现金
 
-> 来源：https://duan.ayaseeri.com/jingxianjin
-
 # 净现金
 
 ## 定义与起源

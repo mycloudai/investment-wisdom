@@ -1,7 +1,5 @@
 # 黄仁勋：段永平为什么欣赏他
 
-> 来源：https://duan.ayaseeri.com/person-huangrenxun
-
 # 黄仁勋：段永平为什么欣赏他
 
 ## 一句话结论

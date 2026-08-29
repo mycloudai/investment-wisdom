@@ -1,7 +1,5 @@
 # 风险第一：不做空、不借钱、不懂不碰
 
-> 来源：https://duan.ayaseeri.com/wenda-invest-04
-
 ## 第一节 风险考量与纪律
 
 网友：段学长好！我是浙大电机系毕业的，现在在读工程科的PhD。课余我看了一些价值投资方面的书，Graham的《The Intelligent Investor》和《Security Analysis》之类的，也看了巴菲特的传记《Snow Ball》，对价值投资的兴趣越来越浓，很想以此为终身事业，您觉得直接投身到投资领域好吗？

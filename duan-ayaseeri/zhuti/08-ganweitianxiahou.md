@@ -1,7 +1,5 @@
 # 敢为天下后
 
-> 来源：https://duan.ayaseeri.com/ganweitianxiahou
-
 # 敢为天下后
 
 ## 定义与起源

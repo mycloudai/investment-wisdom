@@ -1,7 +1,5 @@
 # 商业模式与投资确定性
 
-> 来源：https://duan.ayaseeri.com/wenda-business-02
-
 ## 第一节 商业模式与好坏生意
 
 网友J：顺便说一下，您说的“净[现金流](../zhuti/16-xianjinliu.md)”换作“自由[现金流](../zhuti/16-xianjinliu.md)”可能对大多数人来说更好理解一些。自由[现金流](../zhuti/16-xianjinliu.md)=经营[现金流](../zhuti/16-xianjinliu.md)-资本支出。

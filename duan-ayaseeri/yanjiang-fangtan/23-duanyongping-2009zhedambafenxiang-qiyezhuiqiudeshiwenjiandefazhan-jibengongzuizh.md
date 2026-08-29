@@ -1,7 +1,5 @@
 # 2009浙大MBA分享：企业追求的是稳健的发展，基本功最重要
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2009zhedambafenxiang-qiyezhuiqiudeshiwenjiandefazhan-jibengongzuizh
-
 # 段永平：2009浙大MBA分享：企业追求的是稳健的发展，基本功最重要
 
 #### 段永平2009浙大MBA分享：企业追求的是稳健的发展，基本功最重要

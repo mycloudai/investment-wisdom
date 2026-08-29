@@ -1,7 +1,5 @@
 # 2025年：方三文对话段永平：做自己能够喜欢的事情很重要
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2025nian-fangsanwenduihuaduanyongping-zuozijinenggouxihuandeshiqing
-
 > 彦鑫：本文为雪球创始人**方三文**与**段永平**的对话实录，**段永平**分享了从农村成长到创办**步步高**的经历，拆解 “[本分](../zhuti/01-benfen.md)、诚信” 的[企业文化](../zhuti/26-qiyewenhua.md)；直言 “买股票就是买公司”，详解介绍投资**网易**、**苹果**、**茅台**等标的逻辑；还谈及 AI 影响、子女教育等话题。他的观点不绕弯、接地气，既有商业智慧，也有生活通透感，能为你在工作、投资或育儿上带来不少启发。
 
 ## 01 聊个人经历

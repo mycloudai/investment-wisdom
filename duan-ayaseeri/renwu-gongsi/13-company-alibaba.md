@@ -1,7 +1,5 @@
 # 阿里巴巴：段永平为什么曾高度评价又保留
 
-> 来源：https://duan.ayaseeri.com/company-alibaba
-
 # 阿里巴巴：段永平为什么曾高度评价又保留
 
 ## 一句话结论

@@ -1,7 +1,5 @@
 # 泡泡玛特有定价权吗：段永平视角下的提价能力
 
-> 来源：https://duan.ayaseeri.com/company-pop-mart
-
 # 泡泡玛特有定价权吗：段永平视角下的提价能力
 
 ## 一句话结论

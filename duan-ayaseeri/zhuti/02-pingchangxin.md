@@ -1,7 +1,5 @@
 # 平常心
 
-> 来源：https://duan.ayaseeri.com/pingchangxin
-
 # 平常心
 
 ## 定义与起源

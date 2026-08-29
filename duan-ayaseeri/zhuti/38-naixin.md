@@ -1,7 +1,5 @@
 # 耐心
 
-> 来源：https://duan.ayaseeri.com/naixin
-
 # 耐心
 
 ## 定义与起源

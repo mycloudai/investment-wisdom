@@ -1,7 +1,5 @@
 # 投机
 
-> 来源：https://duan.ayaseeri.com/touji
-
 # 投机
 
 ## 定义与起源

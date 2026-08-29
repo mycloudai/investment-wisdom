@@ -1,7 +1,5 @@
 # 品牌
 
-> 来源：https://duan.ayaseeri.com/pinpai
-
 # 品牌
 
 ## 定义与起源

@@ -1,7 +1,5 @@
 # 安全边际
 
-> 来源：https://duan.ayaseeri.com/anquanbianji
-
 # 安全边际
 
 ## 定义与起源

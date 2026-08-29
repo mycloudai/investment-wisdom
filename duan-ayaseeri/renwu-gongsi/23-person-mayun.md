@@ -1,7 +1,5 @@
 # 马云：段永平为什么一直认为他了不起
 
-> 来源：https://duan.ayaseeri.com/person-mayun
-
 # 马云：段永平为什么一直认为他了不起
 
 ## 一句话结论

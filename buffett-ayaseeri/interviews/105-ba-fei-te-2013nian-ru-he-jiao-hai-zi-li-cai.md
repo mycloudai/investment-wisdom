@@ -1,7 +1,5 @@
 # 巴菲特：2013年如何教孩子理财
 
-> 来源：https://buffett.ayaseeri.com/sources/interviews/ba-fei-te-2013nian-ru-he-jiao-hai-zi-li-cai
-
 # 巴菲特：2013年如何教孩子理财
 
 访谈与文章

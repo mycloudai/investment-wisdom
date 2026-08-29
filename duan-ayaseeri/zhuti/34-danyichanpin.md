@@ -1,7 +1,5 @@
 # 单一产品
 
-> 来源：https://duan.ayaseeri.com/danyichanpin
-
 # 单一产品
 
 ## 定义与起源

@@ -1,7 +1,5 @@
 # 2000年 《销售与市场》杂志专访
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2000nian-xiaoshouyushichang-zazhizhuanfang
-
 **段永平**：2000年 《销售与市场》杂志专访
 
 **步步高**：我是个诚实上进的青年男人 —— 访问**步步高**总裁**段永平**先生记录

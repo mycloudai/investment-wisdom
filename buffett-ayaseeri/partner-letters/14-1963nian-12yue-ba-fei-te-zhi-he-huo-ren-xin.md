@@ -1,7 +1,5 @@
 # 1963年12月 巴菲特致合伙人信
 
-> 来源：https://buffett.ayaseeri.com/sources/partner-letters/1963nian-12yue-ba-fei-te-zhi-he-huo-ren-xin
-
 # 1963年12月 巴菲特致合伙人信
 
 致合伙人信
@@ -16,7 +14,7 @@
 
 致全体有限合伙人：
 
-以下税务信息极为重要。如果您自己申报税表，请务必仔细[阅读](https://buffett.ayaseeri.com/keywords/yue-du)；如果您委托税务顾问代为申报，请将本信转交给他。
+以下税务信息极为重要。如果您自己申报税表，请务必仔细[阅读](../keywords/082-yue-du.md)；如果您委托税务顾问代为申报，请将本信转交给他。
 
 （1）如果您本年度收到了合伙企业的任何分配款，在申报联邦所得税时请忽略这些金额。
 

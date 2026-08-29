@@ -1,7 +1,5 @@
 # 2025年vivo 30周年纪念晚宴沈炜致辞
 
-> 来源：https://duan.ayaseeri.com/shenwei-2025nian-vivo-30zhounian-wanyan-zhici
-
 # 2025年vivo 30周年纪念晚宴沈炜致辞
 
 **尊敬的阿段**，亲爱的各位同事，各位代理老板及伙伴嘉宾们，各位老朋友和兄弟姐妹们：

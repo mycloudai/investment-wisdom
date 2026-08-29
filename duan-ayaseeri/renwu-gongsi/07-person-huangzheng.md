@@ -1,7 +1,5 @@
 # 黄峥：段永平为什么高度评价他
 
-> 来源：https://duan.ayaseeri.com/person-huangzheng
-
 # 黄峥：段永平为什么高度评价他
 
 ## 一句话结论

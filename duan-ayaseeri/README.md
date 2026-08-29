@@ -1,6 +1,6 @@
 # 段永平投资问答录（duan.ayaseeri.com）
 
-全站 154 篇，按网站原始阅读顺序编号。来源：[duan.ayaseeri.com](https://duan.ayaseeri.com/)
+全站 154 篇，按网站原始阅读顺序编号。来源：duan.ayaseeri.com
 
 ## 主题精选（48 篇）
 

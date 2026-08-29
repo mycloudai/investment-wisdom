@@ -1,7 +1,5 @@
 # 现金流
 
-> 来源：https://duan.ayaseeri.com/xianjinliu
-
 # 现金流
 
 ## 定义与起源

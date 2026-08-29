@@ -1,7 +1,5 @@
 # 泡泡玛特
 
-> 来源：https://duan.ayaseeri.com/wenda-company-pop-mart
-
 ## 第一节 泡泡玛特
 
 网友：大道老师是否能看懂泡泡玛特这个新消费，它被称为泡泡**茅台**。

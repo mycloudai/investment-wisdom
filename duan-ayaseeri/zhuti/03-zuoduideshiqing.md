@@ -1,7 +1,5 @@
 # 做对的事情
 
-> 来源：https://duan.ayaseeri.com/zuoduideshiqing
-
 # 做对的事情
 
 ## 定义与起源

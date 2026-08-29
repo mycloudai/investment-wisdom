@@ -1,7 +1,5 @@
 # 段永平推荐书单
 
-> 来源：https://duan.ayaseeri.com/tuijianshudan
-
 # 段永平推荐书单
 
 **段永平**很少完整看完一本书，多数书他只是“翻一翻”。他一再强调：

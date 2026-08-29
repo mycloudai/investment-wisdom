@@ -1,7 +1,5 @@
 # 进取心
 
-> 来源：https://duan.ayaseeri.com/jinquxin
-
 # 进取心
 
 ## 定义与起源

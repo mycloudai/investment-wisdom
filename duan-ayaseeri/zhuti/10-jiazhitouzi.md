@@ -1,7 +1,5 @@
 # 价值投资
 
-> 来源：https://duan.ayaseeri.com/jiazhitouzi
-
 # 价值投资
 
 ## 定义与起源

@@ -1,7 +1,5 @@
 # 查理芒格：2020年Dr Sabrina Kay对谈—人性与投资
 
-> 来源：https://munger.ayaseeri.com/sources/%E6%9F%A5%E7%90%86%E8%8A%92%E6%A0%BC-2020%E5%B9%B4dr-sabrina-kay%E5%AF%B9%E8%B0%88%E2%80%94%E4%BA%BA%E6%80%A7%E4%B8%8E%E6%8A%95%E8%B5%84
-
 ### 1.我年轻时曾试图缩短我的生命而不是延长我的生命
 
 **Sabrina**：查理，你永葆青春的秘密是什么？

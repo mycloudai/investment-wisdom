@@ -1,7 +1,5 @@
 # 商业模式
 
-> 来源：https://duan.ayaseeri.com/shangyemoshi
-
 # 商业模式
 
 > 注：**段永平**本人更常使用"**生意模式**"一词，两者含义相同。

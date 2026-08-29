@@ -1,7 +1,5 @@
 # 段永平高度评价过的公司
 
-> 来源：https://duan.ayaseeri.com/topic-highly-rated-companies
-
 # 段永平高度评价过的公司
 
 ## 一句话结论

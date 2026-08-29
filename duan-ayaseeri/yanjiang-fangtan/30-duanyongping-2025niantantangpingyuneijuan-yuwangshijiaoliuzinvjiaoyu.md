@@ -1,7 +1,5 @@
 # 2025年谈躺平与内卷、与王石交流子女教育
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2025niantantangpingyuneijuan-yuwangshijiaoliuzinvjiaoyu
-
 # 段永平：2025年谈躺平与内卷、与王石交流子女教育
 
 > 彦鑫：今天的信件内容来自**段永平**参与《共同说》节目的最新访谈，与**王石**、田朴珺围绕投资逻辑、[企业文化](../zhuti/26-qiyewenhua.md)与传承、[本分](../zhuti/01-benfen.md)与[平常心](../zhuti/02-pingchangxin.md)、低调与放权、营销心法、如何面对内卷与躺平、子女教育、**巴菲特**午餐的启示、AI与未来等话题展开的一场深度对谈。

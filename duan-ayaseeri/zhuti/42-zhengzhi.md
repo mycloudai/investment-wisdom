@@ -1,7 +1,5 @@
 # 正直
 
-> 来源：https://duan.ayaseeri.com/zhengzhi
-
 # 正直
 
 ## 定义与起源

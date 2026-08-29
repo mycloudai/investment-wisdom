@@ -1,7 +1,5 @@
 # 定价权
 
-> 来源：https://duan.ayaseeri.com/dingjiaquan
-
 # 定价权
 
 ## 定义与起源

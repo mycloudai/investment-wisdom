@@ -1,7 +1,5 @@
 # 职业、创业与享受过程
 
-> 来源：https://duan.ayaseeri.com/wenda-life-03
-
 ## 第一节 职业选择与创业
 
 网友：创业者总体是有渴望赢的野心的一群人。我直觉上认为这与胸无大志的[平常心](../zhuti/02-pingchangxin.md)看似矛盾。

@@ -1,7 +1,5 @@
 # 2009年 深度专访： 探讨公益人生，分享成功体会
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2009nian-shenduzhuanfang-tantaogongyirensheng-fenxiangchenggongtihu
-
 # 段永平：2009年 深度专访—— 探讨公益人生，分享成功体会
 
 采访记者：李倩倩、康艳丽

@@ -1,7 +1,5 @@
 # 新东方：段永平为什么既认可又保留
 
-> 来源：https://duan.ayaseeri.com/company-new-oriental
-
 # 新东方：段永平为什么既认可又保留
 
 ## 一句话结论

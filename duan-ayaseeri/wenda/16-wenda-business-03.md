@@ -1,7 +1,5 @@
 # 护城河与差异化
 
-> 来源：https://duan.ayaseeri.com/wenda-business-03
-
 ## 第一节 护城河的本质
 
 网友A：有同感，他特别强调定价权，[现金流](../zhuti/16-xianjinliu.md)，盈利能力。

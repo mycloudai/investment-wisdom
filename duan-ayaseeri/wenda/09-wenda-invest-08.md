@@ -1,7 +1,5 @@
 # 买卖时机与“持有就是买入”
 
-> 来源：https://duan.ayaseeri.com/wenda-invest-08
-
 ## 第一节 持有就是买入
 
 网友：持有等于买入，是否在讲“为卖出而买入(buy to sell )”和“为持有而买入( buy to keep)”的区别呢？

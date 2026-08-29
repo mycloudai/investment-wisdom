@@ -1,7 +1,5 @@
 # 段永平高度评价过的人
 
-> 来源：https://duan.ayaseeri.com/topic-highly-rated-people
-
 # 段永平高度评价过的人
 
 ## 一句话结论

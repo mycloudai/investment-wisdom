@@ -1,7 +1,5 @@
 # 2024年费德勒演讲：最优秀的人，也经常失败
 
-> 来源：https://duan.ayaseeri.com/feidele-2024nian-biyeyanjiang
-
 # 2024年费德勒演讲：最优秀的人，也经常失败
 
 ## 开场致辞

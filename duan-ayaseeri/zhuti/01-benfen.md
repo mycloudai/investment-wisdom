@@ -1,7 +1,5 @@
 # 本分
 
-> 来源：https://duan.ayaseeri.com/benfen
-
 # 本分
 
 ## 定义与起源

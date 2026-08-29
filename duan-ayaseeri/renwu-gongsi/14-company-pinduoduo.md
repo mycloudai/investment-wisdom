@@ -1,7 +1,5 @@
 # 拼多多：段永平如何看这家公司
 
-> 来源：https://duan.ayaseeri.com/company-pinduoduo
-
 # 拼多多：段永平如何看这家公司
 
 ## 一句话结论

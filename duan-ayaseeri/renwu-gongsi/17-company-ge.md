@@ -1,7 +1,5 @@
 # GE：段永平为什么后来修正这笔投资
 
-> 来源：https://duan.ayaseeri.com/company-ge
-
 # GE：段永平为什么后来修正这笔投资
 
 ## 一句话结论

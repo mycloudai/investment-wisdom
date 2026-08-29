@@ -1,7 +1,5 @@
 # 巴菲特：段永平为什么高度尊重他
 
-> 来源：https://duan.ayaseeri.com/person-buffett
-
 # 巴菲特：段永平为什么高度尊重他
 
 ## 一句话结论

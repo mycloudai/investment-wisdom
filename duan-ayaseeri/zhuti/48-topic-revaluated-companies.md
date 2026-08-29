@@ -1,7 +1,5 @@
 # 段永平正在重估的公司
 
-> 来源：https://duan.ayaseeri.com/topic-revaluated-companies
-
 # 段永平正在重估的公司
 
 ## 一句话结论

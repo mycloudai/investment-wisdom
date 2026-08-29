@@ -1,7 +1,5 @@
 # 平台
 
-> 来源：https://duan.ayaseeri.com/pingtai
-
 # 平台
 
 ## 定义与起源

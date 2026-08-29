@@ -1,7 +1,5 @@
 # 差异化
 
-> 来源：https://duan.ayaseeri.com/chayihua
-
 # 差异化
 
 ## 定义与起源

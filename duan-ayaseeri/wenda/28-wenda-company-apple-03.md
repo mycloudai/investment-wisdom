@@ -1,7 +1,5 @@
 # 苹果：估值、持有与资本配置
 
-> 来源：https://duan.ayaseeri.com/wenda-company-apple-03
-
 ## 第一节 看懂苹果、估值与长期风险
 
 网友：淘宝加支付宝的那个500亿是怎么估计的呢？eBay也只卖300亿呢。

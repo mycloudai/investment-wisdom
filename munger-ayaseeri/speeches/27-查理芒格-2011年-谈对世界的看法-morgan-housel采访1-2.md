@@ -1,7 +1,5 @@
 # 查理芒格：2011年 谈对世界的看法-Morgan Housel采访1-2
 
-> 来源：https://munger.ayaseeri.com/sources/%E6%9F%A5%E7%90%86%E8%8A%92%E6%A0%BC-2011%E5%B9%B4-%E8%B0%88%E5%AF%B9%E4%B8%96%E7%95%8C%E7%9A%84%E7%9C%8B%E6%B3%95-morgan-housel%E9%87%87%E8%AE%BF1-2
-
 ---
 
 **关于会计师：**

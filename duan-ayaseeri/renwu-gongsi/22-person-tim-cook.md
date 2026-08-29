@@ -1,7 +1,5 @@
 # 库克：段永平为什么认为他是更好的 CEO
 
-> 来源：https://duan.ayaseeri.com/person-tim-cook
-
 # 库克：段永平为什么认为他是更好的 CEO
 
 ## 一句话结论

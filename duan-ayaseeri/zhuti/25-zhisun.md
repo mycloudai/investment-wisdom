@@ -1,7 +1,5 @@
 # 止损
 
-> 来源：https://duan.ayaseeri.com/zhisun
-
 # 止损
 
 ## 定义与起源

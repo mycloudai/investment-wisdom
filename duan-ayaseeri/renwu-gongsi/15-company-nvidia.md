@@ -1,7 +1,5 @@
 # 英伟达：段永平为什么说它厉害但难看懂
 
-> 来源：https://duan.ayaseeri.com/company-nvidia
-
 # 英伟达：段永平为什么说它厉害但难看懂
 
 ## 一句话结论

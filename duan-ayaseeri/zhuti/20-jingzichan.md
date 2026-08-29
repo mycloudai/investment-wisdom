@@ -1,7 +1,5 @@
 # 扣除商誉的净资产
 
-> 来源：https://duan.ayaseeri.com/jingzichan
-
 # 扣除商誉的净资产
 
 ## 定义与起源

@@ -1,7 +1,5 @@
 # 1998年巴菲特佛罗里达大学演讲
 
-> 来源：https://duan.ayaseeri.com/buffett-1998nian-foluolida-daxue-yanjiang
-
 # 1998年巴菲特佛罗里达大学演讲
 
 **1998 年10 月15 日**

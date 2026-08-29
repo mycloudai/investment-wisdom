@@ -1021,26 +1021,1136 @@
  },
  {
   "cat": "guides",
-  "file": "01-thinking-grids.md",
-  "slug": "/thinking-grids",
-  "title": "思维格栅"
- },
- {
-  "cat": "guides",
-  "file": "02-stop-doing.md",
+  "file": "01-stop-doing.md",
   "slug": "/stop-doing",
   "title": "不可为清单"
  },
  {
   "cat": "guides",
-  "file": "03-seeking-wisdom-中文版.md",
+  "file": "02-seeking-wisdom-中文版.md",
   "slug": "/sources/seeking-wisdom-中文版",
   "title": "探索智慧"
  },
  {
   "cat": "guides",
-  "file": "04-book-list.md",
+  "file": "03-book-list.md",
   "slug": "/book-list",
   "title": "芒格书单"
+ },
+ {
+  "cat": "topics",
+  "file": "01-investment-principles.md",
+  "slug": "/topics/investment-principles",
+  "title": "投 投资原则 投资判断、资本配置、长期复利和商业质量。 11 篇"
+ },
+ {
+  "cat": "topics",
+  "file": "02-mental-model-lectures.md",
+  "slug": "/topics/mental-model-lectures",
+  "title": "思 思维模型讲义 从多元思维模型到终身学习的十二课，覆盖硬科学、误判心理学、商业判断与行动纪律。 12 篇"
+ },
+ {
+  "cat": "topics",
+  "file": "03-human-misjudgment.md",
+  "slug": "/topics/human-misjudgment",
+  "title": "人 人性偏误 心理倾向、误判机制、群体行为和 lollapalooza 叠加效应。 8 篇"
+ },
+ {
+  "cat": "topics",
+  "file": "04-character-conduct.md",
+  "slug": "/topics/character-conduct",
+  "title": "品 品格处世 可靠、诚信、勤奋、好奇心和长期可信度。 8 篇"
+ },
+ {
+  "cat": "topics",
+  "file": "05-frequently-cited-people.md",
+  "slug": "/topics/frequently-cited-people",
+  "title": "常 常引用人物 芒格反复引用的人物和思想参照。 6 篇"
+ },
+ {
+  "cat": "topics",
+  "file": "06-company-cases.md",
+  "slug": "/topics/company-cases",
+  "title": "公 公司案例 把公司作为理解芒格思想的案例载体。 10 篇"
+ },
+ {
+  "cat": "topics",
+  "file": "07-disciplines.md",
+  "slug": "/topics/disciplines",
+  "title": "学 学科体系 心理学、工程学、会计学、历史和基础模型。 8 篇"
+ },
+ {
+  "cat": "topics",
+  "file": "08-macro-warnings.md",
+  "slug": "/topics/macro-warnings",
+  "title": "宏 宏观警示 通胀、利率、泡沫、杠杆和金融系统风险。 10 篇"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "001-五何-原则.md",
+  "slug": "/thinking-grids/五何-原则",
+  "title": "“五何”原则"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "002-二阶效应.md",
+  "slug": "/thinking-grids/二阶效应",
+  "title": "二阶效应"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "003-双轨分析.md",
+  "slug": "/thinking-grids/双轨分析",
+  "title": "双轨分析"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "004-可证伪性标准.md",
+  "slug": "/thinking-grids/可证伪性标准",
+  "title": "可证伪性标准"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "005-否证思维.md",
+  "slug": "/thinking-grids/否证思维",
+  "title": "否证思维"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "006-地图不是疆域.md",
+  "slug": "/thinking-grids/地图不是疆域",
+  "title": "地图不是疆域"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "007-多元思维模型框架.md",
+  "slug": "/thinking-grids/多元思维模型框架",
+  "title": "多元思维模型框架"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "008-奥卡姆剃刀.md",
+  "slug": "/thinking-grids/奥卡姆剃刀",
+  "title": "奥卡姆剃刀"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "009-思想实验.md",
+  "slug": "/thinking-grids/思想实验",
+  "title": "思想实验"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "010-极端情景模拟.md",
+  "slug": "/thinking-grids/极端情景模拟",
+  "title": "极端情景模拟"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "011-检查清单方法.md",
+  "slug": "/thinking-grids/检查清单方法",
+  "title": "检查清单方法"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "012-汉隆剃刀.md",
+  "slug": "/thinking-grids/汉隆剃刀",
+  "title": "汉隆剃刀"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "013-物理学妒忌.md",
+  "slug": "/thinking-grids/物理学妒忌",
+  "title": "物理学妒忌"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "014-第一性原理思维.md",
+  "slug": "/thinking-grids/第一性原理思维",
+  "title": "第一性原理思维"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "015-置信度校准.md",
+  "slug": "/thinking-grids/置信度校准",
+  "title": "置信度校准"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "016-能力圈.md",
+  "slug": "/thinking-grids/能力圈",
+  "title": "能力圈"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "017-费曼技巧.md",
+  "slug": "/thinking-grids/费曼技巧",
+  "title": "费曼技巧"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "018-跨学科思维.md",
+  "slug": "/thinking-grids/跨学科思维",
+  "title": "跨学科思维"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "019-逆向思维.md",
+  "slug": "/thinking-grids/逆向思维",
+  "title": "逆向思维"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "020-避免意识形态偏见.md",
+  "slug": "/thinking-grids/避免意识形态偏见",
+  "title": "避免意识形态偏见"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "021-避蠢优于求智.md",
+  "slug": "/thinking-grids/避蠢优于求智",
+  "title": "避蠢优于求智"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "022-重复有效的行为.md",
+  "slug": "/thinking-grids/重复有效的行为",
+  "title": "重复有效的行为"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "023-铁锤人倾向.md",
+  "slug": "/thinking-grids/铁锤人倾向",
+  "title": "铁锤人倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "024-创始人的悖论.md",
+  "slug": "/thinking-grids/创始人的悖论",
+  "title": "创始人的悖论"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "025-不对称性与凸性.md",
+  "slug": "/thinking-grids/不对称性与凸性",
+  "title": "不对称性与凸性"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "026-乘法系统思维.md",
+  "slug": "/thinking-grids/乘法系统思维",
+  "title": "乘法系统思维"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "027-决策树理论.md",
+  "slug": "/thinking-grids/决策树理论",
+  "title": "决策树理论"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "028-博弈论基础.md",
+  "slug": "/thinking-grids/博弈论基础",
+  "title": "博弈论基础"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "029-回归均值.md",
+  "slug": "/thinking-grids/回归均值",
+  "title": "回归均值"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "030-基本算术与数量级估算.md",
+  "slug": "/thinking-grids/基本算术与数量级估算",
+  "title": "基本算术与数量级估算"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "031-复利效应.md",
+  "slug": "/thinking-grids/复利效应",
+  "title": "复利效应"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "032-大数定律.md",
+  "slug": "/thinking-grids/大数定律",
+  "title": "大数定律"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "033-帕累托法则.md",
+  "slug": "/thinking-grids/帕累托法则",
+  "title": "帕累托法则"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "034-排列组合原理.md",
+  "slug": "/thinking-grids/排列组合原理",
+  "title": "排列组合原理"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "035-样本量与统计显著性.md",
+  "slug": "/thinking-grids/样本量与统计显著性",
+  "title": "样本量与统计显著性"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "036-概率思维与期望值.md",
+  "slug": "/thinking-grids/概率思维与期望值",
+  "title": "概率思维与期望值"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "037-正态与非正态分布.md",
+  "slug": "/thinking-grids/正态与非正态分布",
+  "title": "正态与非正态分布"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "038-相关不等于因果.md",
+  "slug": "/thinking-grids/相关不等于因果",
+  "title": "相关不等于因果"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "039-贝叶斯更新.md",
+  "slug": "/thinking-grids/贝叶斯更新",
+  "title": "贝叶斯更新"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "040-边际分析.md",
+  "slug": "/thinking-grids/边际分析",
+  "title": "边际分析"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "041-动量与惯性.md",
+  "slug": "/thinking-grids/动量与惯性",
+  "title": "动量与惯性"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "042-叠加原理与涌现.md",
+  "slug": "/thinking-grids/叠加原理与涌现",
+  "title": "叠加原理与涌现"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "043-可逆性与不可逆性.md",
+  "slug": "/thinking-grids/可逆性与不可逆性",
+  "title": "可逆性与不可逆性"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "044-均衡与远离均衡态.md",
+  "slug": "/thinking-grids/均衡与远离均衡态",
+  "title": "均衡与远离均衡态"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "045-灭绝与不可逆性.md",
+  "slug": "/thinking-grids/灭绝与不可逆性",
+  "title": "灭绝与不可逆性"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "046-相变与临界现象.md",
+  "slug": "/thinking-grids/相变与临界现象",
+  "title": "相变与临界现象"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "047-能量守恒.md",
+  "slug": "/thinking-grids/能量守恒",
+  "title": "能量守恒"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "048-摩尔定律.md",
+  "slug": "/thinking-grids/摩尔定律",
+  "title": "摩尔定律"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "049-冗余备份系统.md",
+  "slug": "/thinking-grids/冗余备份系统",
+  "title": "冗余备份系统"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "050-单点故障.md",
+  "slug": "/thinking-grids/单点故障",
+  "title": "单点故障"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "051-可维护性设计.md",
+  "slug": "/thinking-grids/可维护性设计",
+  "title": "可维护性设计"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "052-安全边际.md",
+  "slug": "/thinking-grids/安全边际",
+  "title": "安全边际"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "053-容错设计与优雅降级.md",
+  "slug": "/thinking-grids/容错设计与优雅降级",
+  "title": "容错设计与优雅降级"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "054-故障模式分析.md",
+  "slug": "/thinking-grids/故障模式分析",
+  "title": "故障模式分析"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "055-正常事故.md",
+  "slug": "/thinking-grids/正常事故",
+  "title": "正常事故"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "056-系统思维.md",
+  "slug": "/thinking-grids/系统思维",
+  "title": "系统思维"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "057-紧耦合与松耦合.md",
+  "slug": "/thinking-grids/紧耦合与松耦合",
+  "title": "紧耦合与松耦合"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "058-自动化与检查清单.md",
+  "slug": "/thinking-grids/自动化与检查清单",
+  "title": "自动化与检查清单"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "059-质量控制.md",
+  "slug": "/thinking-grids/质量控制",
+  "title": "质量控制"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "060-迭代与原型.md",
+  "slug": "/thinking-grids/迭代与原型",
+  "title": "迭代与原型"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "061-临界质量.md",
+  "slug": "/thinking-grids/临界质量",
+  "title": "临界质量"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "062-反脆弱.md",
+  "slug": "/thinking-grids/反脆弱",
+  "title": "反脆弱"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "063-反馈环.md",
+  "slug": "/thinking-grids/反馈环",
+  "title": "反馈环"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "064-复杂系统.md",
+  "slug": "/thinking-grids/复杂系统",
+  "title": "复杂系统"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "065-延迟效应.md",
+  "slug": "/thinking-grids/延迟效应",
+  "title": "延迟效应"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "066-网络理论.md",
+  "slug": "/thinking-grids/网络理论",
+  "title": "网络理论"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "067-自组织临界性.md",
+  "slug": "/thinking-grids/自组织临界性",
+  "title": "自组织临界性"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "068-路径依赖.md",
+  "slug": "/thinking-grids/路径依赖",
+  "title": "路径依赖"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "069-非线性后果.md",
+  "slug": "/thinking-grids/非线性后果",
+  "title": "非线性后果"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "070-医源性损伤.md",
+  "slug": "/thinking-grids/医源性损伤",
+  "title": "医源性损伤"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "071-扩散模型.md",
+  "slug": "/thinking-grids/扩散模型",
+  "title": "扩散模型"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "072-信号理论.md",
+  "slug": "/thinking-grids/信号理论",
+  "title": "信号理论"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "073-利基分化.md",
+  "slug": "/thinking-grids/利基分化",
+  "title": "利基分化"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "074-协同进化.md",
+  "slug": "/thinking-grids/协同进化",
+  "title": "协同进化"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "075-寄生与共生.md",
+  "slug": "/thinking-grids/寄生与共生",
+  "title": "寄生与共生"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "076-指数增长与种群动力学.md",
+  "slug": "/thinking-grids/指数增长与种群动力学",
+  "title": "指数增长与种群动力学"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "077-现代达尔文综合.md",
+  "slug": "/thinking-grids/现代达尔文综合",
+  "title": "现代达尔文综合"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "078-瓶颈效应与创始人效应.md",
+  "slug": "/thinking-grids/瓶颈效应与创始人效应",
+  "title": "瓶颈效应与创始人效应"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "079-生态系统思维.md",
+  "slug": "/thinking-grids/生态系统思维",
+  "title": "生态系统思维"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "080-红皇后效应.md",
+  "slug": "/thinking-grids/红皇后效应",
+  "title": "红皇后效应"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "081-自然选择与适者生存.md",
+  "slug": "/thinking-grids/自然选择与适者生存",
+  "title": "自然选择与适者生存"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "082-表观遗传学.md",
+  "slug": "/thinking-grids/表观遗传学",
+  "title": "表观遗传学"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "083-趋同进化.md",
+  "slug": "/thinking-grids/趋同进化",
+  "title": "趋同进化"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "084-适应性.md",
+  "slug": "/thinking-grids/适应性",
+  "title": "适应性"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "085-适应性辐射.md",
+  "slug": "/thinking-grids/适应性辐射",
+  "title": "适应性辐射"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "086-间断均衡.md",
+  "slug": "/thinking-grids/间断均衡",
+  "title": "间断均衡"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "087-lollapalooza-倾向.md",
+  "slug": "/thinking-grids/lollapalooza-倾向",
+  "title": "Lollapalooza 倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "088-习惯循环.md",
+  "slug": "/thinking-grids/习惯循环",
+  "title": "习惯循环"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "089-承诺装置.md",
+  "slug": "/thinking-grids/承诺装置",
+  "title": "承诺装置"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "090-化学物质错误影响倾向.md",
+  "slug": "/thinking-grids/化学物质错误影响倾向",
+  "title": "化学物质错误影响倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "091-压力影响倾向.md",
+  "slug": "/thinking-grids/压力影响倾向",
+  "title": "压力影响倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "092-受简单联想影响的倾向.md",
+  "slug": "/thinking-grids/受简单联想影响的倾向",
+  "title": "受简单联想影响的倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "093-叙事谬误.md",
+  "slug": "/thinking-grids/叙事谬误",
+  "title": "叙事谬误"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "094-可变奖励.md",
+  "slug": "/thinking-grids/可变奖励",
+  "title": "可变奖励"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "095-喜欢.md",
+  "slug": "/thinking-grids/喜欢",
+  "title": "喜欢与讨厌倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "096-回馈倾向.md",
+  "slug": "/thinking-grids/回馈倾向",
+  "title": "回馈倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "097-好奇心倾向.md",
+  "slug": "/thinking-grids/好奇心倾向",
+  "title": "好奇心倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "098-独立思考.md",
+  "slug": "/thinking-grids/独立思考",
+  "title": "独立思考"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "099-终身学习.md",
+  "slug": "/thinking-grids/终身学习",
+  "title": "终身学习"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "100-耐心与纪律.md",
+  "slug": "/thinking-grids/耐心与纪律",
+  "title": "耐心与纪律"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "101-认知谦逊.md",
+  "slug": "/thinking-grids/认知谦逊",
+  "title": "认知谦逊"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "102-对比错误反应倾向.md",
+  "slug": "/thinking-grids/对比错误反应倾向",
+  "title": "对比错误反应倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "103-幸存者偏差.md",
+  "slug": "/thinking-grids/幸存者偏差",
+  "title": "幸存者偏差"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "104-废话倾向.md",
+  "slug": "/thinking-grids/废话倾向",
+  "title": "废话倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "105-康德式公平倾向.md",
+  "slug": "/thinking-grids/康德式公平倾向",
+  "title": "康德式公平倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "106-心理账户.md",
+  "slug": "/thinking-grids/心理账户",
+  "title": "心理账户"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "107-损失厌恶.md",
+  "slug": "/thinking-grids/损失厌恶",
+  "title": "损失厌恶"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "108-权威错误影响倾向.md",
+  "slug": "/thinking-grids/权威错误影响倾向",
+  "title": "权威错误影响倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "109-沉没成本谬误.md",
+  "slug": "/thinking-grids/沉没成本谬误",
+  "title": "沉没成本谬误"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "110-狄德罗效应.md",
+  "slug": "/thinking-grids/狄德罗效应",
+  "title": "狄德罗效应"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "111-社会认同.md",
+  "slug": "/thinking-grids/社会认同",
+  "title": "社会认同"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "112-简单的避免痛苦的心理否认.md",
+  "slug": "/thinking-grids/简单的避免痛苦的心理否认",
+  "title": "简单的避免痛苦的心理否认"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "113-自视过高的倾向.md",
+  "slug": "/thinking-grids/自视过高的倾向",
+  "title": "自视过高的倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "114-艳羡与妒忌倾向.md",
+  "slug": "/thinking-grids/艳羡与妒忌倾向",
+  "title": "艳羡与妒忌倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "115-衰老错误影响倾向.md",
+  "slug": "/thinking-grids/衰老错误影响倾向",
+  "title": "衰老错误影响倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "116-身份灵活性.md",
+  "slug": "/thinking-grids/身份灵活性",
+  "title": "身份灵活性"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "117-过度乐观倾向.md",
+  "slug": "/thinking-grids/过度乐观倾向",
+  "title": "过度乐观倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "118-避免不一致性倾向.md",
+  "slug": "/thinking-grids/避免不一致性倾向",
+  "title": "避免不一致性倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "119-避免怀疑倾向.md",
+  "slug": "/thinking-grids/避免怀疑倾向",
+  "title": "避免怀疑倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "120-重视理由倾向.md",
+  "slug": "/thinking-grids/重视理由倾向",
+  "title": "重视理由倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "121-错误衡量易得性倾向.md",
+  "slug": "/thinking-grids/错误衡量易得性倾向",
+  "title": "错误衡量易得性倾向"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "122-锚定效应.md",
+  "slug": "/thinking-grids/锚定效应",
+  "title": "锚定效应"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "123-前景理论和价值函数.md",
+  "slug": "/thinking-grids/前景理论和价值函数",
+  "title": "前景理论和价值函数"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "124-爱情三角理论.md",
+  "slug": "/thinking-grids/爱情三角理论",
+  "title": "爱情三角理论"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "125-确认偏误.md",
+  "slug": "/thinking-grids/确认偏误",
+  "title": "确认偏误"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "126-专利权-商标权与特许经营权.md",
+  "slug": "/thinking-grids/专利权-商标权与特许经营权",
+  "title": "专利权、商标权与特许经营权"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "127-交易成本.md",
+  "slug": "/thinking-grids/交易成本",
+  "title": "交易成本"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "128-价格弹性与定价权.md",
+  "slug": "/thinking-grids/价格弹性与定价权",
+  "title": "价格弹性与定价权"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "129-价格歧视.md",
+  "slug": "/thinking-grids/价格歧视",
+  "title": "价格歧视"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "130-供给与需求.md",
+  "slug": "/thinking-grids/供给与需求",
+  "title": "供给与需求"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "131-信息不对称.md",
+  "slug": "/thinking-grids/信息不对称",
+  "title": "信息不对称"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "132-冲浪模型.md",
+  "slug": "/thinking-grids/冲浪模型",
+  "title": "冲浪模型"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "133-囚徒困境.md",
+  "slug": "/thinking-grids/囚徒困境",
+  "title": "囚徒困境"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "134-垄断与寡头.md",
+  "slug": "/thinking-grids/垄断与寡头",
+  "title": "垄断与寡头"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "135-外部性.md",
+  "slug": "/thinking-grids/外部性",
+  "title": "外部性"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "136-搜寻成本.md",
+  "slug": "/thinking-grids/搜寻成本",
+  "title": "搜寻成本"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "137-机会成本.md",
+  "slug": "/thinking-grids/机会成本",
+  "title": "机会成本"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "138-比较优势.md",
+  "slug": "/thinking-grids/比较优势",
+  "title": "比较优势"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "139-竞争性毁灭.md",
+  "slug": "/thinking-grids/竞争性毁灭",
+  "title": "竞争性毁灭"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "140-边际成本与边际收益.md",
+  "slug": "/thinking-grids/边际成本与边际收益",
+  "title": "边际成本与边际收益"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "141-边际效用.md",
+  "slug": "/thinking-grids/边际效用",
+  "title": "边际效用"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "142-逆向选择.md",
+  "slug": "/thinking-grids/逆向选择",
+  "title": "逆向选择"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "143-道德风险.md",
+  "slug": "/thinking-grids/道德风险",
+  "title": "道德风险"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "144-护城河.md",
+  "slug": "/thinking-grids/护城河",
+  "title": "护城河"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "145-five-forces.md",
+  "slug": "/thinking-grids/five-forces",
+  "title": "五力模型"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "146-品牌认同.md",
+  "slug": "/thinking-grids/品牌认同",
+  "title": "品牌认同"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "147-林迪效应.md",
+  "slug": "/thinking-grids/林迪效应",
+  "title": "林迪效应"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "148-破坏性创新.md",
+  "slug": "/thinking-grids/破坏性创新",
+  "title": "破坏性创新"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "149-网络效应.md",
+  "slug": "/thinking-grids/网络效应",
+  "title": "网络效应"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "150-规模经济.md",
+  "slug": "/thinking-grids/规模经济",
+  "title": "规模经济"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "151-转换成本.md",
+  "slug": "/thinking-grids/转换成本",
+  "title": "转换成本"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "152-代理问题.md",
+  "slug": "/thinking-grids/代理问题",
+  "title": "代理问题"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "153-企业文化作为资产.md",
+  "slug": "/thinking-grids/企业文化作为资产",
+  "title": "企业文化作为资产"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "154-权衡分析.md",
+  "slug": "/thinking-grids/权衡分析",
+  "title": "权衡分析"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "155-激励机制.md",
+  "slug": "/thinking-grids/激励机制",
+  "title": "激励机制"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "156-瓶颈理论.md",
+  "slug": "/thinking-grids/瓶颈理论",
+  "title": "瓶颈理论"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "157-会计作为商业语言及其局限.md",
+  "slug": "/thinking-grids/会计作为商业语言及其局限",
+  "title": "会计作为商业语言及其局限"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "158-内在价值.md",
+  "slug": "/thinking-grids/内在价值",
+  "title": "内在价值"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "159-审计与独立验证.md",
+  "slug": "/thinking-grids/审计与独立验证",
+  "title": "审计与独立验证"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "160-少下注-下大注.md",
+  "slug": "/thinking-grids/少下注-下大注",
+  "title": "少下注,下大注"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "161-市场先生.md",
+  "slug": "/thinking-grids/市场先生",
+  "title": "市场先生"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "162-彩池投注系统.md",
+  "slug": "/thinking-grids/彩池投注系统",
+  "title": "彩池投注系统"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "163-现金流贴现.md",
+  "slug": "/thinking-grids/现金流贴现",
+  "title": "现金流贴现"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "164-有效市场理论.md",
+  "slug": "/thinking-grids/有效市场理论",
+  "title": "有效市场理论"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "165-现代投资组合理论.md",
+  "slug": "/thinking-grids/现代投资组合理论",
+  "title": "现代投资组合理论"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "166-以史为鉴.md",
+  "slug": "/thinking-grids/以史为鉴",
+  "title": "以史为鉴"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "167-信托责任.md",
+  "slug": "/thinking-grids/信托责任",
+  "title": "信托责任"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "168-公地悲剧.md",
+  "slug": "/thinking-grids/公地悲剧",
+  "title": "公地悲剧"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "169-后果主义vs义务论.md",
+  "slug": "/thinking-grids/后果主义vs义务论",
+  "title": "后果主义vs义务论"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "170-实用主义.md",
+  "slug": "/thinking-grids/实用主义",
+  "title": "实用主义"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "171-对抗制与辩证过程.md",
+  "slug": "/thinking-grids/对抗制与辩证过程",
+  "title": "对抗制与辩证过程"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "172-寻租行为.md",
+  "slug": "/thinking-grids/寻租行为",
+  "title": "寻租行为"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "173-帝国兴衰周期.md",
+  "slug": "/thinking-grids/帝国兴衰周期",
+  "title": "帝国兴衰周期"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "174-权力分立与制衡.md",
+  "slug": "/thinking-grids/权力分立与制衡",
+  "title": "权力分立与制衡"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "175-监管俘获.md",
+  "slug": "/thinking-grids/监管俘获",
+  "title": "监管俘获"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "176-经验主义.md",
+  "slug": "/thinking-grids/经验主义",
+  "title": "经验主义"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "177-苏格拉底式追问.md",
+  "slug": "/thinking-grids/苏格拉底式追问",
+  "title": "苏格拉底式追问"
+ },
+ {
+  "cat": "thinking-grids",
+  "file": "178-进化认识论.md",
+  "slug": "/thinking-grids/进化认识论",
+  "title": "进化认识论"
  }
 ]

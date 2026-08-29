@@ -1,7 +1,5 @@
 # 段永平如何研究一家公司：从产品、年报到企业文化
 
-> 来源：https://duan.ayaseeri.com/duanyongping-kan-dong-yijia-gongsi
-
 # 段永平如何研究一家公司：从产品、年报到企业文化
 
 如果段永平准备了解一家公司，他会收集和阅读哪些资料？

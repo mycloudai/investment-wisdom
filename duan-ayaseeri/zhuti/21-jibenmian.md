@@ -1,7 +1,5 @@
 # 基本面
 
-> 来源：https://duan.ayaseeri.com/jibenmian
-
 # 基本面
 
 ## 定义与起源

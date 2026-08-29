@@ -1,7 +1,5 @@
 # 1962年12月 巴菲特致合伙人信
 
-> 来源：https://buffett.ayaseeri.com/sources/partner-letters/1962nian-12yue-ba-fei-te-zhi-he-huo-ren-xin
-
 # 1962年12月 巴菲特致合伙人信
 
 致合伙人信
@@ -14,7 +12,7 @@
 
 以下税务信息非常重要。如果你自己报税，请务必读懂以下内容；如果你委托税务顾问代为报税，请将这些信息转交给他。
 
-（1）本年度从合伙基金收到的任何款项，在申报联邦所得税时一律不计入应[税收](https://buffett.ayaseeri.com/keywords/shui-shou)入。
+（1）本年度从合伙基金收到的任何款项，在申报联邦所得税时一律不计入应[税收](../keywords/120-shui-shou.md)入。
 
 （2）1月20日前，我或我们的审计师会将所有需要申报联邦所得税的项目明细寄给你，并告知应如何填报。在收到这份资料之前，请勿提交税表。
 
@@ -26,7 +24,7 @@
 
 1月份，你将收到我们寄出的以下文件：
 
-（1）毕马威[会计](https://buffett.ayaseeri.com/keywords/kuai-ji)师事务所（Peat, Marwick, Mitchell Company）出具的审计报告。
+（1）毕马威[会计](../keywords/055-kuai-ji.md)师事务所（Peat, Marwick, Mitchell Company）出具的审计报告。
 
 （2）上述完整税务数据。
 

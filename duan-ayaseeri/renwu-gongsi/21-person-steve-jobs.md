@@ -1,7 +1,5 @@
 # 乔布斯：段永平为什么说他既是报时人也是造钟人
 
-> 来源：https://duan.ayaseeri.com/person-steve-jobs
-
 # 乔布斯：段永平为什么说他既是报时人也是造钟人
 
 ## 一句话结论

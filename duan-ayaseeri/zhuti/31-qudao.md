@@ -1,7 +1,5 @@
 # 渠道
 
-> 来源：https://duan.ayaseeri.com/qudao
-
 # 渠道
 
 ## 定义与起源

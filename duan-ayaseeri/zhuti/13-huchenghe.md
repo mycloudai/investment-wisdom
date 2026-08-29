@@ -1,7 +1,5 @@
 # 护城河
 
-> 来源：https://duan.ayaseeri.com/huchenghe
-
 # 护城河
 
 ## 定义与起源

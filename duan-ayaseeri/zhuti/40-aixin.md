@@ -1,7 +1,5 @@
 # 爱心
 
-> 来源：https://duan.ayaseeri.com/aixin
-
 # 爱心
 
 ## 定义与起源

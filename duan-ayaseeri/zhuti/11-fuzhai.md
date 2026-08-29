@@ -1,7 +1,5 @@
 # 负债
 
-> 来源：https://duan.ayaseeri.com/fuzhai
-
 # 负债
 
 ## 定义与起源

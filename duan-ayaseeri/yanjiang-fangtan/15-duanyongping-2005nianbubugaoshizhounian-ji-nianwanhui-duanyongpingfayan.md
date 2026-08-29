@@ -1,7 +1,5 @@
 # 2005年步步高十周年“记”念晚会：段永平发言
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2005nianbubugaoshizhounian-ji-nianwanhui-duanyongpingfayan
-
 # 段永平：2005年步步高十周年“记”念晚会——段永平发言
 
 **段永平**：各位朋友晚上好！今天很荣幸我能够有机会在这个地方跟大家说几句话。

@@ -1,7 +1,5 @@
 # 2001《经营天下：高峰论坛 之 段永平》—— 2001年末中国20位行业巨头面对面访谈录
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2001-jingyingtianxia-gaofengluntan-zhi-duanyongping-2001nianmozhong
-
 # 段永平：2001《经营天下：高峰论坛 之 段永平》—— 2001年末中国20位行业巨头面对面访谈录
 
 《经营天下：高峰论坛 之 **段永平**》—— 2001年末中国20位行业巨头面对面访谈录（一）

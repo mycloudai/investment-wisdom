@@ -1,7 +1,5 @@
 # 2003年北京大学总裁班演讲座谈会全程实录
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2003nianbeijingdaxuezongcaibanyanjiangzuotanhuiquanchengshilu
-
 **段永平**：2003年北京大学总裁班演讲座谈会全程实录
 
 **孔繁敏**：

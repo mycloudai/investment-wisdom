@@ -1,7 +1,5 @@
 # 创始人、CEO、团队与激励
 
-> 来源：https://duan.ayaseeri.com/wenda-business-10
-
 ## 第一节 创始人与造钟人
 
 网友：[企业文化](../zhuti/26-qiyewenhua.md)就是老板文化，这个理解对不对？

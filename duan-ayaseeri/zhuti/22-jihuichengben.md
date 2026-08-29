@@ -1,7 +1,5 @@
 # 机会成本
 
-> 来源：https://duan.ayaseeri.com/jihuichengben
-
 # 机会成本
 
 ## 定义与起源

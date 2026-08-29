@@ -1,7 +1,5 @@
 # 2001年《世界经理人文摘》专访
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2001nian-shijiejinglirenwenzhai-zhuanfang
-
 **段永平**：2001年《世界经理人文摘》专访
 
 # 问：你为什么会有“敢为人后”的想法？

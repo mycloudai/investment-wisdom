@@ -1,7 +1,5 @@
 # 消费电子与日本制造
 
-> 来源：https://duan.ayaseeri.com/wenda-company-consumer-electronics
-
 ## 第一节 国产消费电子
 
 ### OPPO

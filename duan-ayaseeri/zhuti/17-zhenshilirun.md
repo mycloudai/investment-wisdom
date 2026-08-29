@@ -1,7 +1,5 @@
 # 真实利润
 
-> 来源：https://duan.ayaseeri.com/zhenshilirun
-
 # 真实利润
 
 ## 定义与起源

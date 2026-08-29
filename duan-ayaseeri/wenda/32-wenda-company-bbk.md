@@ -1,7 +1,5 @@
 # 小霸王与步步高
 
-> 来源：https://duan.ayaseeri.com/wenda-company-bbk
-
 ## 第一节 从小霸王到步步高
 
 网友：大道从佛山去中山，是陈智勇“引进”的。

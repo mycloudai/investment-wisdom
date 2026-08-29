@@ -1,7 +1,5 @@
 # 开销合理性
 
-> 来源：https://duan.ayaseeri.com/kaixiaohelixing
-
 # 开销合理性
 
 ## 定义与起源

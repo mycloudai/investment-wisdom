@@ -1,7 +1,5 @@
 # 2013年浙大演讲
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2013nianzhedayanjiang
-
 # 段永平：2013年浙大演讲
 
 **2013年**段永平**在浙大的演讲词**

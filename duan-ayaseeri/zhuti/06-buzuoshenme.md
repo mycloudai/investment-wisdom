@@ -1,7 +1,5 @@
 # 不做什么
 
-> 来源：https://duan.ayaseeri.com/buzuoshenme
-
 # 不做什么
 
 ## 定义与起源

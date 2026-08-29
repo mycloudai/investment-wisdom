@@ -1,7 +1,5 @@
 # 造钟人
 
-> 来源：https://duan.ayaseeri.com/zaozhongren
-
 # 造钟人
 
 ## 定义与起源

@@ -1,7 +1,5 @@
 # 2007年与巴菲特共进午餐后网易专访
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2007nianyubafeitegongjinwucanhouwangyizhuanfang
-
 **段永平**：2007年与**巴菲特**共进午餐后**网易**专访
 
 2007**段永平**与**巴菲特**共进午餐后**网易**专访：对[价值投资](../zhuti/10-jiazhitouzi.md)不能急，不能躁

@@ -1,7 +1,5 @@
 # 长期主义
 
-> 来源：https://duan.ayaseeri.com/zhangqizhuyi
-
 # 长期主义
 
 ## 定义与起源

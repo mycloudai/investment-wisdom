@@ -1,7 +1,5 @@
 # 零售与服务业案例
 
-> 来源：https://duan.ayaseeri.com/wenda-company-retail-services
-
 ## 第一节 零售与服务业
 
 ### Costco

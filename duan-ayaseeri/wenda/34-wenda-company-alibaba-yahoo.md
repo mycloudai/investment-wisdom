@@ -1,7 +1,5 @@
 # 阿里巴巴与雅虎
 
-> 来源：https://duan.ayaseeri.com/wenda-company-alibaba-yahoo
-
 ## 第一节 阿里巴巴与雅虎
 
 一般来讲，公司的[企业文化](../zhuti/26-qiyewenhua.md)是由三个部分组成的：使命、愿景以及核心价值观。使命指的是企业存在的意义，愿景是企业内大家的共同远景。大家可以看看**阿里巴巴**集团的[企业文化](../zhuti/26-qiyewenhua.md)。

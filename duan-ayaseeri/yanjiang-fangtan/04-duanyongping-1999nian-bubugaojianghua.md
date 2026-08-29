@@ -1,7 +1,5 @@
 # 1999年 步步高讲话
 
-> 来源：https://duan.ayaseeri.com/duanyongping-1999nian-bubugaojianghua
-
 # 段永平：1999年 步步高讲话
 
 文 / **段永平** （**步步高**内部讲话）

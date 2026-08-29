@@ -1,7 +1,5 @@
 # 2011年买入苹果思考
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2011nianmairupingguosikao
-
 # 段永平：2011年买入苹果思考
 
 ### 生意模式

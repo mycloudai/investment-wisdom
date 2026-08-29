@@ -1,7 +1,5 @@
 # 俞敏洪：段永平为什么说他是条汉子
 
-> 来源：https://duan.ayaseeri.com/person-yuminhong
-
 # 俞敏洪：段永平为什么说他是条汉子
 
 ## 一句话结论

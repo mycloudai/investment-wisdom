@@ -1,7 +1,5 @@
 # 2006年 深度对话网易证券全程实录
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2006nian-shenduduihuawangyizhengquanquanchengshilu
-
 # 段永平：2006年 深度对话网易证券全程实录
 
 **前言1**：有一个中国人将花费62.01万美元（折合人民币近500万元）与"股神"翁沃伦·**巴菲特**吃一顿午餐，他就是近两年逐步淡出人们视线的广东**步步高**电子有限公司创始人**段永平**。

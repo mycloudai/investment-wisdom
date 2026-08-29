@@ -1,7 +1,5 @@
 # 把事情做对
 
-> 来源：https://duan.ayaseeri.com/bashiqingzuodui
-
 # 把事情做对
 
 ## 定义与起源

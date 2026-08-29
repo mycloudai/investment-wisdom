@@ -1,7 +1,5 @@
 # 责任心
 
-> 来源：https://duan.ayaseeri.com/zerenxin
-
 # 责任心
 
 ## 定义与起源

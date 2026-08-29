@@ -1,7 +1,5 @@
 # 苹果：段永平为什么高度评价这家公司
 
-> 来源：https://duan.ayaseeri.com/company-apple
-
 # 苹果：段永平为什么高度评价这家公司
 
 ## 一句话结论

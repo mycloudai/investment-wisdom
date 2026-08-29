@@ -1,7 +1,5 @@
 # 腾讯：段永平为什么认为它是长坡厚雪
 
-> 来源：https://duan.ayaseeri.com/company-tencent
-
 # 腾讯：段永平为什么认为它是长坡厚雪
 
 ## 一句话结论

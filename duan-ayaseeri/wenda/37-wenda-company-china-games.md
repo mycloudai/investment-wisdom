@@ -1,7 +1,5 @@
 # 中国游戏公司群像
 
-> 来源：https://duan.ayaseeri.com/wenda-company-china-games
-
 ## 第一节 中国游戏公司案例
 
 ### 完美世界

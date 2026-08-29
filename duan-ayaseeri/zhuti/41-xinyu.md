@@ -1,7 +1,5 @@
 # 信誉
 
-> 来源：https://duan.ayaseeri.com/xinyu
-
 # 信誉
 
 ## 定义与起源

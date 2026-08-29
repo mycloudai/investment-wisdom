@@ -1,7 +1,5 @@
 # 任天堂：段永平从中学到什么
 
-> 来源：https://duan.ayaseeri.com/company-nintendo
-
 # 任天堂：段永平从中学到什么
 
 ## 一句话结论

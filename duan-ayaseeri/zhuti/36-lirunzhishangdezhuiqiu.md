@@ -1,7 +1,5 @@
 # 利润之上的追求
 
-> 来源：https://duan.ayaseeri.com/lirunzhishangdezhuiqiu
-
 # 利润之上的追求
 
 ## 定义与起源

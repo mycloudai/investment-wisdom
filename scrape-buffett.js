@@ -30,7 +30,8 @@ function inlineToMd(html, curCat) {
   s = s.replace(/<a\b[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi, (_, href, text) => {
     const t = text.replace(/<br\s*\/?>/gi, ' ').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
     if (!t) return '';
-    return `[${t}](${resolveLink(href, curCat)})`;
+    const r = resolveLink(href, curCat);
+    return r ? `[${t}](${r})` : t;
   });
   return s.replace(/<[^>]+>/g, '');
 }
@@ -84,7 +85,9 @@ function blockToMd(html, curCat) {
   return out.join('\n\n').replace(/\n{3,}/g, '\n\n').trim();
 }
 function extractArticle(html) {
-  const m = html.match(/<article\b[^>]*>([\s\S]*?)<\/article>/i);
+  const a = html.match(/<article\b[^>]*>([\s\S]*?)<\/article>/i);
+  if (a) return a[1];
+  const m = html.match(/<main\b[^>]*>([\s\S]*?)<\/main>/i); // 特殊页无 article，用 main 兜底
   return m ? m[1] : null;
 }
 function extractTitle(html) {
@@ -105,39 +108,64 @@ const catName = {
 function extractUrls() {
   const html = fs.readFileSync('/tmp/buffett-home.html', 'utf8');
   const seen = new Map();
-  const re = /<a\b[^>]*href="(\/(?:sources|articles)\/[a-z0-9/-]+)"[^>]*>([\s\S]*?)<\/a>/g;
+  const re = /<a\b[^>]*href="(\/(?:sources|articles|keywords|categories)\/[^"#]+)"[^>]*>([\s\S]*?)<\/a>/g;
   let m;
   while ((m = re.exec(html)) !== null) {
-    const p = m[1].replace(/\/$/, '');
+    const p = safeDecode(m[1]).split('#')[0].replace(/\/$/, '');
     const name = m[2].replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
     if (!seen.has(p) && name) seen.set(p, name);
   }
   return [...seen.entries()].map(([p, name]) => ({ path: p, name }));
 }
 function catOf(p) {
-  if (p.startsWith('/sources/')) return p.split('/')[2];
-  return 'articles';
+  if (p.startsWith('/keywords/')) return 'keywords';
+  if (p.startsWith('/categories/')) return 'categories';
+  if (p.startsWith('/articles/')) return 'articles/' + p.split('/')[2]; // 对齐网站子分类
+  return p.split('/')[2]; // sources: interviews / letters / partner-letters / meetings
 }
+function relPath(curCat, target) {
+  const d = curCat.split('/').filter(Boolean);
+  const t = target.split('/');
+  let i = 0;
+  while (i < d.length && i < t.length - 1 && d[i] === t[i]) i++;
+  return d.slice(i).map(() => '..').concat(t.slice(i)).join('/');
+}
+function safeDecode(s) { try { return decodeURIComponent(s); } catch (e) { return s; } }
 const SLUG_MAP = (() => {
+  const items = extractUrls();
+  const totals = {};
+  for (const it of items) totals[catOf(it.path)] = (totals[catOf(it.path)] || 0) + 1;
   const counters = {};
   const map = {};
-  for (const it of extractUrls()) {
+  for (const it of items) {
     const cat = catOf(it.path);
     counters[cat] = (counters[cat] || 0) + 1;
-    const num = String(counters[cat]).padStart(2, '0');
+    const num = String(counters[cat]).padStart(String(totals[cat]).length, '0');
     map[it.path] = cat + '/' + num + '-' + it.path.split('/').pop() + '.md';
   }
   return map;
 })();
 function resolveLink(href, curCat) {
   if (!href) return href;
-  if (/^(https?:|#|mailto:)/.test(href)) return href;
-  const p = href.replace(/\/$/, '');
-  if (!p || !p.startsWith('/')) return href;
+  if (href.startsWith('#')) return href;
+  if (/^mailto:/i.test(href)) return href;
+  // 本站绝对 URL 解包，与相对路径统一处理
+  let rest = null;
+  const abs = href.match(/^https?:\/\/buffett\.ayaseeri\.com(\/[^#]*)?(#.*)?$/i);
+  if (abs) rest = (abs[1] || '/') + (abs[2] || '');
+  else if (/^https?:/i.test(href)) return href;
+  else rest = href;
+  const hash = rest.indexOf('#');
+  const raw = hash >= 0 ? rest.slice(0, hash) : rest;
+  const anchor = hash >= 0 ? rest.slice(hash) : '';
+  const p = safeDecode(raw).replace(/\.html?$/i, '').replace(/\/$/, '');
+  if (!p || p === '/') return BASE + '/';
   const target = SLUG_MAP[p];
-  if (!target) return BASE + p;
-  const parts = target.split('/');
-  return parts[0] === curCat ? parts[1] : '../' + target;
+  if (!target) {
+    if (/\.html?$/i.test(raw)) return null; // 站内 html 文件（无对应页面）→ 降级纯文本
+    return BASE + encodeURI(p) + anchor;
+  }
+  return relPath(curCat, target);
 }
 
 // ---------- 主流程 ----------

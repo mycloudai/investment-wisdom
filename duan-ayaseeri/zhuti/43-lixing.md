@@ -1,7 +1,5 @@
 # 理性
 
-> 来源：https://duan.ayaseeri.com/lixing
-
 # 理性
 
 ## 定义与起源

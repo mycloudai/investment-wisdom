@@ -1,7 +1,5 @@
 # 苹果：管理层与企业文化
 
-> 来源：https://duan.ayaseeri.com/wenda-company-apple-02
-
 ## 第一节 乔布斯与造钟
 
 网友：是不是高科技公司也只是满足顾客的消费需求？

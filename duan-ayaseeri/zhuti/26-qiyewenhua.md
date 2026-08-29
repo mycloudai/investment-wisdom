@@ -1,7 +1,5 @@
 # 企业文化
 
-> 来源：https://duan.ayaseeri.com/qiyewenhua
-
 # 企业文化
 
 ## 定义与起源

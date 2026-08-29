@@ -1,14 +1,12 @@
 # 巴菲特：2025年接受cbs采访
 
-> 来源：https://buffett.ayaseeri.com/sources/interviews/ba-fei-te-2025nian-jie-shou-cbscai-fang
-
 # 巴菲特：2025年接受cbs采访
 
 访谈与文章
 
-![](https://buffett.ayaseeri.com/images/image_1496599966893903179.png)
+![](../images/image_1496599966893903179.png)
 
-他被称为“奥马哈的先知”，著名投资人**沃伦·巴菲特正在与诺拉·奥唐奈**谈论一部关于一段颇为意外的友谊的新纪录片《成为[凯瑟琳·格雷厄姆](../articles/27-katharine-graham.md)》。
+他被称为“奥马哈的先知”，著名投资人**沃伦·巴菲特正在与诺拉·奥唐奈**谈论一部关于一段颇为意外的友谊的新纪录片《成为[凯瑟琳·格雷厄姆](../articles/person/08-katharine-graham.md)》。
 
 **沃伦·巴菲特**：
 
@@ -18,7 +16,7 @@
 
 **旁白**：
 
-沃伦·巴菲特很少接受采访，但同样罕见的是他与已故《[华盛顿邮报](../articles/13-washington-post.md)》开创性出版人凯瑟琳·格雷厄姆的友谊。
+沃伦·巴菲特很少接受采访，但同样罕见的是他与已故《[华盛顿邮报](../articles/company/13-washington-post.md)》开创性出版人凯瑟琳·格雷厄姆的友谊。
 
 **诺拉·奥唐奈**：
 
@@ -32,7 +30,7 @@
 
 她母亲告诉她，没人愿意听你讲话。
 
-然后突然之间，她站在那里，她面前是一个全是男性的[董事会](https://buffett.ayaseeri.com/keywords/dong-shi-hui)，
+然后突然之间，她站在那里，她面前是一个全是男性的[董事会](../keywords/036-dong-shi-hui.md)，
 
 他们只希望她待在家里收股息支票。
 
@@ -68,7 +66,7 @@
 
 **旁白**：
 
-格雷厄姆从家庭主妇到财富500强公司首位女性[CEO](https://buffett.ayaseeri.com/keywords/ceo)的历程，
+格雷厄姆从家庭主妇到财富500强公司首位女性[CEO](../keywords/033-ceo.md)的历程，
 
 在一部名为《成为凯瑟琳·格雷厄姆》的新纪录片中得以展现，
 
@@ -120,7 +118,7 @@
 
 超级便宜。
 
-它至少值5亿[美元](https://buffett.ayaseeri.com/keywords/mei-yuan)，却只卖1亿美元。
+它至少值5亿[美元](../keywords/116-mei-yuan.md)，却只卖1亿美元。
 
 她真是太幸运了，
 
@@ -192,7 +190,7 @@
 
 1975年，印刷工人毁坏印刷机并发起长达四个多月的激烈罢工，
 
-导致[报纸](../articles/15-bao-zhi.md)发行受限，
+导致[报纸](../articles/industry/01-bao-zhi.md)发行受限，
 
 那是格雷厄姆最真实感受到这种威胁的时候。
 
@@ -280,7 +278,7 @@
 
 这位传奇投资人如今94岁，
 
-仍然是[伯克希尔](../articles/03-berkshire.md)·哈撒韦的董事长，
+仍然是[伯克希尔](../articles/company/03-berkshire.md)·哈撒韦的董事长，
 
 他说的每一句话依然能够撼动金融市场。
 
@@ -308,7 +306,7 @@
 
 **诺拉·奥唐奈**：
 
-你认为关税会如何随着时间推移影响[通货膨胀](https://buffett.ayaseeri.com/keywords/tong-huo-peng-zhang)？
+你认为关税会如何随着时间推移影响[通货膨胀](../keywords/119-tong-huo-peng-zhang.md)？
 
 **沃伦·巴菲特**：
 

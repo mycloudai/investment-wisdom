@@ -1,7 +1,5 @@
 # 生态系统
 
-> 来源：https://duan.ayaseeri.com/shengtaixitong
-
 # 生态系统
 
 ## 定义与起源

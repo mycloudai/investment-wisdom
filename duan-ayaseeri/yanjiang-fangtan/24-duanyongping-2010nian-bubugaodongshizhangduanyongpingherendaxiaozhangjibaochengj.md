@@ -1,7 +1,5 @@
 # 2010年 步步高董事长段永平和人大校长纪宝成记者会实录
 
-> 来源：https://duan.ayaseeri.com/duanyongping-2010nian-bubugaodongshizhangduanyongpingherendaxiaozhangjibaochengj
-
 # 段永平：2010年 步步高董事长段永平和人大校长纪宝成记者会实录
 
 时间：2010年02月28日

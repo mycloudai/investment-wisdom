@@ -1,10 +1,8 @@
 # 查理芒格：2008年与 Charlie Munger 的对话：杜桥杰出访客讲座
 
-> 来源：https://munger.ayaseeri.com/sources/%E6%9F%A5%E7%90%86%E8%8A%92%E6%A0%BC-2008%E5%B9%B4-%E4%B8%8E-charlie-munger-%E7%9A%84%E5%AF%B9%E8%AF%9D-%E6%9D%9C%E6%A1%A5%E6%9D%B0%E5%87%BA%E8%AE%BF%E5%AE%A2%E8%AE%B2%E5%BA%A7
+![](../images/image_-4797778777282916516.png)
 
-![](https://munger.ayaseeri.com/speech/images/image_-4797778777282916516.png)
-
-![](https://munger.ayaseeri.com/speech/images/image_8005871124426285305.png)
+![](../images/image_8005871124426285305.png)
 
 Charlie munger - Caltech 2008 DuBridge Distinguished Lecture in Beckman Auditorium （时长1小时50分钟，以下是完整的演讲内容）
 

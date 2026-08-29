@@ -1,7 +1,5 @@
 # 能力圈
 
-> 来源：https://duan.ayaseeri.com/nengliquan
-
 # 能力圈
 
 ## 定义与起源

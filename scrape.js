@@ -29,7 +29,8 @@ function inlineToMd(html, curCat) {
   s = s.replace(/<a\b[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi, (_, href, text) => {
     const t = text.replace(/<br\s*\/?>/gi, ' ').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
     if (!t) return '';
-    return `[${t}](${resolveLink(href, curCat)})`;
+    const r = resolveLink(href, curCat);
+    return r ? `[${t}](${r})` : t;
   });
   // 去掉剩余标签但保留 br 产生的换行
   return s.replace(/<[^>]+>/g, '');
@@ -123,11 +124,24 @@ const SLUG_MAP = (() => {
 })();
 function resolveLink(href, curCat) {
   if (!href) return href;
-  if (/^(https?:|#|mailto:)/.test(href)) return href; // 外链/锚点原样
-  const slug = href.replace(/^\//, '').replace(/\/$/, '');
-  if (!slug) return 'https://duan.ayaseeri.com/';
-  const target = SLUG_MAP[slug];
-  if (!target) return 'https://duan.ayaseeri.com/' + slug; // 不在列表的站内页回退到原站
+  if (href.startsWith('#')) return href;
+  if (/^mailto:/i.test(href)) return href;
+  // 本站绝对 URL 解包，与相对路径统一处理
+  let rest = null;
+  const abs = href.match(/^https?:\/\/duan\.ayaseeri\.com(\/[^#]*)?(#.*)?$/i);
+  if (abs) rest = (abs[1] || '/') + (abs[2] || '');
+  else if (/^https?:/i.test(href)) return href; // 外站链接原样
+  else rest = href;
+  const hash = rest.indexOf('#');
+  const raw = hash >= 0 ? rest.slice(0, hash) : rest;
+  const anchor = hash >= 0 ? rest.slice(hash) : '';
+  const p = raw.replace(/\.html?$/i, '').replace(/\/$/, '');
+  if (!p || p === '/') return 'https://duan.ayaseeri.com/';
+  const target = SLUG_MAP[p.replace(/^\//, '')];
+  if (!target) {
+    if (/\.html?$/i.test(raw)) return null; // 原书分卷 html（站内已不存在）→ 降级纯文本
+    return 'https://duan.ayaseeri.com' + p + anchor; // 未收录站内页回退原站
+  }
   const parts = target.split('/');
   return parts[0] === curCat ? parts[1] : '../' + target;
 }
