@@ -62,18 +62,18 @@
 
 ## 相关概念
 
-- [渠道](/qudao)
+- [渠道](../zhuti/qudao.md)
 
-- [单一产品](/danyichanpin)
+- [单一产品](../zhuti/danyichanpin.md)
 
-- [能力圈](/nengliquan)
+- [能力圈](../zhuti/nengliquan.md)
 
-- [商业模式](/shangyemoshi)
+- [商业模式](../zhuti/shangyemoshi.md)
 
-- [消费者导向](/xiaofeizhedaoxiang)
+- [消费者导向](../zhuti/xiaofeizhedaoxiang.md)
 
 ## 原始出处
 
-- [任天堂公司问答](/wenda-company-consumer-electronics)
+- [任天堂公司问答](../wenda/wenda-company-consumer-electronics.md)
 
-- [核心概念：渠道](/qudao)
+- [核心概念：渠道](../zhuti/qudao.md)

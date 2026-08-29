@@ -64,22 +64,22 @@
 
 ## 相关公司
 
-- [新东方](/company-new-oriental)
+- [新东方](company-new-oriental.md)
 
 ## 相关概念
 
-- [商业模式](/shangyemoshi)
+- [商业模式](../zhuti/shangyemoshi.md)
 
-- [平常心](/pingchangxin)
+- [平常心](../zhuti/pingchangxin.md)
 
-- [企业文化](/qiyewenhua)
+- [企业文化](../zhuti/qiyewenhua.md)
 
-- [能力圈](/nengliquan)
+- [能力圈](../zhuti/nengliquan.md)
 
-- [做对的事情](/zuoduideshiqing)
+- [做对的事情](../zhuti/zuoduideshiqing.md)
 
 ## 原始出处
 
-- [新东方公司问答](/wenda-company-retail-services)
+- [新东方公司问答](../wenda/wenda-company-retail-services.md)
 
-- [企业文化](/wenda-business-08)
+- [企业文化](../wenda/wenda-business-08.md)

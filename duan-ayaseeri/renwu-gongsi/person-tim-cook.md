@@ -30,7 +30,7 @@
 
 ### 1. 理性
 
-段永平长期强调[理性](/lixing)和平常心。库克被他评价为“更理性”，说明库克的优势不是戏剧化的产品发布，而是在复杂组织中持续做长期正确的取舍。
+段永平长期强调[理性](../zhuti/lixing.md)和平常心。库克被他评价为“更理性”，说明库克的优势不是戏剧化的产品发布，而是在复杂组织中持续做长期正确的取舍。
 
 ### 2. 延续文化
 
@@ -62,26 +62,26 @@
 
 ## 相关公司
 
-- [苹果](/company-apple)
+- [苹果](company-apple.md)
 
 ## 相关人物
 
-- [乔布斯](/person-steve-jobs)
+- [乔布斯](person-steve-jobs.md)
 
 ## 相关概念
 
-- [理性](/lixing)
+- [理性](../zhuti/lixing.md)
 
-- [企业文化](/qiyewenhua)
+- [企业文化](../zhuti/qiyewenhua.md)
 
-- [用户体验](/yonghutiyan)
+- [用户体验](../zhuti/yonghutiyan.md)
 
-- [做对的事情](/zuoduideshiqing)
+- [做对的事情](../zhuti/zuoduideshiqing.md)
 
-- [造钟人](/zaozhongren)
+- [造钟人](../zhuti/zaozhongren.md)
 
 ## 原始出处
 
-- [苹果：管理层与文化](/wenda-company-apple-02)
+- [苹果：管理层与文化](../wenda/wenda-company-apple-02.md)
 
-- [苹果：产品与生态](/wenda-company-apple-01)
+- [苹果：产品与生态](../wenda/wenda-company-apple-01.md)

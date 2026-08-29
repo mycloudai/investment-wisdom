@@ -17,19 +17,19 @@ function decodeEntities(s) {
     .replace(/&hellip;|&#8230;/g, '…').replace(/&mdash;/g, '—').replace(/&middot;/g, '·')
     .replace(/&#x?[0-9a-f]+;/gi, '');
 }
-function inlineToMd(html) {
+function inlineToMd(html, curCat) {
   let s = html;
   s = s.replace(/<(script|style)[\s\S]*?<\/\1>/gi, '');
   s = s.replace(/<br\s*\/?>/gi, '\n');
-  s = s.replace(/<img\b[^>]*src="([^"]*)"[^>]*alt="([^"]*)"[^>]*>/gi, (_, src, alt) => `![${alt}](${src})`);
-  s = s.replace(/<img\b[^>]*src="([^"]*)"[^>]*>/gi, (_, src) => `![](${src})`);
+  s = s.replace(/<img\b[^>]*src="([^"]*)"[^>]*alt="([^"]*)"[^>]*>/gi, (_, src, alt) => `![${alt}](${resolveLink(src, curCat)})`);
+  s = s.replace(/<img\b[^>]*src="([^"]*)"[^>]*>/gi, (_, src) => `![](${resolveLink(src, curCat)})`);
   s = s.replace(/<(strong|b)\b[^>]*>([\s\S]*?)<\/\1>/gi, (_, t, c) => '**' + c.replace(/<[^>]+>/g, '').trim() + '**');
   s = s.replace(/<(em|i)\b[^>]*>([\s\S]*?)<\/\1>/gi, (_, t, c) => '*' + c.replace(/<[^>]+>/g, '').trim() + '*');
   s = s.replace(/<code\b[^>]*>([\s\S]*?)<\/code>/gi, (_, c) => '`' + c.trim() + '`');
   s = s.replace(/<a\b[^>]*href="([^"]*)"[^>]*>([\s\S]*?)<\/a>/gi, (_, href, text) => {
     const t = text.replace(/<br\s*\/?>/gi, ' ').replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
     if (!t) return '';
-    return `[${t}](${href})`;
+    return `[${t}](${resolveLink(href, curCat)})`;
   });
   // 去掉剩余标签但保留 br 产生的换行
   return s.replace(/<[^>]+>/g, '');
@@ -38,7 +38,7 @@ function inlineToMd(html) {
 function tidyInline(s) {
   return decodeEntities(s).split('\n').map(l => l.replace(/[ \t\r]+/g, ' ').trim()).filter((l, i, a) => l || (i > 0 && i < a.length - 1)).join('\n').trim();
 }
-function blockToMd(html) {
+function blockToMd(html, curCat) {
   let s = html;
   // 去掉评论区与脚本样式
   s = s.replace(/<section class="article-comments"[\s\S]*?<\/section>/gi, '');
@@ -54,18 +54,18 @@ function blockToMd(html) {
     if (m[1]) { // heading（剥掉内层链接壳，标题文字保真）
       const level = '#'.repeat(+m[1][1]);
       const inner = m[2].replace(/<a\b[^>]*>([\s\S]*?)<\/a>/gi, '$1');
-      push(`${level} ${tidyInline(inlineToMd(inner)).replace(/\n/g, ' ')}`);
+      push(`${level} ${tidyInline(inlineToMd(inner, curCat)).replace(/\n/g, ' ')}`);
     } else if (m[3] !== undefined) { // p
-      push(tidyInline(inlineToMd(m[3])));
+      push(tidyInline(inlineToMd(m[3], curCat)));
     } else if (m[4] !== undefined) { // blockquote：保留内部换行，逐行 >
-      const inner = tidyInline(inlineToMd(m[4]));
+      const inner = tidyInline(inlineToMd(m[4], curCat));
       push(inner.split('\n').map(l => '> ' + l).join('\n'));
     } else if (m[5] !== undefined) { // ol/ul 列表
       const ordered = m[5].toLowerCase() === 'ol';
       const lis = m[6].match(/<li\b[^>]*>([\s\S]*?)<\/li>/gi) || [];
       lis.forEach((liTag, i) => {
         const liInner = liTag.replace(/^<li\b[^>]*>|<\/li>$/gi, '');
-        const text = tidyInline(inlineToMd(liInner)).replace(/\n/g, ' ');
+        const text = tidyInline(inlineToMd(liInner, curCat)).replace(/\n/g, ' ');
         const marker = ordered ? `${i + 1}. ` : '- ';
         if (text) out.push(marker + text);
       });
@@ -73,7 +73,7 @@ function blockToMd(html) {
       const rows = m[8].match(/<tr\b[^>]*>([\s\S]*?)<\/tr>/gi) || [];
       const tableRows = rows.map((r, ri) => {
         const cells = (r.match(/<t[hd]\b[^>]*>([\s\S]*?)<\/t[hd]>/gi) || [])
-          .map(c => tidyInline(inlineToMd(c.replace(/^<t[hd]\b[^>]*>|<\/t[hd]>$/gi, ''))).replace(/\n/g, ' ') || ' ');
+          .map(c => tidyInline(inlineToMd(c.replace(/^<t[hd]\b[^>]*>|<\/t[hd]>$/gi, ''), curCat)).replace(/\n/g, ' ') || ' ');
         return '| ' + cells.join(' | ') + ' |' + (ri === 0 ? '\n|' + cells.map(() => ' --- ').join('|') + '|' : '');
       });
       push(tableRows.join('\n'));
@@ -106,6 +106,27 @@ function categoryOf(slug) {
   return 'zhuti';                                       // 主题页
 }
 
+// ---------- 站内链接 → md 相对路径 ----------
+const SLUG_MAP = (() => {
+  const items = JSON.parse(fs.readFileSync(path.join(__dirname, 'urls.json'), 'utf8'));
+  const map = {};
+  for (const it of items) {
+    const slug = it.url.replace('https://duan.ayaseeri.com/', '').replace(/\/$/, '');
+    if (slug) map[slug] = categoryOf(slug) + '/' + slug + '.md';
+  }
+  return map;
+})();
+function resolveLink(href, curCat) {
+  if (!href) return href;
+  if (/^(https?:|#|mailto:)/.test(href)) return href; // 外链/锚点原样
+  const slug = href.replace(/^\//, '').replace(/\/$/, '');
+  if (!slug) return 'https://duan.ayaseeri.com/';
+  const target = SLUG_MAP[slug];
+  if (!target) return 'https://duan.ayaseeri.com/' + slug; // 不在列表的站内页回退到原站
+  const parts = target.split('/');
+  return parts[0] === curCat ? parts[1] : '../' + target;
+}
+
 // ---------- 主流程 ----------
 (async () => {
   const items = JSON.parse(fs.readFileSync(path.join(__dirname, 'urls.json'), 'utf8'));
@@ -125,7 +146,7 @@ function categoryOf(slug) {
       const body = extractArticle(html);
       const title = it.name || extractTitle(html);
       if (!body) throw new Error('no article body');
-      const md = `# ${title}\n\n> 来源：${it.url}\n\n${blockToMd(body)}\n`;
+      const md = `# ${title}\n\n> 来源：${it.url}\n\n${blockToMd(body, cat)}\n`;
       fs.writeFileSync(file, md);
       index.push({ pos: it.pos, cat, slug, title });
       ok++;

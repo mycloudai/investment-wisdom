@@ -30,13 +30,13 @@
 
 ### 1. 理性
 
-段永平把[理性](/lixing)和[平常心](/pingchangxin)连在一起看。芒格强调 rationality，段永平强调平常心、想长远，本质上都是对抗情绪、短期诱惑和市场噪音。
+段永平把[理性](../zhuti/lixing.md)和[平常心](../zhuti/pingchangxin.md)连在一起看。芒格强调 rationality，段永平强调平常心、想长远，本质上都是对抗情绪、短期诱惑和市场噪音。
 
 ### 2. 逆向思维
 
 芒格最有代表性的思考方式之一是反过来想。段永平常用这种思路解释不做什么：不用 margin、不做空、不碰看不懂的东西。
 
-这和段永平的 [stop doing list](/buzuoshenme) 非常接近。
+这和段永平的 [stop doing list](../zhuti/buzuoshenme.md) 非常接近。
 
 ### 3. 能力圈
 
@@ -66,24 +66,24 @@
 
 - Costco
 
-- [拼多多](/company-pinduoduo)
+- [拼多多](company-pinduoduo.md)
 
-- [苹果](/company-apple)
+- [苹果](company-apple.md)
 
 ## 相关概念
 
-- [理性](/lixing)
+- [理性](../zhuti/lixing.md)
 
-- [平常心](/pingchangxin)
+- [平常心](../zhuti/pingchangxin.md)
 
-- [能力圈](/nengliquan)
+- [能力圈](../zhuti/nengliquan.md)
 
-- [不做什么](/buzuoshenme)
+- [不做什么](../zhuti/buzuoshenme.md)
 
-- [安全边际](/anquanbianji)
+- [安全边际](../zhuti/anquanbianji.md)
 
 ## 原始出处
 
-- [投资为什么简单但不容易](/wenda-invest-02)
+- [投资为什么简单但不容易](../wenda/wenda-invest-02.md)
 
-- [投资心态、Golf、阅读与学习](/wenda-invest-12)
+- [投资心态、Golf、阅读与学习](../wenda/wenda-invest-12.md)

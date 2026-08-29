@@ -64,20 +64,20 @@
 
 ## 相关公司
 
-- [网易](/company-netease)
+- [网易](company-netease.md)
 
 ## 相关概念
 
-- [现金流](/xianjinliu)
+- [现金流](../zhuti/xianjinliu.md)
 
-- [净现金](/jingxianjin)
+- [净现金](../zhuti/jingxianjin.md)
 
-- [做对的事情](/zuoduideshiqing)
+- [做对的事情](../zhuti/zuoduideshiqing.md)
 
-- [商业模式](/shangyemoshi)
+- [商业模式](../zhuti/shangyemoshi.md)
 
-- [能力圈](/nengliquan)
+- [能力圈](../zhuti/nengliquan.md)
 
 ## 原始出处
 
-- [网易公司问答](/wenda-company-netease)
+- [网易公司问答](../wenda/wenda-company-netease.md)

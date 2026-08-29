@@ -62,22 +62,22 @@
 
 ## 相关公司
 
-- [阿里巴巴](/company-alibaba)
+- [阿里巴巴](company-alibaba.md)
 
 ## 相关概念
 
-- [企业文化](/qiyewenhua)
+- [企业文化](../zhuti/qiyewenhua.md)
 
-- [平常心](/pingchangxin)
+- [平常心](../zhuti/pingchangxin.md)
 
-- [做对的事情](/zuoduideshiqing)
+- [做对的事情](../zhuti/zuoduideshiqing.md)
 
-- [商业模式](/shangyemoshi)
+- [商业模式](../zhuti/shangyemoshi.md)
 
-- [长期主义](/zhangqizhuyi)
+- [长期主义](../zhuti/zhangqizhuyi.md)
 
 ## 原始出处
 
-- [阿里巴巴与雅虎公司问答](/wenda-company-alibaba-yahoo)
+- [阿里巴巴与雅虎公司问答](../wenda/wenda-company-alibaba-yahoo.md)
 
-- [企业文化](/wenda-business-08)
+- [企业文化](../wenda/wenda-business-08.md)

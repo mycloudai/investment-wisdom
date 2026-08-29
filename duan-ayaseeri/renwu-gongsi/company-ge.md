@@ -32,7 +32,7 @@ GE 是段永平体系里的反面教材：他曾因企业文化和韦尔奇叙�
 
 ### 1. 企业文化叙事
 
-段永平当年买 GE，很大程度上来自《基业长青》和韦尔奇关于企业文化、integrity 的表达。他一直重视[企业文化](/qiyewenhua)，所以这些叙事对他有吸引力。
+段永平当年买 GE，很大程度上来自《基业长青》和韦尔奇关于企业文化、integrity 的表达。他一直重视[企业文化](../zhuti/qiyewenhua.md)，所以这些叙事对他有吸引力。
 
 这也说明段永平不是只看报表。他会把文化、管理层和长期组织能力放进投资判断。
 
@@ -78,18 +78,18 @@ GE 文章不是为了否定曾经赚到的钱，而是说明赚钱不等于逻�
 
 ## 相关概念
 
-- [企业文化](/qiyewenhua)
+- [企业文化](../zhuti/qiyewenhua.md)
 
-- [正直](/zhengzhi)
+- [正直](../zhuti/zhengzhi.md)
 
-- [能力圈](/nengliquan)
+- [能力圈](../zhuti/nengliquan.md)
 
-- [真实利润](/zhenshilirun)
+- [真实利润](../zhuti/zhenshilirun.md)
 
-- [不做什么](/buzuoshenme)
+- [不做什么](../zhuti/buzuoshenme.md)
 
 ## 原始出处
 
-- [GE 公司问答](/wenda-company-energy-industrial)
+- [GE 公司问答](../wenda/wenda-company-energy-industrial.md)
 
-- [核心概念：企业文化](/qiyewenhua)
+- [核心概念：企业文化](../zhuti/qiyewenhua.md)

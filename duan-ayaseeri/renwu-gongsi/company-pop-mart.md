@@ -12,7 +12,7 @@
 
 ## 先把“定价权”说清楚
 
-段永平把[定价权](/dingjiaquan)和[护城河](/huchenghe)直接联系在一起：
+段永平把[定价权](../zhuti/dingjiaquan.md)和[护城河](../zhuti/huchenghe.md)直接联系在一起：
 
 > 定价权就是“护城河”吧？（2010-05-18）
 
@@ -42,7 +42,7 @@
 
 > 泡泡玛特的壁垒远比想象中强大，只要潮玩会有持续性，泡泡玛特就是非常好的生意了。（2026-04-09）
 
-这两段话很适合用来理解泡泡玛特的定价权。品牌、艺术家、门店和供应链能够让喜欢潮玩的人持续关注泡泡玛特，却不能保证人们永远喜欢潮玩。公司层面的壁垒已经出现，品类需求的寿命仍需时间证明。更多上下文见[泡泡玛特公司问答](/wenda-company-pop-mart)。
+这两段话很适合用来理解泡泡玛特的定价权。品牌、艺术家、门店和供应链能够让喜欢潮玩的人持续关注泡泡玛特，却不能保证人们永远喜欢潮玩。公司层面的壁垒已经出现，品类需求的寿命仍需时间证明。更多上下文见[泡泡玛特公司问答](../wenda/wenda-company-pop-mart.md)。
 
 ## 新品开始进入更高价格带
 
@@ -154,26 +154,26 @@
 
 ## 相关人物
 
-- [王宁](/person-wangning)
+- [王宁](person-wangning.md)
 
 ## 相关概念
 
-- [定价权](/dingjiaquan)
+- [定价权](../zhuti/dingjiaquan.md)
 
-- [护城河](/huchenghe)
+- [护城河](../zhuti/huchenghe.md)
 
-- [品牌](/pinpai)
+- [品牌](../zhuti/pinpai.md)
 
-- [差异化](/chayihua)
+- [差异化](../zhuti/chayihua.md)
 
-- [商业模式](/shangyemoshi)
+- [商业模式](../zhuti/shangyemoshi.md)
 
-- [消费者导向](/xiaofeizhedaoxiang)
+- [消费者导向](../zhuti/xiaofeizhedaoxiang.md)
 
 ## 原始出处
 
-- [泡泡玛特公司问答](/wenda-company-pop-mart)
+- [泡泡玛特公司问答](../wenda/wenda-company-pop-mart.md)
 
-- [定价权](/dingjiaquan)
+- [定价权](../zhuti/dingjiaquan.md)
 
-- [2025年谈躺平与内卷、与王石交流子女教育](/duanyongping-2025niantantangpingyuneijuan-yuwangshijiaoliuzinvjiaoyu)
+- [2025年谈躺平与内卷、与王石交流子女教育](../yanjiang-fangtan/duanyongping-2025niantantangpingyuneijuan-yuwangshijiaoliuzinvjiaoyu.md)

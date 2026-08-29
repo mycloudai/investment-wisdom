@@ -66,26 +66,26 @@
 
 ## 相关公司
 
-- [苹果](/company-apple)
+- [苹果](company-apple.md)
 
 ## 相关人物
 
-- [库克](/person-tim-cook)
+- [库克](person-tim-cook.md)
 
 ## 相关概念
 
-- [造钟人](/zaozhongren)
+- [造钟人](../zhuti/zaozhongren.md)
 
-- [利润之上的追求](/lirunzhishangdezhuiqiu)
+- [利润之上的追求](../zhuti/lirunzhishangdezhuiqiu.md)
 
-- [企业文化](/qiyewenhua)
+- [企业文化](../zhuti/qiyewenhua.md)
 
-- [用户体验](/yonghutiyan)
+- [用户体验](../zhuti/yonghutiyan.md)
 
-- [做对的事情](/zuoduideshiqing)
+- [做对的事情](../zhuti/zuoduideshiqing.md)
 
 ## 原始出处
 
-- [苹果：管理层与文化](/wenda-company-apple-02)
+- [苹果：管理层与文化](../wenda/wenda-company-apple-02.md)
 
-- [苹果：产品与生态](/wenda-company-apple-01)
+- [苹果：产品与生态](../wenda/wenda-company-apple-01.md)

@@ -34,9 +34,9 @@
 
 ### 1. 对“做对的事情”的理解
 
-王宁谈领导力时说，领导力就是[做对的事情](/zuoduideshiqing)，其他同理心、鼓舞士气、分工明确等都是方法。段永平明确表示喜欢这个说法，并判断王宁大概率是自己琢磨出来的。
+王宁谈领导力时说，领导力就是[做对的事情](../zhuti/zuoduideshiqing.md)，其他同理心、鼓舞士气、分工明确等都是方法。段永平明确表示喜欢这个说法，并判断王宁大概率是自己琢磨出来的。
 
-这和段永平长期强调的“做对的事情、[把事情做对](/bashiqingzuodui)”高度一致。
+这和段永平长期强调的“做对的事情、[把事情做对](../zhuti/bashiqingzuodui.md)”高度一致。
 
 ### 2. 商业理解
 
@@ -66,7 +66,7 @@
 
 欣赏王宁，不等于泡泡玛特没有风险。段永平仍然反复提醒，真正需要验证的是潮玩需求能不能持续，以及泡泡玛特能否长期保持用户关注。
 
-对人物的高评价，只是提高公司长期做对事情的概率，不能替代对[商业模式](/shangyemoshi)、[护城河](/huchenghe)和价格的判断。
+对人物的高评价，只是提高公司长期做对事情的概率，不能替代对[商业模式](../zhuti/shangyemoshi.md)、[护城河](../zhuti/huchenghe.md)和价格的判断。
 
 ## 投资启发
 
@@ -80,24 +80,24 @@
 
 ## 相关公司
 
-- [泡泡玛特](/company-pop-mart)
+- [泡泡玛特](company-pop-mart.md)
 
 ## 相关概念
 
-- [做对的事情](/zuoduideshiqing)
+- [做对的事情](../zhuti/zuoduideshiqing.md)
 
-- [把事情做对](/bashiqingzuodui)
+- [把事情做对](../zhuti/bashiqingzuodui.md)
 
-- [企业文化](/qiyewenhua)
+- [企业文化](../zhuti/qiyewenhua.md)
 
-- [商业模式](/shangyemoshi)
+- [商业模式](../zhuti/shangyemoshi.md)
 
-- [护城河](/huchenghe)
+- [护城河](../zhuti/huchenghe.md)
 
-- [能力圈](/nengliquan)
+- [能力圈](../zhuti/nengliquan.md)
 
 ## 原始出处
 
-- [泡泡玛特公司问答](/wenda-company-pop-mart)
+- [泡泡玛特公司问答](../wenda/wenda-company-pop-mart.md)
 
-- [2025年谈躺平与内卷、与王石交流子女教育](/duanyongping-2025niantantangpingyuneijuan-yuwangshijiaoliuzinvjiaoyu)
+- [2025年谈躺平与内卷、与王石交流子女教育](../yanjiang-fangtan/duanyongping-2025niantantangpingyuneijuan-yuwangshijiaoliuzinvjiaoyu.md)

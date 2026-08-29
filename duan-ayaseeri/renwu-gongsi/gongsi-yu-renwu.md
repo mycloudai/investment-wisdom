@@ -20,68 +20,68 @@
 
 ## 已建样板
 
-- [苹果：段永平为什么高度评价这家公司](/company-apple)
+- [苹果：段永平为什么高度评价这家公司](company-apple.md)
 
-- [黄峥：段永平为什么高度评价他](/person-huangzheng)
+- [黄峥：段永平为什么高度评价他](person-huangzheng.md)
 
-- [泡泡玛特：段永平如何重新评估这家公司](/company-pop-mart)
+- [泡泡玛特：段永平如何重新评估这家公司](company-pop-mart.md)
 
-- [王宁：段永平为什么欣赏泡泡玛特创始人](/person-wangning)
+- [王宁：段永平为什么欣赏泡泡玛特创始人](person-wangning.md)
 
 ## 公司
 
-- [苹果：段永平为什么高度评价这家公司](/company-apple)
+- [苹果：段永平为什么高度评价这家公司](company-apple.md)
 
-- [贵州茅台：段永平为什么高度评价这家公司](/company-maotai)
+- [贵州茅台：段永平为什么高度评价这家公司](company-maotai.md)
 
-- [网易：段永平为什么长期评价这家公司](/company-netease)
+- [网易：段永平为什么长期评价这家公司](company-netease.md)
 
-- [腾讯：段永平为什么认为它是长坡厚雪](/company-tencent)
+- [腾讯：段永平为什么认为它是长坡厚雪](company-tencent.md)
 
-- [阿里巴巴：段永平为什么曾高度评价又保留](/company-alibaba)
+- [阿里巴巴：段永平为什么曾高度评价又保留](company-alibaba.md)
 
-- [拼多多：段永平如何看这家公司](/company-pinduoduo)
+- [拼多多：段永平如何看这家公司](company-pinduoduo.md)
 
-- [英伟达：段永平为什么说它厉害但难看懂](/company-nvidia)
+- [英伟达：段永平为什么说它厉害但难看懂](company-nvidia.md)
 
-- [任天堂：段永平从中学到什么](/company-nintendo)
+- [任天堂：段永平从中学到什么](company-nintendo.md)
 
-- [GE：段永平为什么后来修正这笔投资](/company-ge)
+- [GE：段永平为什么后来修正这笔投资](company-ge.md)
 
-- [新东方：段永平为什么既认可又保留](/company-new-oriental)
+- [新东方：段永平为什么既认可又保留](company-new-oriental.md)
 
-- [泡泡玛特：段永平如何重新评估这家公司](/company-pop-mart)
+- [泡泡玛特：段永平如何重新评估这家公司](company-pop-mart.md)
 
 ## 人物
 
-- [巴菲特：段永平为什么高度尊重他](/person-buffett)
+- [巴菲特：段永平为什么高度尊重他](person-buffett.md)
 
-- [芒格：段永平为什么重视他的理性](/person-munger)
+- [芒格：段永平为什么重视他的理性](person-munger.md)
 
-- [乔布斯：段永平为什么说他既是报时人也是造钟人](/person-steve-jobs)
+- [乔布斯：段永平为什么说他既是报时人也是造钟人](person-steve-jobs.md)
 
-- [库克：段永平为什么认为他是更好的 CEO](/person-tim-cook)
+- [库克：段永平为什么认为他是更好的 CEO](person-tim-cook.md)
 
-- [马云：段永平为什么一直认为他了不起](/person-mayun)
+- [马云：段永平为什么一直认为他了不起](person-mayun.md)
 
-- [丁磊：段永平为什么说他很有悟性](/person-dinglei)
+- [丁磊：段永平为什么说他很有悟性](person-dinglei.md)
 
-- [马化腾：段永平为什么正面评价他](/person-mahuateng)
+- [马化腾：段永平为什么正面评价他](person-mahuateng.md)
 
-- [黄峥：段永平为什么高度评价他](/person-huangzheng)
+- [黄峥：段永平为什么高度评价他](person-huangzheng.md)
 
-- [俞敏洪：段永平为什么说他是条汉子](/person-yuminhong)
+- [俞敏洪：段永平为什么说他是条汉子](person-yuminhong.md)
 
-- [季克良：段永平为什么说他对茅台至关重要](/person-jikeliang)
+- [季克良：段永平为什么说他对茅台至关重要](person-jikeliang.md)
 
-- [黄仁勋：段永平为什么欣赏他](/person-huangrenxun)
+- [黄仁勋：段永平为什么欣赏他](person-huangrenxun.md)
 
-- [王宁：段永平为什么欣赏泡泡玛特创始人](/person-wangning)
+- [王宁：段永平为什么欣赏泡泡玛特创始人](person-wangning.md)
 
 ## 专题
 
-- [段永平高度评价过的公司](/topic-highly-rated-companies)
+- [段永平高度评价过的公司](../zhuti/topic-highly-rated-companies.md)
 
-- [段永平高度评价过的人](/topic-highly-rated-people)
+- [段永平高度评价过的人](../zhuti/topic-highly-rated-people.md)
 
-- [段永平正在重估的公司](/topic-revaluated-companies)
+- [段永平正在重估的公司](../zhuti/topic-revaluated-companies.md)

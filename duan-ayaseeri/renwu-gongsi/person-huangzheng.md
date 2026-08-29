@@ -34,7 +34,7 @@
 
 段永平的很多判断都围绕“回到事物本源”。他喜欢和黄峥聊天，是因为两人能围绕本质问题交流，而不是停留在表层热闹、流量故事或短期数据上。
 
-这点和[平常心](/pingchangxin)、[本分](/benfen)、[做对的事情](/zuoduideshiqing)是一条线：先判断什么是对的，再努力把事情做对。
+这点和[平常心](../zhuti/pingchangxin.md)、[本分](../zhuti/benfen.md)、[做对的事情](../zhuti/zuoduideshiqing.md)是一条线：先判断什么是对的，再努力把事情做对。
 
 ### 2. 学习能力
 
@@ -44,7 +44,7 @@
 
 ### 3. 本分文化
 
-段永平早期投资拼多多，更像是基于 right people 和文化的风投。他相信黄峥和团队的[本分](/benfen)文化，会让公司找到非急功近利的办法。
+段永平早期投资拼多多，更像是基于 right people 和文化的风投。他相信黄峥和团队的[本分](../zhuti/benfen.md)文化，会让公司找到非急功近利的办法。
 
 这里的重点不是“拼多多已经完全被看懂”，而是“黄峥和团队提高了公司长期做对事情的概率”。
 
@@ -52,7 +52,7 @@
 
 人物文章不能脱离公司。黄峥被评价高，是因为他影响了拼多多的文化、战略和长期取舍。
 
-段永平对拼多多的判断一直带有“风投”色彩：认可人和文化，但并不总是声称完全看懂未来十年的[商业模式](/shangyemoshi)和[护城河](/huchenghe)。
+段永平对拼多多的判断一直带有“风投”色彩：认可人和文化，但并不总是声称完全看懂未来十年的[商业模式](../zhuti/shangyemoshi.md)和[护城河](../zhuti/huchenghe.md)。
 
 ## 段永平的保留
 
@@ -76,22 +76,22 @@
 
 ## 相关概念
 
-- [本分](/benfen)
+- [本分](../zhuti/benfen.md)
 
-- [做对的事情](/zuoduideshiqing)
+- [做对的事情](../zhuti/zuoduideshiqing.md)
 
-- [把事情做对](/bashiqingzuodui)
+- [把事情做对](../zhuti/bashiqingzuodui.md)
 
-- [企业文化](/qiyewenhua)
+- [企业文化](../zhuti/qiyewenhua.md)
 
-- [商业模式](/shangyemoshi)
+- [商业模式](../zhuti/shangyemoshi.md)
 
-- [护城河](/huchenghe)
+- [护城河](../zhuti/huchenghe.md)
 
 ## 原始出处
 
-- [拼多多公司问答](/wenda-company-tech-platforms)
+- [拼多多公司问答](../wenda/wenda-company-tech-platforms.md)
 
-- [2025年浙江大学演讲及问答完整版](/duanyongping-2025nianzhejiangdaxueyanjiangjiwendawanzhengban)
+- [2025年浙江大学演讲及问答完整版](../yanjiang-fangtan/duanyongping-2025nianzhejiangdaxueyanjiangjiwendawanzhengban.md)
 
-- [2025年方三文对话段永平](/duanyongping-2025nian-fangsanwenduihuaduanyongping-zuozijinenggouxihuandeshiqing)
+- [2025年方三文对话段永平](../yanjiang-fangtan/duanyongping-2025nian-fangsanwenduihuaduanyongping-zuozijinenggouxihuandeshiqing.md)

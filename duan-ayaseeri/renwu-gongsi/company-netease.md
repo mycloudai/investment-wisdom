@@ -12,7 +12,7 @@
 
 - 网易当年有大量现金，市场价格明显低于价值。
 
-- 游戏业务是段永平能理解的[能力圈](/nengliquan)。
+- 游戏业务是段永平能理解的[能力圈](../zhuti/nengliquan.md)。
 
 - 网易在游戏上整体做得非常好。
 
@@ -34,7 +34,7 @@
 
 段永平做过游戏机，对游戏需求和用户行为有一手理解。所以网易不是一个抽象的互联网概念股，而是一个他能理解产品和市场的公司。
 
-这正好体现了[能力圈](/nengliquan)：同样是互联网公司，别人看不懂的游戏业务，对段永平反而是熟悉领域。
+这正好体现了[能力圈](../zhuti/nengliquan.md)：同样是互联网公司，别人看不懂的游戏业务，对段永平反而是熟悉领域。
 
 ### 2. 低价背后的价值
 
@@ -68,22 +68,22 @@
 
 ## 相关人物
 
-- [丁磊](/person-dinglei)
+- [丁磊](person-dinglei.md)
 
-- [巴菲特](/person-buffett)
+- [巴菲特](person-buffett.md)
 
 ## 相关概念
 
-- [现金流](/xianjinliu)
+- [现金流](../zhuti/xianjinliu.md)
 
-- [净现金](/jingxianjin)
+- [净现金](../zhuti/jingxianjin.md)
 
-- [能力圈](/nengliquan)
+- [能力圈](../zhuti/nengliquan.md)
 
-- [长期持有](/zhangqichiyou)
+- [长期持有](../zhuti/zhangqichiyou.md)
 
-- [平常心](/pingchangxin)
+- [平常心](../zhuti/pingchangxin.md)
 
 ## 原始出处
 
-- [网易公司问答](/wenda-company-netease)
+- [网易公司问答](../wenda/wenda-company-netease.md)

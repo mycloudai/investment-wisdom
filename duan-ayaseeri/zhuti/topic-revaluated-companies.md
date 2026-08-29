@@ -10,15 +10,15 @@
 
 ## 典型重估案例
 
-- [泡泡玛特](/company-pop-mart)：从“产品和创始人有意思，但看不懂十年后”，到重新评估情绪价值、全球门店、艺术家签约和王宁团队。
+- [泡泡玛特](../renwu-gongsi/company-pop-mart.md)：从“产品和创始人有意思，但看不懂十年后”，到重新评估情绪价值、全球门店、艺术家签约和王宁团队。
 
-- [英伟达](/company-nvidia)：从半导体和 AI 难懂，到承认生态很强、黄仁勋长期方向一致，但仍保留十年护城河疑问。
+- [英伟达](../renwu-gongsi/company-nvidia.md)：从半导体和 AI 难懂，到承认生态很强、黄仁勋长期方向一致，但仍保留十年护城河疑问。
 
-- [阿里巴巴](/company-alibaba)：从高度认可文化和马云，到承认再现辉煌不容易、不确定性很大。
+- [阿里巴巴](../renwu-gongsi/company-alibaba.md)：从高度认可文化和马云，到承认再现辉煌不容易、不确定性很大。
 
-- [新东方](/company-new-oriental)：从认可好公司和俞敏洪，到保留“力气活”生意模式和政策风险。
+- [新东方](../renwu-gongsi/company-new-oriental.md)：从认可好公司和俞敏洪，到保留“力气活”生意模式和政策风险。
 
-- [GE](/company-ge)：从认可企业文化叙事，到修正为买得欠妥。
+- [GE](../renwu-gongsi/company-ge.md)：从认可企业文化叙事，到修正为买得欠妥。
 
 ## 重估不是反复横跳
 
@@ -58,12 +58,12 @@
 
 ## 相关概念
 
-- [能力圈](/nengliquan)
+- [能力圈](nengliquan.md)
 
-- [商业模式](/shangyemoshi)
+- [商业模式](shangyemoshi.md)
 
-- [护城河](/huchenghe)
+- [护城河](huchenghe.md)
 
-- [机会成本](/jihuichengben)
+- [机会成本](jihuichengben.md)
 
-- [平常心](/pingchangxin)
+- [平常心](pingchangxin.md)

@@ -10,31 +10,31 @@
 
 ## 高度评价且长期较清晰
 
-- [苹果](/company-apple)：用户体验、生态系统、企业文化和单一产品模式。
+- [苹果](../renwu-gongsi/company-apple.md)：用户体验、生态系统、企业文化和单一产品模式。
 
-- [贵州茅台](/company-maotai)：好产品、强品牌、长坡厚雪和现金流。
+- [贵州茅台](../renwu-gongsi/company-maotai.md)：好产品、强品牌、长坡厚雪和现金流。
 
-- [网易](/company-netease)：游戏、现金、丁磊和长期持有案例。
+- [网易](../renwu-gongsi/company-netease.md)：游戏、现金、丁磊和长期持有案例。
 
-- [腾讯](/company-tencent)：微信、微信支付、社交关系和商业模式。
+- [腾讯](../renwu-gongsi/company-tencent.md)：微信、微信支付、社交关系和商业模式。
 
 ## 高度关注但仍有保留
 
-- [拼多多](/company-pinduoduo)：黄峥和本分文化是核心，但商业模式仍需持续观察。
+- [拼多多](../renwu-gongsi/company-pinduoduo.md)：黄峥和本分文化是核心，但商业模式仍需持续观察。
 
-- [英伟达](/company-nvidia)：产品和生态非常强，但十年护城河仍难看懂。
+- [英伟达](../renwu-gongsi/company-nvidia.md)：产品和生态非常强，但十年护城河仍难看懂。
 
-- [泡泡玛特](/company-pop-mart)：情绪价值、IP、全球门店和王宁团队值得重估。
+- [泡泡玛特](../renwu-gongsi/company-pop-mart.md)：情绪价值、IP、全球门店和王宁团队值得重估。
 
-- [新东方](/company-new-oriental)：俞敏洪和组织韧性值得尊重，但生意模式是力气活。
+- [新东方](../renwu-gongsi/company-new-oriental.md)：俞敏洪和组织韧性值得尊重，但生意模式是力气活。
 
 ## 曾高度评价但后来修正
 
-- [阿里巴巴](/company-alibaba)：早期高度评价企业文化和马云，但后来对再现辉煌保留明显。
+- [阿里巴巴](../renwu-gongsi/company-alibaba.md)：早期高度评价企业文化和马云，但后来对再现辉煌保留明显。
 
-- [GE](/company-ge)：曾基于企业文化叙事认可，后来因业务复杂和多元化问题修正。
+- [GE](../renwu-gongsi/company-ge.md)：曾基于企业文化叙事认可，后来因业务复杂和多元化问题修正。
 
-- [任天堂](/company-nintendo)：更像早期经营学习对象，对渠道、游戏和单一产品理解影响很大。
+- [任天堂](../renwu-gongsi/company-nintendo.md)：更像早期经营学习对象，对渠道、游戏和单一产品理解影响很大。
 
 ## 共同判断框架
 
@@ -44,24 +44,24 @@
 
 ### 2. 好商业模式
 
-好产品还要沉淀成[商业模式](/shangyemoshi)。一次性爆款不够，关键是能否长期产生现金流。
+好产品还要沉淀成[商业模式](shangyemoshi.md)。一次性爆款不够，关键是能否长期产生现金流。
 
 ### 3. 好企业文化
 
-段永平反复强调[企业文化](/qiyewenhua)。苹果、阿里、腾讯、拼多多、泡泡玛特等案例里，他都会看文化和创始人。
+段永平反复强调[企业文化](qiyewenhua.md)。苹果、阿里、腾讯、拼多多、泡泡玛特等案例里，他都会看文化和创始人。
 
 ### 4. 能力圈
 
-公司再好，如果看不懂，也不能强行下重手。[英伟达](/company-nvidia)就是典型：厉害不等于完全在能力圈内。
+公司再好，如果看不懂，也不能强行下重手。[英伟达](../renwu-gongsi/company-nvidia.md)就是典型：厉害不等于完全在能力圈内。
 
 ## 相关概念
 
-- [商业模式](/shangyemoshi)
+- [商业模式](shangyemoshi.md)
 
-- [企业文化](/qiyewenhua)
+- [企业文化](qiyewenhua.md)
 
-- [护城河](/huchenghe)
+- [护城河](huchenghe.md)
 
-- [现金流](/xianjinliu)
+- [现金流](xianjinliu.md)
 
-- [能力圈](/nengliquan)
+- [能力圈](nengliquan.md)

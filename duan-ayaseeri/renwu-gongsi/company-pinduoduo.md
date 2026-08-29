@@ -38,7 +38,7 @@
 
 ### 2. 本分文化
 
-黄峥和拼多多反复被放在[本分](/benfen)和[做对的事情](/zuoduideshiqing)的语境里讨论。段永平喜欢的是这种能约束短期冲动的文化。
+黄峥和拼多多反复被放在[本分](../zhuti/benfen.md)和[做对的事情](../zhuti/zuoduideshiqing.md)的语境里讨论。段永平喜欢的是这种能约束短期冲动的文化。
 
 对于快速增长的公司，文化尤其重要。没有文化约束，流量和增长很容易变成短期行为。
 
@@ -46,7 +46,7 @@
 
 拼多多早期从农产品切入，段永平后来也提到过渠道确实做得好。农产品卖不动就会损耗，渠道效率能直接改变供需关系。
 
-这让拼多多不只是“便宜”，而是通过新的[渠道](/qudao)方式满足了某些真实需求。
+这让拼多多不只是“便宜”，而是通过新的[渠道](../zhuti/qudao.md)方式满足了某些真实需求。
 
 ## 保留与风险
 
@@ -66,24 +66,24 @@
 
 ## 相关人物
 
-- [黄峥](/person-huangzheng)
+- [黄峥](person-huangzheng.md)
 
 ## 相关概念
 
-- [本分](/benfen)
+- [本分](../zhuti/benfen.md)
 
-- [渠道](/qudao)
+- [渠道](../zhuti/qudao.md)
 
-- [商业模式](/shangyemoshi)
+- [商业模式](../zhuti/shangyemoshi.md)
 
-- [企业文化](/qiyewenhua)
+- [企业文化](../zhuti/qiyewenhua.md)
 
-- [护城河](/huchenghe)
+- [护城河](../zhuti/huchenghe.md)
 
 ## 原始出处
 
-- [拼多多公司问答](/wenda-company-tech-platforms)
+- [拼多多公司问答](../wenda/wenda-company-tech-platforms.md)
 
-- [2025年浙江大学演讲及问答完整版](/duanyongping-2025nianzhejiangdaxueyanjiangjiwendawanzhengban)
+- [2025年浙江大学演讲及问答完整版](../yanjiang-fangtan/duanyongping-2025nianzhejiangdaxueyanjiangjiwendawanzhengban.md)
 
-- [2025年方三文对话段永平](/duanyongping-2025nian-fangsanwenduihuaduanyongping-zuozijinenggouxihuandeshiqing)
+- [2025年方三文对话段永平](../yanjiang-fangtan/duanyongping-2025nian-fangsanwenduihuaduanyongping-zuozijinenggouxihuandeshiqing.md)

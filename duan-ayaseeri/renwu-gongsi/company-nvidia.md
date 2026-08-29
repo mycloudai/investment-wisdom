@@ -70,20 +70,20 @@
 
 ## 相关人物
 
-- [黄仁勋](/person-huangrenxun)
+- [黄仁勋](person-huangrenxun.md)
 
 ## 相关概念
 
-- [护城河](/huchenghe)
+- [护城河](../zhuti/huchenghe.md)
 
-- [差异化](/chayihua)
+- [差异化](../zhuti/chayihua.md)
 
-- [能力圈](/nengliquan)
+- [能力圈](../zhuti/nengliquan.md)
 
-- [现金流](/xianjinliu)
+- [现金流](../zhuti/xianjinliu.md)
 
-- [生态系统](/shengtaixitong)
+- [生态系统](../zhuti/shengtaixitong.md)
 
 ## 原始出处
 
-- [英伟达公司问答](/wenda-company-tech-platforms)
+- [英伟达公司问答](../wenda/wenda-company-tech-platforms.md)

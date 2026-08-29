@@ -10,35 +10,35 @@
 
 ## 投资大师
 
-- [巴菲特](/person-buffett)：买股票就是买公司，价值投资不能急、不能躁。
+- [巴菲特](../renwu-gongsi/person-buffett.md)：买股票就是买公司，价值投资不能急、不能躁。
 
-- [芒格](/person-munger)：理性、逆向思维、能力圈和不犯大错。
+- [芒格](../renwu-gongsi/person-munger.md)：理性、逆向思维、能力圈和不犯大错。
 
 ## 苹果相关人物
 
-- [乔布斯](/person-steve-jobs)：利润之上的追求，既是报时人也是造钟人。
+- [乔布斯](../renwu-gongsi/person-steve-jobs.md)：利润之上的追求，既是报时人也是造钟人。
 
-- [库克](/person-tim-cook)：更理性，更好的 CEO，延续苹果文化。
+- [库克](../renwu-gongsi/person-tim-cook.md)：更理性，更好的 CEO，延续苹果文化。
 
 ## 中国企业家
 
-- [马云](/person-mayun)：理想主义和现实主义兼具，长期被段永平认为很了不起。
+- [马云](../renwu-gongsi/person-mayun.md)：理想主义和现实主义兼具，长期被段永平认为很了不起。
 
-- [丁磊](/person-dinglei)：很有悟性，单纯、不算计，现金多也没有犯大错。
+- [丁磊](../renwu-gongsi/person-dinglei.md)：很有悟性，单纯、不算计，现金多也没有犯大错。
 
-- [马化腾](/person-mahuateng)：人不错、年轻，微信和微信支付影响深远。
+- [马化腾](../renwu-gongsi/person-mahuateng.md)：人不错、年轻，微信和微信支付影响深远。
 
-- [黄峥](/person-huangzheng)：关注本质、学习能力强，段永平非常信任。
+- [黄峥](../renwu-gongsi/person-huangzheng.md)：关注本质、学习能力强，段永平非常信任。
 
-- [俞敏洪](/person-yuminhong)：能够面对问题，有韧性，是条汉子。
+- [俞敏洪](../renwu-gongsi/person-yuminhong.md)：能够面对问题，有韧性，是条汉子。
 
-- [王宁](/person-wangning)：商业理解强，勤于思考，注重细节，是泡泡玛特壁垒之一。
+- [王宁](../renwu-gongsi/person-wangning.md)：商业理解强，勤于思考，注重细节，是泡泡玛特壁垒之一。
 
 ## 关键经营者
 
-- [季克良](/person-jikeliang)：茅台质量文化和造钟人作用。
+- [季克良](../renwu-gongsi/person-jikeliang.md)：茅台质量文化和造钟人作用。
 
-- [黄仁勋](/person-huangrenxun)：真诚、有能量，长期方向一致，带领英伟达形成强生态。
+- [黄仁勋](../renwu-gongsi/person-huangrenxun.md)：真诚、有能量，长期方向一致，带领英伟达形成强生态。
 
 ## 共同判断框架
 
@@ -48,7 +48,7 @@
 
 ### 2. 是否长期做对事情
 
-段永平评价人，最终会落到[做对的事情](/zuoduideshiqing)和[把事情做对](/bashiqingzuodui)。
+段永平评价人，最终会落到[做对的事情](zuoduideshiqing.md)和[把事情做对](bashiqingzuodui.md)。
 
 ### 3. 是否形成组织能力
 
@@ -60,12 +60,12 @@
 
 ## 相关概念
 
-- [理性](/lixing)
+- [理性](lixing.md)
 
-- [平常心](/pingchangxin)
+- [平常心](pingchangxin.md)
 
-- [本分](/benfen)
+- [本分](benfen.md)
 
-- [造钟人](/zaozhongren)
+- [造钟人](zaozhongren.md)
 
-- [企业文化](/qiyewenhua)
+- [企业文化](qiyewenhua.md)
