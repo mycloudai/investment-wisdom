@@ -9,6 +9,4 @@
 - [巴菲特](/buffett/letters/)
 - [芒格](/munger/thinking-grids/)
 
-![logo](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64'%3E%3C/svg%3E)
-
 [GitHub](https://github.com/mycloudai/investment-wisdom)

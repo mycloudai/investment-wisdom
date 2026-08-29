@@ -63,7 +63,21 @@ fs.writeFileSync(path.join(ROOT, 'index.html'), `<!DOCTYPE html>
 <meta charset="UTF-8">
 <title>投资智慧知识库</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+<link rel="stylesheet" href="vendor/theme-vue.css">
+<style>
+/* 手机端适配 */
+.markdown-section { max-width: 100%; padding: 1rem 1.2rem; }
+.markdown-section table { display: block; overflow-x: auto; white-space: nowrap; }
+.markdown-section img, .markdown-section video { max-width: 100%; height: auto; }
+.markdown-section pre { overflow-x: auto; font-size: 13px; }
+.markdown-section h1 { font-size: 1.5rem; }
+body { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
+@media screen and (max-width: 768px) {
+  .markdown-section { padding: 0.8rem 1rem; }
+  .docsify-pagination-container { flex-wrap: wrap; gap: 0.5rem; }
+  .pagination-item { width: 100%; margin: 0 !important; }
+}
+</style>
 </head>
 <body>
 <div id="app">加载中…</div>
@@ -74,6 +88,7 @@ window.$docsify = {
   subMaxLevel: 3,
   auto2top: true,
   coverpage: true,
+  mergeNavbar: true,
   pagination: { previousText: '上一篇', nextText: '下一篇', crossChapter: true },
   search: {
     depth: 3,
@@ -83,9 +98,9 @@ window.$docsify = {
   }
 };
 </script>
-<script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
-<script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+<script src="vendor/docsify.min.js"></script>
+<script src="vendor/search.min.js"></script>
+<script src="vendor/docsify-pagination.min.js"></script>
 </body>
 </html>
 `);
@@ -100,8 +115,6 @@ fs.writeFileSync(path.join(ROOT, '_coverpage.md'), `# 投资智慧知识库
 - [段永平](/duan/zhuti/)
 - [巴菲特](/buffett/letters/)
 - [芒格](/munger/thinking-grids/)
-
-![logo](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='64' height='64'%3E%3C/svg%3E)
 
 [GitHub](https://github.com/mycloudai/investment-wisdom)
 `);
