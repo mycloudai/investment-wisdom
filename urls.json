@@ -1,0 +1,772 @@
+[
+ {
+  "pos": 1,
+  "url": "https://duan.ayaseeri.com/benfen",
+  "name": "本分"
+ },
+ {
+  "pos": 2,
+  "url": "https://duan.ayaseeri.com/pingchangxin",
+  "name": "平常心"
+ },
+ {
+  "pos": 3,
+  "url": "https://duan.ayaseeri.com/zuoduideshiqing",
+  "name": "做对的事情"
+ },
+ {
+  "pos": 4,
+  "url": "https://duan.ayaseeri.com/bashiqingzuodui",
+  "name": "把事情做对"
+ },
+ {
+  "pos": 5,
+  "url": "https://duan.ayaseeri.com/nengliquan",
+  "name": "能力圈"
+ },
+ {
+  "pos": 6,
+  "url": "https://duan.ayaseeri.com/buzuoshenme",
+  "name": "不做什么"
+ },
+ {
+  "pos": 7,
+  "url": "https://duan.ayaseeri.com/buzuo-yu-jingti",
+  "name": "不做清单与警惕清单"
+ },
+ {
+  "pos": 8,
+  "url": "https://duan.ayaseeri.com/ganweitianxiahou",
+  "name": "敢为天下后"
+ },
+ {
+  "pos": 9,
+  "url": "https://duan.ayaseeri.com/xiaofeizhedaoxiang",
+  "name": "消费者导向"
+ },
+ {
+  "pos": 10,
+  "url": "https://duan.ayaseeri.com/jiazhitouzi",
+  "name": "价值投资"
+ },
+ {
+  "pos": 11,
+  "url": "https://duan.ayaseeri.com/fuzhai",
+  "name": "负债"
+ },
+ {
+  "pos": 12,
+  "url": "https://duan.ayaseeri.com/shangyemoshi",
+  "name": "商业模式"
+ },
+ {
+  "pos": 13,
+  "url": "https://duan.ayaseeri.com/huchenghe",
+  "name": "护城河"
+ },
+ {
+  "pos": 14,
+  "url": "https://duan.ayaseeri.com/jingxianjin",
+  "name": "净现金"
+ },
+ {
+  "pos": 15,
+  "url": "https://duan.ayaseeri.com/kaixiaohelixing",
+  "name": "开销合理性"
+ },
+ {
+  "pos": 16,
+  "url": "https://duan.ayaseeri.com/xianjinliu",
+  "name": "现金流"
+ },
+ {
+  "pos": 17,
+  "url": "https://duan.ayaseeri.com/zhenshilirun",
+  "name": "真实利润"
+ },
+ {
+  "pos": 18,
+  "url": "https://duan.ayaseeri.com/zhexian",
+  "name": "折现"
+ },
+ {
+  "pos": 19,
+  "url": "https://duan.ayaseeri.com/anquanbianji",
+  "name": "安全边际"
+ },
+ {
+  "pos": 20,
+  "url": "https://duan.ayaseeri.com/jingzichan",
+  "name": "扣除商誉的净资产"
+ },
+ {
+  "pos": 21,
+  "url": "https://duan.ayaseeri.com/jibenmian",
+  "name": "基本面"
+ },
+ {
+  "pos": 22,
+  "url": "https://duan.ayaseeri.com/jihuichengben",
+  "name": "机会成本"
+ },
+ {
+  "pos": 23,
+  "url": "https://duan.ayaseeri.com/zhangqichiyou",
+  "name": "长期持有"
+ },
+ {
+  "pos": 24,
+  "url": "https://duan.ayaseeri.com/touji",
+  "name": "投机"
+ },
+ {
+  "pos": 25,
+  "url": "https://duan.ayaseeri.com/zhisun",
+  "name": "止损"
+ },
+ {
+  "pos": 26,
+  "url": "https://duan.ayaseeri.com/qiyewenhua",
+  "name": "企业文化"
+ },
+ {
+  "pos": 27,
+  "url": "https://duan.ayaseeri.com/pinpai",
+  "name": "品牌"
+ },
+ {
+  "pos": 28,
+  "url": "https://duan.ayaseeri.com/chayihua",
+  "name": "差异化"
+ },
+ {
+  "pos": 29,
+  "url": "https://duan.ayaseeri.com/dingjiaquan",
+  "name": "定价权"
+ },
+ {
+  "pos": 30,
+  "url": "https://duan.ayaseeri.com/yonghutiyan",
+  "name": "用户体验"
+ },
+ {
+  "pos": 31,
+  "url": "https://duan.ayaseeri.com/qudao",
+  "name": "渠道"
+ },
+ {
+  "pos": 32,
+  "url": "https://duan.ayaseeri.com/pingtai",
+  "name": "平台"
+ },
+ {
+  "pos": 33,
+  "url": "https://duan.ayaseeri.com/shengtaixitong",
+  "name": "生态系统"
+ },
+ {
+  "pos": 34,
+  "url": "https://duan.ayaseeri.com/danyichanpin",
+  "name": "单一产品"
+ },
+ {
+  "pos": 35,
+  "url": "https://duan.ayaseeri.com/zaozhongren",
+  "name": "造钟人"
+ },
+ {
+  "pos": 36,
+  "url": "https://duan.ayaseeri.com/lirunzhishangdezhuiqiu",
+  "name": "利润之上的追求"
+ },
+ {
+  "pos": 37,
+  "url": "https://duan.ayaseeri.com/jinquxin",
+  "name": "进取心"
+ },
+ {
+  "pos": 38,
+  "url": "https://duan.ayaseeri.com/naixin",
+  "name": "耐心"
+ },
+ {
+  "pos": 39,
+  "url": "https://duan.ayaseeri.com/zerenxin",
+  "name": "责任心"
+ },
+ {
+  "pos": 40,
+  "url": "https://duan.ayaseeri.com/aixin",
+  "name": "爱心"
+ },
+ {
+  "pos": 41,
+  "url": "https://duan.ayaseeri.com/xinyu",
+  "name": "信誉"
+ },
+ {
+  "pos": 42,
+  "url": "https://duan.ayaseeri.com/zhengzhi",
+  "name": "正直"
+ },
+ {
+  "pos": 43,
+  "url": "https://duan.ayaseeri.com/lixing",
+  "name": "理性"
+ },
+ {
+  "pos": 44,
+  "url": "https://duan.ayaseeri.com/zhangqizhuyi",
+  "name": "长期主义"
+ },
+ {
+  "pos": 45,
+  "url": "https://duan.ayaseeri.com/tuijianshudan",
+  "name": "段永平推荐书单"
+ },
+ {
+  "pos": 46,
+  "url": "https://duan.ayaseeri.com/duanyongping-1998nian-bubugao-yingxiaorenyuan-jianghua",
+  "name": "1998年段永平对步步高所有营销人员的讲话"
+ },
+ {
+  "pos": 47,
+  "url": "https://duan.ayaseeri.com/buffett-1998nian-foluolida-daxue-yanjiang",
+  "name": "1998年巴菲特佛罗里达大学演讲"
+ },
+ {
+  "pos": 48,
+  "url": "https://duan.ayaseeri.com/duanyongping-1999nian-doushikuaibao-caifangshouji",
+  "name": "1999年 《都市快报》采访手记"
+ },
+ {
+  "pos": 49,
+  "url": "https://duan.ayaseeri.com/duanyongping-1999nian-bubugaojianghua",
+  "name": "1999年 步步高讲话"
+ },
+ {
+  "pos": 50,
+  "url": "https://duan.ayaseeri.com/duanyongping-1999nianzuokerenmindaxuejingcaiwendashilu",
+  "name": "1999年做客人民大学精彩问答实录"
+ },
+ {
+  "pos": 51,
+  "url": "https://duan.ayaseeri.com/duanyongping-2000nian-xiaoshouyushichang-zazhizhuanfang",
+  "name": "2000年 《销售与市场》杂志专访"
+ },
+ {
+  "pos": 52,
+  "url": "https://duan.ayaseeri.com/duanyongping-2000nianzaiyangshi-pinpaiyuchuanboguojiluntan-shangdeyanjiang",
+  "name": "2000年在央视“品牌与传播国际论坛”上的演讲"
+ },
+ {
+  "pos": 53,
+  "url": "https://duan.ayaseeri.com/duanyongping-2000zhuizhushijiedejiezou-jingyingzhe-zazhi2000nian-bubugaozongjing",
+  "name": "2000追逐世界的节奏 —— 《经营者》杂志2000年，步步高总经理访谈记录"
+ },
+ {
+  "pos": 54,
+  "url": "https://duan.ayaseeri.com/duanyongping-2001-jingyingtianxia-gaofengluntan-zhi-duanyongping-2001nianmozhong",
+  "name": "2001《经营天下：高峰论坛 之 段永平》—— 2001年末中国20位行业巨头面对面访谈录"
+ },
+ {
+  "pos": 55,
+  "url": "https://duan.ayaseeri.com/duanyongping-2001nian-woweishenmeyaoqudushu-duzhe-2001nian11yuekan",
+  "name": "2001年 我为什么要去读书？ —— 《读者》2001年11月刊"
+ },
+ {
+  "pos": 56,
+  "url": "https://duan.ayaseeri.com/duanyongping-2001nian-shijiejinglirenwenzhai-zhuanfang",
+  "name": "2001年《世界经理人文摘》专访"
+ },
+ {
+  "pos": 57,
+  "url": "https://duan.ayaseeri.com/duanyongping-2002nian-cctv2jingjipindao-maidian-lanmucaifang-touyingjinengfouzou",
+  "name": "2002年 CCTV2经济频道《卖点》栏目采访：投影机能否走进家庭？"
+ },
+ {
+  "pos": 58,
+  "url": "https://duan.ayaseeri.com/duanyongping-2003nianbeijingdaxuezongcaibanyanjiangzuotanhuiquanchengshilu",
+  "name": "2003年北京大学总裁班演讲座谈会全程实录"
+ },
+ {
+  "pos": 59,
+  "url": "https://duan.ayaseeri.com/duanyongping-2004caifurensheng-duanyongping-2004-caifang",
+  "name": "2004财富人生—段永平 2004 采访"
+ },
+ {
+  "pos": 60,
+  "url": "https://duan.ayaseeri.com/duanyongping-2005nianbubugaoshizhounian-ji-nianwanhui-duanyongpingfayan",
+  "name": "2005年步步高十周年“记”念晚会：段永平发言"
+ },
+ {
+  "pos": 61,
+  "url": "https://duan.ayaseeri.com/duanyongping-2006nian-shenduduihuawangyizhengquanquanchengshilu",
+  "name": "2006年 深度对话网易证券全程实录"
+ },
+ {
+  "pos": 62,
+  "url": "https://duan.ayaseeri.com/duanyongping-2006nianzuokexinlangcaijingpindaoliaotianquanshilu",
+  "name": "2006年做客新浪财经频道聊天全实录"
+ },
+ {
+  "pos": 63,
+  "url": "https://duan.ayaseeri.com/duanyongping-2006nianzheda-shihuashishuo",
+  "name": "2006年浙大“实话实说”"
+ },
+ {
+  "pos": 64,
+  "url": "https://duan.ayaseeri.com/duanyongping-2007nianyubafeitegongjinwucanhouwangyizhuanfang",
+  "name": "2007年与巴菲特共进午餐后网易专访"
+ },
+ {
+  "pos": 65,
+  "url": "https://duan.ayaseeri.com/duanyongping-2007nianboshitangfangtan",
+  "name": "2007年波士堂访谈"
+ },
+ {
+  "pos": 66,
+  "url": "https://duan.ayaseeri.com/duanyongping-2009nian-shenduzhuanfang-tantaogongyirensheng-fenxiangchenggongtihu",
+  "name": "2009年 深度专访： 探讨公益人生，分享成功体会"
+ },
+ {
+  "pos": 67,
+  "url": "https://duan.ayaseeri.com/duanyongping-2009nian-21shijijingjibaodao-dujiazhuanfang-woburenweibafeiteshigus",
+  "name": "2009年《21世纪经济报道》独家专访：我不认为巴菲特是股神（2009年）"
+ },
+ {
+  "pos": 68,
+  "url": "https://duan.ayaseeri.com/duanyongping-2009zhedambafenxiang-qiyezhuiqiudeshiwenjiandefazhan-jibengongzuizh",
+  "name": "2009浙大MBA分享：企业追求的是稳健的发展，基本功最重要"
+ },
+ {
+  "pos": 69,
+  "url": "https://duan.ayaseeri.com/duanyongping-2010nian-bubugaodongshizhangduanyongpingherendaxiaozhangjibaochengj",
+  "name": "2010年 步步高董事长段永平和人大校长纪宝成记者会实录"
+ },
+ {
+  "pos": 70,
+  "url": "https://duan.ayaseeri.com/duanyongping-2011nianmairupingguosikao",
+  "name": "2011年买入苹果思考"
+ },
+ {
+  "pos": 71,
+  "url": "https://duan.ayaseeri.com/duanyongping-2013nianzhedayanjiang",
+  "name": "2013年浙大演讲"
+ },
+ {
+  "pos": 72,
+  "url": "https://duan.ayaseeri.com/tim-cook-2015nian-huashengdundaxue-biyeyanjiang",
+  "name": "2015年苹果CEO库克华盛顿大学毕业典礼演讲：找到你的北斗星"
+ },
+ {
+  "pos": 73,
+  "url": "https://duan.ayaseeri.com/shenwei-2015nian-vivo-20zhounian-wanyan-jianghua",
+  "name": "2015年vivo 20周年晚宴沈炜讲话"
+ },
+ {
+  "pos": 74,
+  "url": "https://duan.ayaseeri.com/duanyongping-2016nianzheda60zhounianzhuanfang",
+  "name": "2016年浙大60周年专访"
+ },
+ {
+  "pos": 75,
+  "url": "https://duan.ayaseeri.com/duanyongping-2018nian-sitanfu-daxue-53wen",
+  "name": "2018年段永平斯坦福大学53问"
+ },
+ {
+  "pos": 76,
+  "url": "https://duan.ayaseeri.com/feidele-2024nian-biyeyanjiang",
+  "name": "2024年费德勒演讲：最优秀的人，也经常失败"
+ },
+ {
+  "pos": 77,
+  "url": "https://duan.ayaseeri.com/duanyongping-2025nianzhejiangdaxueyanjiangjiwendawanzhengban",
+  "name": "2025年浙江大学演讲及问答完整版"
+ },
+ {
+  "pos": 78,
+  "url": "https://duan.ayaseeri.com/duanyongping-2025niantantangpingyuneijuan-yuwangshijiaoliuzinvjiaoyu",
+  "name": "2025年谈躺平与内卷、与王石交流子女教育"
+ },
+ {
+  "pos": 79,
+  "url": "https://duan.ayaseeri.com/duanyongping-2025nian-fangsanwenduihuaduanyongping-zuozijinenggouxihuandeshiqing",
+  "name": "2025年：方三文对话段永平：做自己能够喜欢的事情很重要"
+ },
+ {
+  "pos": 80,
+  "url": "https://duan.ayaseeri.com/shenwei-2025nian-vivo-30zhounian-wanyan-zhici",
+  "name": "2025年vivo 30周年纪念晚宴沈炜致辞"
+ },
+ {
+  "pos": 81,
+  "url": "https://duan.ayaseeri.com/wenda-topic-index",
+  "name": "投资问答录主题目录"
+ },
+ {
+  "pos": 82,
+  "url": "https://duan.ayaseeri.com/wenda-invest-01",
+  "name": "买股票就是买公司与价值投资"
+ },
+ {
+  "pos": 83,
+  "url": "https://duan.ayaseeri.com/wenda-invest-02",
+  "name": "投资为什么简单但不容易"
+ },
+ {
+  "pos": 84,
+  "url": "https://duan.ayaseeri.com/wenda-invest-03",
+  "name": "看懂生意与能力圈"
+ },
+ {
+  "pos": 85,
+  "url": "https://duan.ayaseeri.com/wenda-invest-04",
+  "name": "风险第一：不做空、不借钱、不懂不碰"
+ },
+ {
+  "pos": 86,
+  "url": "https://duan.ayaseeri.com/wenda-invest-05",
+  "name": "市场波动、宏观与牛熊"
+ },
+ {
+  "pos": 87,
+  "url": "https://duan.ayaseeri.com/wenda-invest-06",
+  "name": "长期持有、集中投资与机会成本"
+ },
+ {
+  "pos": 88,
+  "url": "https://duan.ayaseeri.com/wenda-invest-07",
+  "name": "现金流折现、PE与定性判断"
+ },
+ {
+  "pos": 89,
+  "url": "https://duan.ayaseeri.com/wenda-invest-08",
+  "name": "买卖时机与“持有就是买入”"
+ },
+ {
+  "pos": 90,
+  "url": "https://duan.ayaseeri.com/wenda-invest-09",
+  "name": "财报、现金流、ROE与净资产"
+ },
+ {
+  "pos": 91,
+  "url": "https://duan.ayaseeri.com/wenda-invest-10",
+  "name": "分红、回购与资本配置"
+ },
+ {
+  "pos": 92,
+  "url": "https://duan.ayaseeri.com/wenda-invest-11",
+  "name": "投机、套利、量化与衍生品"
+ },
+ {
+  "pos": 93,
+  "url": "https://duan.ayaseeri.com/wenda-invest-12",
+  "name": "投资心态、Golf、阅读与学习"
+ },
+ {
+  "pos": 94,
+  "url": "https://duan.ayaseeri.com/wenda-business-01",
+  "name": "伟大企业与长坡厚雪"
+ },
+ {
+  "pos": 95,
+  "url": "https://duan.ayaseeri.com/wenda-business-02",
+  "name": "商业模式与投资确定性"
+ },
+ {
+  "pos": 96,
+  "url": "https://duan.ayaseeri.com/wenda-business-03",
+  "name": "护城河与差异化"
+ },
+ {
+  "pos": 97,
+  "url": "https://duan.ayaseeri.com/wenda-business-04",
+  "name": "好产品与用户导向"
+ },
+ {
+  "pos": 98,
+  "url": "https://duan.ayaseeri.com/wenda-business-05",
+  "name": "创新与敢为天下后"
+ },
+ {
+  "pos": 99,
+  "url": "https://duan.ayaseeri.com/wenda-business-06",
+  "name": "品牌的本质"
+ },
+ {
+  "pos": 100,
+  "url": "https://duan.ayaseeri.com/wenda-business-07",
+  "name": "营销、广告、渠道与出海"
+ },
+ {
+  "pos": 101,
+  "url": "https://duan.ayaseeri.com/wenda-business-08",
+  "name": "企业文化"
+ },
+ {
+  "pos": 102,
+  "url": "https://duan.ayaseeri.com/wenda-business-09",
+  "name": "本分、核心价值观与利润之上的追求"
+ },
+ {
+  "pos": 103,
+  "url": "https://duan.ayaseeri.com/wenda-business-10",
+  "name": "创始人、CEO、团队与激励"
+ },
+ {
+  "pos": 104,
+  "url": "https://duan.ayaseeri.com/wenda-business-11",
+  "name": "Stop Doing List、聚焦与更健康更长久"
+ },
+ {
+  "pos": 105,
+  "url": "https://duan.ayaseeri.com/wenda-business-12",
+  "name": "收购与多元化"
+ },
+ {
+  "pos": 106,
+  "url": "https://duan.ayaseeri.com/wenda-company-apple-01",
+  "name": "苹果：产品、商业模式与生态"
+ },
+ {
+  "pos": 107,
+  "url": "https://duan.ayaseeri.com/wenda-company-apple-02",
+  "name": "苹果：管理层与企业文化"
+ },
+ {
+  "pos": 108,
+  "url": "https://duan.ayaseeri.com/wenda-company-apple-03",
+  "name": "苹果：估值、持有与资本配置"
+ },
+ {
+  "pos": 109,
+  "url": "https://duan.ayaseeri.com/wenda-company-maotai-01",
+  "name": "贵州茅台：产品、品牌与商业模式"
+ },
+ {
+  "pos": 110,
+  "url": "https://duan.ayaseeri.com/wenda-company-maotai-02",
+  "name": "贵州茅台：治理、渠道与i茅台"
+ },
+ {
+  "pos": 111,
+  "url": "https://duan.ayaseeri.com/wenda-company-maotai-03",
+  "name": "贵州茅台：估值与投资判断"
+ },
+ {
+  "pos": 112,
+  "url": "https://duan.ayaseeri.com/wenda-company-bbk",
+  "name": "小霸王与步步高"
+ },
+ {
+  "pos": 113,
+  "url": "https://duan.ayaseeri.com/wenda-company-netease",
+  "name": "网易"
+ },
+ {
+  "pos": 114,
+  "url": "https://duan.ayaseeri.com/wenda-company-alibaba-yahoo",
+  "name": "阿里巴巴与雅虎"
+ },
+ {
+  "pos": 115,
+  "url": "https://duan.ayaseeri.com/wenda-company-pop-mart",
+  "name": "泡泡玛特"
+ },
+ {
+  "pos": 116,
+  "url": "https://duan.ayaseeri.com/wenda-company-consumer-electronics",
+  "name": "消费电子与日本制造"
+ },
+ {
+  "pos": 117,
+  "url": "https://duan.ayaseeri.com/wenda-company-china-games",
+  "name": "中国游戏公司群像"
+ },
+ {
+  "pos": 118,
+  "url": "https://duan.ayaseeri.com/wenda-company-tech-platforms",
+  "name": "互联网、科技与新产业"
+ },
+ {
+  "pos": 119,
+  "url": "https://duan.ayaseeri.com/wenda-company-retail-services",
+  "name": "零售与服务业案例"
+ },
+ {
+  "pos": 120,
+  "url": "https://duan.ayaseeri.com/wenda-company-energy-industrial",
+  "name": "能源与工业企业案例"
+ },
+ {
+  "pos": 121,
+  "url": "https://duan.ayaseeri.com/wenda-life-01",
+  "name": "做对的事情与把事情做对"
+ },
+ {
+  "pos": 122,
+  "url": "https://duan.ayaseeri.com/wenda-life-02",
+  "name": "正直、理性与长期视角"
+ },
+ {
+  "pos": 123,
+  "url": "https://duan.ayaseeri.com/wenda-life-03",
+  "name": "职业、创业与享受过程"
+ },
+ {
+  "pos": 124,
+  "url": "https://duan.ayaseeri.com/wenda-life-04",
+  "name": "家庭、孩子与教育"
+ },
+ {
+  "pos": 125,
+  "url": "https://duan.ayaseeri.com/wenda-life-05",
+  "name": "开放学习、公益与社会责任"
+ },
+ {
+  "pos": 126,
+  "url": "https://duan.ayaseeri.com/wenda-life-06",
+  "name": "睡眠、减重、Zone 2与日常健康"
+ },
+ {
+  "pos": 127,
+  "url": "https://duan.ayaseeri.com/duanyongping-kan-dong-yijia-gongsi",
+  "name": "段永平如何研究一家公司：从产品、年报到企业文化"
+ },
+ {
+  "pos": 128,
+  "url": "https://duan.ayaseeri.com/gongsi-yu-renwu",
+  "name": "公司与人物"
+ },
+ {
+  "pos": 129,
+  "url": "https://duan.ayaseeri.com/company-apple",
+  "name": "苹果：段永平为什么高度评价这家公司"
+ },
+ {
+  "pos": 130,
+  "url": "https://duan.ayaseeri.com/person-huangzheng",
+  "name": "黄峥：段永平为什么高度评价他"
+ },
+ {
+  "pos": 131,
+  "url": "https://duan.ayaseeri.com/company-pop-mart",
+  "name": "泡泡玛特有定价权吗：段永平视角下的提价能力"
+ },
+ {
+  "pos": 132,
+  "url": "https://duan.ayaseeri.com/person-wangning",
+  "name": "王宁：段永平为什么欣赏泡泡玛特创始人"
+ },
+ {
+  "pos": 133,
+  "url": "https://duan.ayaseeri.com/company-maotai",
+  "name": "贵州茅台：段永平为什么高度评价这家公司"
+ },
+ {
+  "pos": 134,
+  "url": "https://duan.ayaseeri.com/company-netease",
+  "name": "网易：段永平为什么长期评价这家公司"
+ },
+ {
+  "pos": 135,
+  "url": "https://duan.ayaseeri.com/company-tencent",
+  "name": "腾讯：段永平为什么认为它是长坡厚雪"
+ },
+ {
+  "pos": 136,
+  "url": "https://duan.ayaseeri.com/company-alibaba",
+  "name": "阿里巴巴：段永平为什么曾高度评价又保留"
+ },
+ {
+  "pos": 137,
+  "url": "https://duan.ayaseeri.com/company-pinduoduo",
+  "name": "拼多多：段永平如何看这家公司"
+ },
+ {
+  "pos": 138,
+  "url": "https://duan.ayaseeri.com/company-nvidia",
+  "name": "英伟达：段永平为什么说它厉害但难看懂"
+ },
+ {
+  "pos": 139,
+  "url": "https://duan.ayaseeri.com/company-nintendo",
+  "name": "任天堂：段永平从中学到什么"
+ },
+ {
+  "pos": 140,
+  "url": "https://duan.ayaseeri.com/company-ge",
+  "name": "GE：段永平为什么后来修正这笔投资"
+ },
+ {
+  "pos": 141,
+  "url": "https://duan.ayaseeri.com/company-new-oriental",
+  "name": "新东方：段永平为什么既认可又保留"
+ },
+ {
+  "pos": 142,
+  "url": "https://duan.ayaseeri.com/person-buffett",
+  "name": "巴菲特：段永平为什么高度尊重他"
+ },
+ {
+  "pos": 143,
+  "url": "https://duan.ayaseeri.com/person-munger",
+  "name": "芒格：段永平为什么重视他的理性"
+ },
+ {
+  "pos": 144,
+  "url": "https://duan.ayaseeri.com/person-steve-jobs",
+  "name": "乔布斯：段永平为什么说他既是报时人也是造钟人"
+ },
+ {
+  "pos": 145,
+  "url": "https://duan.ayaseeri.com/person-tim-cook",
+  "name": "库克：段永平为什么认为他是更好的 CEO"
+ },
+ {
+  "pos": 146,
+  "url": "https://duan.ayaseeri.com/person-mayun",
+  "name": "马云：段永平为什么一直认为他了不起"
+ },
+ {
+  "pos": 147,
+  "url": "https://duan.ayaseeri.com/person-dinglei",
+  "name": "丁磊：段永平为什么说他很有悟性"
+ },
+ {
+  "pos": 148,
+  "url": "https://duan.ayaseeri.com/person-mahuateng",
+  "name": "马化腾：段永平为什么正面评价他"
+ },
+ {
+  "pos": 149,
+  "url": "https://duan.ayaseeri.com/person-yuminhong",
+  "name": "俞敏洪：段永平为什么说他是条汉子"
+ },
+ {
+  "pos": 150,
+  "url": "https://duan.ayaseeri.com/person-jikeliang",
+  "name": "季克良：段永平为什么说他对茅台至关重要"
+ },
+ {
+  "pos": 151,
+  "url": "https://duan.ayaseeri.com/person-huangrenxun",
+  "name": "黄仁勋：段永平为什么欣赏他"
+ },
+ {
+  "pos": 152,
+  "url": "https://duan.ayaseeri.com/topic-highly-rated-companies",
+  "name": "段永平高度评价过的公司"
+ },
+ {
+  "pos": 153,
+  "url": "https://duan.ayaseeri.com/topic-highly-rated-people",
+  "name": "段永平高度评价过的人"
+ },
+ {
+  "pos": 154,
+  "url": "https://duan.ayaseeri.com/topic-revaluated-companies",
+  "name": "段永平正在重估的公司"
+ }
+]
