@@ -8,6 +8,7 @@
 |---|---|---|
 | [duan-ayaseeri/](duan-ayaseeri/) | 段永平投资问答录（含其对巴菲特、芒格等人的评价与引用），来源 [duan.ayaseeri.com](https://duan.ayaseeri.com/) | 154 |
 | [buffett-ayaseeri/](buffett-ayaseeri/) | 巴菲特知识库：致股东信、致合伙人信、访谈演讲、股东大会、主题解读，来源 [buffett.ayaseeri.com](https://buffett.ayaseeri.com/) | 347 |
+| [munger-ayaseeri/](munger-ayaseeri/) | 查理·芒格知识库：演讲访谈、股东信、股东会、李录、主题解读、指南书单，来源 [munger.ayaseeri.com](https://munger.ayaseeri.com/) | 174 |
 
 ## 结构说明
 
