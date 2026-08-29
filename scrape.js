@@ -110,9 +110,14 @@ function categoryOf(slug) {
 const SLUG_MAP = (() => {
   const items = JSON.parse(fs.readFileSync(path.join(__dirname, 'urls.json'), 'utf8'));
   const map = {};
+  const counters = {}; // 每目录内序号，按站内 ItemList 顺序
   for (const it of items) {
     const slug = it.url.replace('https://duan.ayaseeri.com/', '').replace(/\/$/, '');
-    if (slug) map[slug] = categoryOf(slug) + '/' + slug + '.md';
+    if (!slug) continue;
+    const cat = categoryOf(slug);
+    counters[cat] = (counters[cat] || 0) + 1;
+    const num = String(counters[cat]).padStart(2, '0');
+    map[slug] = cat + '/' + num + '-' + slug + '.md';
   }
   return map;
 })();
@@ -138,7 +143,7 @@ function resolveLink(href, curCat) {
     const cat = categoryOf(slug);
     const dir = path.join(OUT, cat);
     fs.mkdirSync(dir, { recursive: true });
-    const file = path.join(dir, slug + '.md');
+    const file = path.join(dir, path.basename(SLUG_MAP[slug]));
     try {
       const res = await fetch(it.url, { headers: { 'User-Agent': UA }, redirect: 'follow' });
       if (!res.ok) throw new Error('HTTP ' + res.status);
@@ -148,7 +153,7 @@ function resolveLink(href, curCat) {
       if (!body) throw new Error('no article body');
       const md = `# ${title}\n\n> 来源：${it.url}\n\n${blockToMd(body, cat)}\n`;
       fs.writeFileSync(file, md);
-      index.push({ pos: it.pos, cat, slug, title });
+      index.push({ pos: it.pos, cat, num: path.basename(SLUG_MAP[slug]).split('-')[0], slug, title });
       ok++;
       process.stdout.write(`\r${ok + fail}/${items.length} ok=${ok} fail=${fail} ${slug}        `);
     } catch (e) {
