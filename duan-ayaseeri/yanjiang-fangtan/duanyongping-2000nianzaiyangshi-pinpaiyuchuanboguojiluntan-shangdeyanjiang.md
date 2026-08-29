@@ -2,7 +2,7 @@
 
 > 来源：https://duan.ayaseeri.com/duanyongping-2000nianzaiyangshi-pinpaiyuchuanboguojiluntan-shangdeyanjiang
 
-# 段永平：2000年在央视“[品牌](/pinpai)与传播国际论坛”上的演讲
+# 段永平：2000年在央视“品牌与传播国际论坛”上的演讲
 
 我首先想强调的是,我们是一个企业。我自己本身不是所谓的广告从业人员，更不是一个广告专业人士。广吿的播放是从1997年元旦在中央合开始的。我们很多产品从一开始进入市场，最后达到市场前列第一、第二名，大概花了两年左右的时间。
 
