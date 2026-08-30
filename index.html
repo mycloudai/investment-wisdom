@@ -5,6 +5,7 @@
 <title>投资智慧知识库</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="description" content="段永平 · 巴菲特 · 芒格：995 篇离线全文知识库，支持全文搜索">
+<link rel="icon" href="data:,">
 <link rel="stylesheet" href="vendor/theme.css">
 </head>
 <body>
@@ -64,14 +65,15 @@ window.$docsify = {
         });
         document.body.appendChild(backdrop);
 
-        // 阻断 docsify 核心的移动端「点正文开侧栏」行为（点击正文不应弹侧栏）
+        // 阻断 docsify 核心的移动端「点正文开侧栏」行为（须用冒泡阶段：捕获阶段会拦截掉按钮自身的监听）
         var mainEl = document.querySelector('main');
         if (mainEl) {
           mainEl.addEventListener('click', function (e) {
+            if (e.target.closest && e.target.closest('.sidebar, .sidebar-toggle, .sb-backdrop')) return;
             if (narrow() && document.body.classList.contains('close')) {
               e.stopPropagation();
             }
-          }, true);
+          });
         }
       });
 

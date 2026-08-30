@@ -441,7 +441,7 @@ section.cover.show {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background: linear-gradient(160deg, #0d1f1a 0%, #143028 55%, #0f2822 100%);
+  background: linear-gradient(165deg, var(--bg) 0%, var(--bg-soft) 55%, var(--bg) 100%);
 }
 
 section.cover.show.hidden { display: none; }
@@ -451,8 +451,8 @@ section.cover.show::before {
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(ellipse 60% 40% at 70% 20%, rgba(169, 133, 59, 0.14), transparent),
-    radial-gradient(ellipse 50% 35% at 20% 80%, rgba(23, 89, 74, 0.35), transparent);
+    radial-gradient(ellipse 60% 40% at 70% 15%, rgba(169, 133, 59, 0.09), transparent),
+    radial-gradient(ellipse 50% 35% at 20% 85%, rgba(23, 89, 74, 0.08), transparent);
   pointer-events: none;
 }
 
@@ -462,7 +462,7 @@ section.cover.show::before {
   max-width: 760px;
   margin: auto;
   padding: 48px 24px;
-  color: #e8e4d8;
+  color: var(--text);
   animation: cover-in 0.7s ease both;
 }
 
@@ -477,7 +477,7 @@ section.cover.show::before {
   font-size: clamp(2rem, 6vw, 3rem) !important;
   font-weight: 700;
   letter-spacing: 6px;
-  color: #f3efe2;
+  color: var(--text);
 }
 
 .cover-main h1 span { color: transparent; }
@@ -498,13 +498,13 @@ section.cover.show::before {
   font-family: var(--serif);
   font-size: 17px;
   letter-spacing: 2px;
-  color: #cfc9b4;
+  color: var(--muted);
   background: none;
   border: none;
 }
 
 .cover-main blockquote p { margin: 4px 0; }
-.cover-main p { color: #a8a28d; font-size: 14.5px; }
+.cover-main p { color: var(--muted); font-size: 14.5px; }
 
 /* 封面按钮 */
 .cover-main ul {
@@ -524,9 +524,9 @@ section.cover.show::before {
   padding: 10px 26px;
   font-size: 15px;
   letter-spacing: 2px;
-  color: #e8e4d8;
-  background: rgba(232, 228, 216, 0.08);
-  border: 1px solid rgba(232, 228, 216, 0.28);
+  color: var(--text);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
   border-radius: 999px;
   transition: all 0.2s ease;
 }
@@ -554,14 +554,15 @@ section.cover.show::before {
   gap: 4px;
   padding: 18px 16px;
   text-align: left;
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(232, 228, 216, 0.16);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
   border-radius: 14px;
   transition: all 0.2s ease;
 }
 
 .cover-cards a:hover {
-  background: rgba(255, 255, 255, 0.1);
+  background: var(--bg-card);
   border-color: var(--gold);
   transform: translateY(-3px);
   box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35);
@@ -573,10 +574,10 @@ section.cover.show::before {
   font-size: 19px;
   font-weight: 700;
   letter-spacing: 3px;
-  color: #f3efe2;
+  color: var(--text);
 }
 
-.cover-cards .cc-sub { font-size: 13px; color: #a8a28d; }
+.cover-cards .cc-sub { font-size: 13px; color: var(--muted); }
 .cover-cards .cc-num { font-size: 12.5px; color: var(--gold); letter-spacing: 1px; }
 
 /* 封面统计条 */
@@ -587,11 +588,11 @@ section.cover.show::before {
   justify-content: center;
   margin-top: 26px;
   font-size: 13px;
-  color: #8d8875;
+  color: var(--muted);
   letter-spacing: 1px;
 }
 
-.cover-stats b { color: #d8d2bd; font-size: 15px; }
+.cover-stats b { color: var(--text); font-size: 15px; }
 
 /* ---------- 悬浮按钮 ---------- */
 
