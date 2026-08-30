@@ -6,9 +6,9 @@
 
 ## 简短回答
 
-巴菲特喜欢[保险](../../keywords/087-bao-xian.md)，不是因为保险总是赚钱，而是因为它和伯克希尔的结构天生契合。保险先收保费、后付赔款，能形成[浮存金](../../keywords/092-fu-cun-jin.md)；只要[承保](../../keywords/089-cheng-bao.md)有[承保纪律](../../keywords/090-cheng-bao-ji-lv.md)，这笔资金就可能成本很低，甚至接近免费；而伯克希尔又有足够的资本和投资能力，把这笔钱长期配置出去。
+巴菲特喜欢[保险](/buffett/keywords/087-bao-xian)，不是因为保险总是赚钱，而是因为它和伯克希尔的结构天生契合。保险先收保费、后付赔款，能形成[浮存金](/buffett/keywords/092-fu-cun-jin)；只要[承保](/buffett/keywords/089-cheng-bao)有[承保纪律](/buffett/keywords/090-cheng-bao-ji-lv)，这笔资金就可能成本很低，甚至接近免费；而伯克希尔又有足够的资本和投资能力，把这笔钱长期配置出去。
 
-更重要的是，保险适合巴菲特的脾气。他不喜欢依赖外部融资，也不喜欢会被挤兑的合同。伯克希尔偏向[财产险](../../keywords/088-cai-chan-xian.md)和[意外险](../../keywords/094-yi-wai-xian.md)，因为这类业务的资金流更稳，流失更慢，风险更可控。
+更重要的是，保险适合巴菲特的脾气。他不喜欢依赖外部融资，也不喜欢会被挤兑的合同。伯克希尔偏向[财产险](/buffett/keywords/088-cai-chan-xian)和[意外险](/buffett/keywords/094-yi-wai-xian)，因为这类业务的资金流更稳，流失更慢，风险更可控。
 
 ## 这门生意为什么打动他
 
@@ -50,7 +50,7 @@
 
 2013 年致股东信里，他说伯克希尔不会签订客户可以取出现金的保险合同。很多寿险产品带赎回功能，极端恐慌时很容易出现类似挤兑的压力。伯克希尔经营的财产险和再保险世界没有这种结构，因此浮存金下降也会非常缓慢。
 
-这就是为什么他偏爱[财产险](../../keywords/088-cai-chan-xian.md)、[意外险](../../keywords/094-yi-wai-xian.md)和[再保险](../../keywords/095-zai-bao-xian.md)。这些业务的负债更适合长期经营，而不是短期兑付竞赛。对巴菲特来说，保险的魅力不在“收了很多保费”，而在“这笔钱能安全地留下来，并且不逼你去做糟糕的事”。
+这就是为什么他偏爱[财产险](/buffett/keywords/088-cai-chan-xian)、[意外险](/buffett/keywords/094-yi-wai-xian)和[再保险](/buffett/keywords/095-zai-bao-xian)。这些业务的负债更适合长期经营，而不是短期兑付竞赛。对巴菲特来说，保险的魅力不在“收了很多保费”，而在“这笔钱能安全地留下来，并且不逼你去做糟糕的事”。
 
 ## 保险为什么和伯克希尔特别合拍
 
@@ -100,4 +100,4 @@
 
 巴菲特喜欢保险，是因为保险给了伯克希尔一种极少见的资金结构：先收钱、后付钱，长期可循环，前提是承保纪律够强，风险边界够清楚。
 
-他喜欢的不是“保险”这个标签，而是保险在伯克希尔里变成的一整套能力组合：[浮存金](../../keywords/092-fu-cun-jin.md)、[流动性](../../keywords/102-liu-dong-xing.md)、[资本配置](../../keywords/032-zi-ben-pei-zhi.md)、[承保纪律](../../keywords/090-cheng-bao-ji-lv.md)和[长期投资](../../keywords/017-chang-qi-tou-zi.md)。这套组合既能赚钱，也能让公司在坏年份不出局，在好年份抓住机会。
+他喜欢的不是“保险”这个标签，而是保险在伯克希尔里变成的一整套能力组合：[浮存金](/buffett/keywords/092-fu-cun-jin)、[流动性](/buffett/keywords/102-liu-dong-xing)、[资本配置](/buffett/keywords/032-zi-ben-pei-zhi)、[承保纪律](/buffett/keywords/090-cheng-bao-ji-lv)和[长期投资](/buffett/keywords/017-chang-qi-tou-zi)。这套组合既能赚钱，也能让公司在坏年份不出局，在好年份抓住机会。

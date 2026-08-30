@@ -36,7 +36,7 @@
 
 ### 2. 长期和耐心
 
-巴菲特给段永平留下的重要提醒，是价值投资不能急躁。找到好生意、合理价格、长期持有，都需要[平常心](../zhuti/02-pingchangxin.md)。
+巴菲特给段永平留下的重要提醒，是价值投资不能急躁。找到好生意、合理价格、长期持有，都需要[平常心](/duan/zhuti/02-pingchangxin)。
 
 这里的耐心不是被动等待，而是理解生意后不被市场价格牵着走。
 
@@ -66,26 +66,26 @@
 
 ## 相关公司
 
-- [苹果](06-company-apple.md)
+- [苹果](/duan/renwu-gongsi/06-company-apple)
 
-- [网易](11-company-netease.md)
+- [网易](/duan/renwu-gongsi/11-company-netease)
 
-- [贵州茅台](10-company-maotai.md)
+- [贵州茅台](/duan/renwu-gongsi/10-company-maotai)
 
 ## 相关概念
 
-- [价值投资](../zhuti/10-jiazhitouzi.md)
+- [价值投资](/duan/zhuti/10-jiazhitouzi)
 
-- [买股票就是买公司](../zhuti/10-jiazhitouzi.md)
+- [买股票就是买公司](/duan/zhuti/10-jiazhitouzi)
 
-- [平常心](../zhuti/02-pingchangxin.md)
+- [平常心](/duan/zhuti/02-pingchangxin)
 
-- [能力圈](../zhuti/05-nengliquan.md)
+- [能力圈](/duan/zhuti/05-nengliquan)
 
-- [长期持有](../zhuti/23-zhangqichiyou.md)
+- [长期持有](/duan/zhuti/23-zhangqichiyou)
 
 ## 原始出处
 
-- [2007年与巴菲特共进午餐后网易专访](../yanjiang-fangtan/19-duanyongping-2007nianyubafeitegongjinwucanhouwangyizhuanfang.md)
+- [2007年与巴菲特共进午餐后网易专访](/duan/yanjiang-fangtan/19-duanyongping-2007nianyubafeitegongjinwucanhouwangyizhuanfang)
 
-- [2006年做客新浪财经频道聊天全实录](../yanjiang-fangtan/17-duanyongping-2006nianzuokexinlangcaijingpindaoliaotianquanshilu.md)
+- [2006年做客新浪财经频道聊天全实录](/duan/yanjiang-fangtan/17-duanyongping-2006nianzuokexinlangcaijingpindaoliaotianquanshilu)

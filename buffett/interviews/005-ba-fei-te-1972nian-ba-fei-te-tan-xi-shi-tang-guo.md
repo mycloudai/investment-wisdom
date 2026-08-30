@@ -6,13 +6,13 @@
 
 1972年12月13日
 
-这是巴菲特，查理芒格，瑞克格林1972年初[收购](../keywords/029-shou-gou.md)[喜诗糖果](../articles/company/12-sees-candies.md)后，巴菲特走访调研后给喜诗糖果[经理人](../keywords/043-jing-li-ren.md)查克哈金斯的一封信，信中巴菲特提出了一些问题以及整改意见。这封信反映出，巴菲特非常善于经营企业，并不是完全放权不管。巴菲特：我是一个好的投资家，因为我是一个企业家，我是一个好的企业家，因为我是一个投资家。
+这是巴菲特，查理芒格，瑞克格林1972年初[收购](/buffett/keywords/029-shou-gou)[喜诗糖果](/buffett/articles/company/12-sees-candies)后，巴菲特走访调研后给喜诗糖果[经理人](/buffett/keywords/043-jing-li-ren)查克哈金斯的一封信，信中巴菲特提出了一些问题以及整改意见。这封信反映出，巴菲特非常善于经营企业，并不是完全放权不管。巴菲特：我是一个好的投资家，因为我是一个企业家，我是一个好的企业家，因为我是一个投资家。
 
 致：Charles N. Huggins，President 抄送：J.P.Guerin，C.T.Munger 地址：See’s Candy Shops,Inc、3423 La Cienega Boulevard、Los Angeles,California 90016
 
 Dear Chuck：
 
-我几天前去了[Brand](../keywords/044-pin-pai.md)eis 百货，有一些深刻的印象要传达给大家：
+我几天前去了[Brand](/buffett/keywords/044-pin-pai)eis 百货，有一些深刻的印象要传达给大家：
 
 1. 人们不仅会受到我们糖果口味的影响，显然还会受到他们从其他人那里听到的关于糖果的信息，以及糖果所处的“销售环境”的影响。**销售环境包括商店的档次、包装方式、出现的情景、以及周围陈列的商品**。就像《New Yorker》杂志为奢侈连锁百货公司LordTaylor 的广告，创造了一个不同于《Village Voice》杂志的“内容环境”一样，我们销售糖果的环境，也会影响潜在客户，对我们品质方面甚至美食方面的心理印象。当然，您比我更清楚这一点。
 

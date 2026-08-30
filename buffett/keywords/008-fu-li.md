@@ -6,7 +6,7 @@
 
 ## 一句话定义
 
-[复利](008-fu-li.md)不是一个数学花招，而是一个长期规律：当收益继续生收益、知识继续生知识、好企业继续用留存资本创造价值时，时间会把小差别放大成巨大差别。
+[复利](/buffett/keywords/008-fu-li)不是一个数学花招，而是一个长期规律：当收益继续生收益、知识继续生知识、好企业继续用留存资本创造价值时，时间会把小差别放大成巨大差别。
 
 巴菲特之所以反复谈复利，不是因为他爱公式，而是因为他很早就看清：长期投资的成败，最终都要落到“增长率差一点点，时间长了差很多”这件事上。
 
@@ -18,7 +18,7 @@
 
 ## 这类问题在巴菲特体系中的位置
 
-复利是巴菲特投资观里最“基础设施化”的原则之一。它连接[长期主义](005-chang-qi-zhu-yi.md)、[长期投资](017-chang-qi-tou-zi.md)、[留存收益再投资](025-liu-cun-shou-yi-zai-tou-zi.md)、[资本配置](032-zi-ben-pei-zhi.md)、[耐心](074-nai-xin.md)和[内在价值](012-nei-zai-jia-zhi.md)。
+复利是巴菲特投资观里最“基础设施化”的原则之一。它连接[长期主义](/buffett/keywords/005-chang-qi-zhu-yi)、[长期投资](/buffett/keywords/017-chang-qi-tou-zi)、[留存收益再投资](/buffett/keywords/025-liu-cun-shou-yi-zai-tou-zi)、[资本配置](/buffett/keywords/032-zi-ben-pei-zhi)、[耐心](/buffett/keywords/074-nai-xin)和[内在价值](/buffett/keywords/012-nei-zai-jia-zhi)。
 
 如果没有复利，长期主义只是拖时间；如果没有长期主义，复利只是算术题。巴菲特的厉害之处，在于他一直在寻找那些能让复利真正发生的结构：低资本需求的生意、合理回购、优质保险浮存金、持续学习，以及尽量少犯会摧毁时间价值的大错。
 
@@ -152,15 +152,15 @@
 
 ## 和其他关键词的关系
 
-[长期主义](005-chang-qi-zhu-yi.md)给复利提供时间观。
+[长期主义](/buffett/keywords/005-chang-qi-zhu-yi)给复利提供时间观。
 
-[长期投资](017-chang-qi-tou-zi.md)是把复利应用到持有行为上的方式。
+[长期投资](/buffett/keywords/017-chang-qi-tou-zi)是把复利应用到持有行为上的方式。
 
-[留存收益再投资](025-liu-cun-shou-yi-zai-tou-zi.md)是企业复利的重要机制。
+[留存收益再投资](/buffett/keywords/025-liu-cun-shou-yi-zai-tou-zi)是企业复利的重要机制。
 
-[资本配置](032-zi-ben-pei-zhi.md)决定复利能否持续发生在最高回报的用途上。
+[资本配置](/buffett/keywords/032-zi-ben-pei-zhi)决定复利能否持续发生在最高回报的用途上。
 
-[耐心](074-nai-xin.md)是复利能否跨过时间门槛的心理前提。
+[耐心](/buffett/keywords/074-nai-xin)是复利能否跨过时间门槛的心理前提。
 
 ## 总结
 

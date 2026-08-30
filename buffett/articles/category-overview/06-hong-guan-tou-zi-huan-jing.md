@@ -8,35 +8,35 @@
 
 巴菲特如何关注宏观变量，但不依赖宏观预测做投资？
 
-这篇总论的答案是：巴菲特非常重视[通货膨胀](../../keywords/119-tong-huo-peng-zhang.md)、[利率](../../keywords/114-li-lv.md)、[美元](../../keywords/116-mei-yuan.md)、[税收](../../keywords/120-shui-shou.md)、[政府债务](../../keywords/121-zheng-fu-zhai-wu.md)和[美国经济](../../keywords/115-mei-guo-jing-ji.md)，但他不把预测这些变量当作投资优势。他的做法是：承认宏观变量会影响购买力、估值、债券回报和企业资本需求；同时把决策重点放在可理解的企业、保守资产负债表、充足[流动性](../../keywords/102-liu-dong-xing.md)和生产性资产上。换句话说，他不预测宏观，而是让投资组合能穿越宏观。
+这篇总论的答案是：巴菲特非常重视[通货膨胀](/buffett/keywords/119-tong-huo-peng-zhang)、[利率](/buffett/keywords/114-li-lv)、[美元](/buffett/keywords/116-mei-yuan)、[税收](/buffett/keywords/120-shui-shou)、[政府债务](/buffett/keywords/121-zheng-fu-zhai-wu)和[美国经济](/buffett/keywords/115-mei-guo-jing-ji)，但他不把预测这些变量当作投资优势。他的做法是：承认宏观变量会影响购买力、估值、债券回报和企业资本需求；同时把决策重点放在可理解的企业、保守资产负债表、充足[流动性](/buffett/keywords/102-liu-dong-xing)和生产性资产上。换句话说，他不预测宏观，而是让投资组合能穿越宏观。
 
 ## 这类问题在巴菲特体系中的位置
 
-宏观在巴菲特体系中不是买卖信号，而是约束条件。[利率](../../keywords/114-li-lv.md)影响[内在价值](../../keywords/012-nei-zai-jia-zhi.md)折现和债券吸引力；[通货膨胀](../../keywords/119-tong-huo-peng-zhang.md)影响企业成本、资本需求和股东购买力；[美元](../../keywords/116-mei-yuan.md)和[货币政策](../../keywords/113-huo-bi-zheng-ce.md)决定货币资产的长期真实回报；[财政政策](../../keywords/110-cai-zheng-zheng-ce.md)、[赤字](../../keywords/111-chi-zi.md)和[政府债务](../../keywords/121-zheng-fu-zhai-wu.md)会改变通胀压力和税负环境。
+宏观在巴菲特体系中不是买卖信号，而是约束条件。[利率](/buffett/keywords/114-li-lv)影响[内在价值](/buffett/keywords/012-nei-zai-jia-zhi)折现和债券吸引力；[通货膨胀](/buffett/keywords/119-tong-huo-peng-zhang)影响企业成本、资本需求和股东购买力；[美元](/buffett/keywords/116-mei-yuan)和[货币政策](/buffett/keywords/113-huo-bi-zheng-ce)决定货币资产的长期真实回报；[财政政策](/buffett/keywords/110-cai-zheng-zheng-ce)、[赤字](/buffett/keywords/111-chi-zi)和[政府债务](/buffett/keywords/121-zheng-fu-zhai-wu)会改变通胀压力和税负环境。
 
 但这些变量很难预测。巴菲特在 1987 年说自己没有预测利率的能力，也不相信别人有；1994 年又说将继续无视政治和经济预测。2023 年，他在日本投资中明确说不相信自己能预测主要货币汇率。宏观重要，但预测宏观不是伯克希尔的核心能力。
 
 ## 关键词地图
 
-第一组是购买力：[美元](../../keywords/116-mei-yuan.md)、[通货膨胀](../../keywords/119-tong-huo-peng-zhang.md)、[税收](../../keywords/120-shui-shou.md)。巴菲特关注的是税后实际购买力，而不是名义收益。
+第一组是购买力：[美元](/buffett/keywords/116-mei-yuan)、[通货膨胀](/buffett/keywords/119-tong-huo-peng-zhang)、[税收](/buffett/keywords/120-shui-shou)。巴菲特关注的是税后实际购买力，而不是名义收益。
 
-第二组是资本价格：[利率](../../keywords/114-li-lv.md)、债券、现金、美国国库券。利率影响资产估值，但巴菲特不依赖利率预测；伯克希尔持有短期国库券主要是为了流动性。
+第二组是资本价格：[利率](/buffett/keywords/114-li-lv)、债券、现金、美国国库券。利率影响资产估值，但巴菲特不依赖利率预测；伯克希尔持有短期国库券主要是为了流动性。
 
-第三组是政策环境：[财政政策](../../keywords/110-cai-zheng-zheng-ce.md)、[货币政策](../../keywords/113-huo-bi-zheng-ce.md)、[赤字](../../keywords/111-chi-zi.md)、[政府债务](../../keywords/121-zheng-fu-zhai-wu.md)。这些变量会影响通胀、货币购买力和资本市场环境，但不直接替代企业分析。
+第三组是政策环境：[财政政策](/buffett/keywords/110-cai-zheng-zheng-ce)、[货币政策](/buffett/keywords/113-huo-bi-zheng-ce)、[赤字](/buffett/keywords/111-chi-zi)、[政府债务](/buffett/keywords/121-zheng-fu-zhai-wu)。这些变量会影响通胀、货币购买力和资本市场环境，但不直接替代企业分析。
 
-第四组是长期生产力：[美国经济](../../keywords/115-mei-guo-jing-ji.md)、[生产率](../../keywords/118-sheng-chan-lv.md)、企业、农场、[房地产](../../keywords/096-fang-di-chan.md)。巴菲特更偏好能持续产出商品和服务的资产，因为它们更可能抵御货币贬值。
+第四组是长期生产力：[美国经济](/buffett/keywords/115-mei-guo-jing-ji)、[生产率](/buffett/keywords/118-sheng-chan-lv)、企业、农场、[房地产](/buffett/keywords/096-fang-di-chan)。巴菲特更偏好能持续产出商品和服务的资产，因为它们更可能抵御货币贬值。
 
 ## 原文依据概览
 
-1979 年致股东信集中讨论[通货膨胀](../../keywords/119-tong-huo-peng-zhang.md)和[税收](../../keywords/120-shui-shou.md)。巴菲特指出，企业名义回报率很高，也可能因为通胀和税收而无法给股东带来真实购买力增长。他把通胀率和股东税负合称为“投资人痛苦指数”。
+1979 年致股东信集中讨论[通货膨胀](/buffett/keywords/119-tong-huo-peng-zhang)和[税收](/buffett/keywords/120-shui-shou)。巴菲特指出，企业名义回报率很高，也可能因为通胀和税收而无法给股东带来真实购买力增长。他把通胀率和股东税负合称为“投资人痛苦指数”。
 
-1987 年致股东信显示巴菲特对[美元](../../keywords/116-mei-yuan.md)和长期债券的担忧。他讨论贸易逆差、财政拖延和通胀压力，但同时承认后果发生的时间和范围不可预测。他明确说没有预测利率的能力，因此不会把利率预测当作资本配置基础。
+1987 年致股东信显示巴菲特对[美元](/buffett/keywords/116-mei-yuan)和长期债券的担忧。他讨论贸易逆差、财政拖延和通胀压力，但同时承认后果发生的时间和范围不可预测。他明确说没有预测利率的能力，因此不会把利率预测当作资本配置基础。
 
 1994 年致股东信是“不预测宏观”的核心材料。巴菲特说他们将继续无视政治和经济预测，因为过去三十年的大事件没人能提前预见，但格雷厄姆的投资原则并未因此失效。他进一步说，最好的投资机会往往出现在宏观恐惧达到顶峰时。
 
 2011 年致股东信把资产分为基于货币的资产、非生产性资产和生产性资产。巴菲特指出，美元自 1965 年以来大幅贬值，低利率债券可能提供的是“无回报的风险”；但伯克希尔仍然持有美国短期国库券，因为流动性永远不能被轻视。
 
-2022 年股东大会中，巴菲特谈到通胀时强调个人能力是最好的保护；印钞会降低货币价值，但具体通胀路径很难预测。2023 年致股东信继续强调不听专家预测、保留现金和国库券，并在日本投资中说明不预测汇率。2024 年股东大会则把[政府债务](../../keywords/121-zheng-fu-zhai-wu.md)与通胀风险区分开：真正威胁经济的可能不是国债数量本身，而是通胀失控和美元购买力下降。
+2022 年股东大会中，巴菲特谈到通胀时强调个人能力是最好的保护；印钞会降低货币价值，但具体通胀路径很难预测。2023 年致股东信继续强调不听专家预测、保留现金和国库券，并在日本投资中说明不预测汇率。2024 年股东大会则把[政府债务](/buffett/keywords/121-zheng-fu-zhai-wu)与通胀风险区分开：真正威胁经济的可能不是国债数量本身，而是通胀失控和美元购买力下降。
 
 ## 主引用
 
@@ -68,11 +68,11 @@
 
 1. 宏观重要，但不可依赖预测。巴菲特关注利率、通胀和美元购买力，但不会因为宏观预测而推迟或改变优质企业的长期资本配置。
 
-2. 名义收益不是最终收益。[通货膨胀](../../keywords/119-tong-huo-peng-zhang.md)和[税收](../../keywords/120-shui-shou.md)会侵蚀购买力，投资者要关心真实回报。
+2. 名义收益不是最终收益。[通货膨胀](/buffett/keywords/119-tong-huo-peng-zhang)和[税收](/buffett/keywords/120-shui-shou)会侵蚀购买力，投资者要关心真实回报。
 
 3. 现金和短期国库券是工具，不是长期复利资产。伯克希尔持有大量现金，是为了流动性和选择权；长期而言，现金可能被通胀侵蚀。
 
-4. 债券并不总是低风险。当[利率](../../keywords/114-li-lv.md)太低且通胀风险存在时，债券的名义稳定可能掩盖购买力损失。
+4. 债券并不总是低风险。当[利率](/buffett/keywords/114-li-lv)太低且通胀风险存在时，债券的名义稳定可能掩盖购买力损失。
 
 5. 生产性资产更适合穿越宏观。企业、农场和房地产能持续产出，优秀企业还能通过品牌、定价权和资本配置部分抵御通胀。
 
@@ -102,19 +102,19 @@
 
 ## 延伸主题
 
-- [通货膨胀](../../keywords/119-tong-huo-peng-zhang.md)：名义收益和购买力的差异。
+- [通货膨胀](/buffett/keywords/119-tong-huo-peng-zhang)：名义收益和购买力的差异。
 
-- [利率](../../keywords/114-li-lv.md)：估值折现与债券吸引力。
+- [利率](/buffett/keywords/114-li-lv)：估值折现与债券吸引力。
 
-- [美元](../../keywords/116-mei-yuan.md)：货币购买力和汇率预测边界。
+- [美元](/buffett/keywords/116-mei-yuan)：货币购买力和汇率预测边界。
 
-- [税收](../../keywords/120-shui-shou.md)：实际回报的隐性拖累。
+- [税收](/buffett/keywords/120-shui-shou)：实际回报的隐性拖累。
 
-- [美国经济](../../keywords/115-mei-guo-jing-ji.md)：长期韧性与短期危机。
+- [美国经济](/buffett/keywords/115-mei-guo-jing-ji)：长期韧性与短期危机。
 
-- [政府债务](../../keywords/121-zheng-fu-zhai-wu.md)：债务、通胀和货币信任。
+- [政府债务](/buffett/keywords/121-zheng-fu-zhai-wu)：债务、通胀和货币信任。
 
-- [生产率](../../keywords/118-sheng-chan-lv.md)：生产性资产为什么重要。
+- [生产率](/buffett/keywords/118-sheng-chan-lv)：生产性资产为什么重要。
 
 ## 总结
 

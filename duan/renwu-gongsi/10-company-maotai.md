@@ -4,7 +4,7 @@
 
 ## 一句话结论
 
-段永平看重茅台，不只是因为它贵或知名，而是因为它有稀缺产品、强品牌、长需求周期和优秀[现金流](../zhuti/16-xianjinliu.md)，同时也需要警惕多元化、假酒和渠道问题。
+段永平看重茅台，不只是因为它贵或知名，而是因为它有稀缺产品、强品牌、长需求周期和优秀[现金流](/duan/zhuti/16-xianjinliu)，同时也需要警惕多元化、假酒和渠道问题。
 
 ## 段永平的核心评价
 
@@ -30,7 +30,7 @@
 
 茅台的核心不是“白酒行业”这个大标签，而是飞天茅台这个具体产品。段永平反复用“好产品”解释品牌，而不是把品牌看成脱离产品的符号。
 
-好产品长期积累消费者认知，才会形成[品牌](../zhuti/27-pinpai.md)。这也是他把茅台和苹果、网易、腾讯放在“长坡厚雪”框架下讨论的原因。
+好产品长期积累消费者认知，才会形成[品牌](/duan/zhuti/27-pinpai)。这也是他把茅台和苹果、网易、腾讯放在“长坡厚雪”框架下讨论的原因。
 
 ### 2. 品牌心智
 
@@ -66,22 +66,22 @@
 
 - 季克良
 
-- [巴菲特](19-person-buffett.md)
+- [巴菲特](/duan/renwu-gongsi/19-person-buffett)
 
 ## 相关概念
 
-- [品牌](../zhuti/27-pinpai.md)
+- [品牌](/duan/zhuti/27-pinpai)
 
-- [现金流](../zhuti/16-xianjinliu.md)
+- [现金流](/duan/zhuti/16-xianjinliu)
 
-- [能力圈](../zhuti/05-nengliquan.md)
+- [能力圈](/duan/zhuti/05-nengliquan)
 
-- [长期持有](../zhuti/23-zhangqichiyou.md)
+- [长期持有](/duan/zhuti/23-zhangqichiyou)
 
-- [商业模式](../zhuti/12-shangyemoshi.md)
+- [商业模式](/duan/zhuti/12-shangyemoshi)
 
 ## 原始出处
 
-- [茅台：产品与模式](../wenda/29-wenda-company-maotai-01.md)
+- [茅台：产品与模式](/duan/wenda/29-wenda-company-maotai-01)
 
-- [茅台：治理与渠道](../wenda/30-wenda-company-maotai-02.md)
+- [茅台：治理与渠道](/duan/wenda/30-wenda-company-maotai-02)

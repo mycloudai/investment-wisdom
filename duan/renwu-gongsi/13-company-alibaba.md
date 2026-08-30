@@ -30,7 +30,7 @@
 
 ### 1. 企业文化
 
-段永平评价阿里，早期最核心的词是[企业文化](../zhuti/26-qiyewenhua.md)。在快速变化的互联网世界里，好的文化可以帮助公司持续学习和调整。
+段永平评价阿里，早期最核心的词是[企业文化](/duan/zhuti/26-qiyewenhua)。在快速变化的互联网世界里，好的文化可以帮助公司持续学习和调整。
 
 这也是他把阿里和 Google 放在一起讨论的原因：不是因为短期业绩，而是因为文化可能带来长期适应力。
 
@@ -62,20 +62,20 @@
 
 ## 相关人物
 
-- [马云](23-person-mayun.md)
+- [马云](/duan/renwu-gongsi/23-person-mayun)
 
 ## 相关概念
 
-- [企业文化](../zhuti/26-qiyewenhua.md)
+- [企业文化](/duan/zhuti/26-qiyewenhua)
 
-- [商业模式](../zhuti/12-shangyemoshi.md)
+- [商业模式](/duan/zhuti/12-shangyemoshi)
 
-- [平台](../zhuti/32-pingtai.md)
+- [平台](/duan/zhuti/32-pingtai)
 
-- [能力圈](../zhuti/05-nengliquan.md)
+- [能力圈](/duan/zhuti/05-nengliquan)
 
-- [做对的事情](../zhuti/03-zuoduideshiqing.md)
+- [做对的事情](/duan/zhuti/03-zuoduideshiqing)
 
 ## 原始出处
 
-- [阿里巴巴与雅虎公司问答](../wenda/34-wenda-company-alibaba-yahoo.md)
+- [阿里巴巴与雅虎公司问答](/duan/wenda/34-wenda-company-alibaba-yahoo)

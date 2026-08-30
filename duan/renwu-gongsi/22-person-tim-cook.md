@@ -28,7 +28,7 @@
 
 ### 1. 理性
 
-段永平长期强调[理性](../zhuti/43-lixing.md)和平常心。库克被他评价为“更理性”，说明库克的优势不是戏剧化的产品发布，而是在复杂组织中持续做长期正确的取舍。
+段永平长期强调[理性](/duan/zhuti/43-lixing)和平常心。库克被他评价为“更理性”，说明库克的优势不是戏剧化的产品发布，而是在复杂组织中持续做长期正确的取舍。
 
 ### 2. 延续文化
 
@@ -60,26 +60,26 @@
 
 ## 相关公司
 
-- [苹果](06-company-apple.md)
+- [苹果](/duan/renwu-gongsi/06-company-apple)
 
 ## 相关人物
 
-- [乔布斯](21-person-steve-jobs.md)
+- [乔布斯](/duan/renwu-gongsi/21-person-steve-jobs)
 
 ## 相关概念
 
-- [理性](../zhuti/43-lixing.md)
+- [理性](/duan/zhuti/43-lixing)
 
-- [企业文化](../zhuti/26-qiyewenhua.md)
+- [企业文化](/duan/zhuti/26-qiyewenhua)
 
-- [用户体验](../zhuti/30-yonghutiyan.md)
+- [用户体验](/duan/zhuti/30-yonghutiyan)
 
-- [做对的事情](../zhuti/03-zuoduideshiqing.md)
+- [做对的事情](/duan/zhuti/03-zuoduideshiqing)
 
-- [造钟人](../zhuti/35-zaozhongren.md)
+- [造钟人](/duan/zhuti/35-zaozhongren)
 
 ## 原始出处
 
-- [苹果：管理层与文化](../wenda/27-wenda-company-apple-02.md)
+- [苹果：管理层与文化](/duan/wenda/27-wenda-company-apple-02)
 
-- [苹果：产品与生态](../wenda/26-wenda-company-apple-01.md)
+- [苹果：产品与生态](/duan/wenda/26-wenda-company-apple-01)

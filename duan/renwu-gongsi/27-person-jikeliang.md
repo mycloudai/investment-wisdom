@@ -60,22 +60,22 @@
 
 ## 相关公司
 
-- [贵州茅台](10-company-maotai.md)
+- [贵州茅台](/duan/renwu-gongsi/10-company-maotai)
 
 ## 相关概念
 
-- [造钟人](../zhuti/35-zaozhongren.md)
+- [造钟人](/duan/zhuti/35-zaozhongren)
 
-- [品牌](../zhuti/27-pinpai.md)
+- [品牌](/duan/zhuti/27-pinpai)
 
-- [企业文化](../zhuti/26-qiyewenhua.md)
+- [企业文化](/duan/zhuti/26-qiyewenhua)
 
-- [长期主义](../zhuti/44-zhangqizhuyi.md)
+- [长期主义](/duan/zhuti/44-zhangqizhuyi)
 
-- [消费者导向](../zhuti/09-xiaofeizhedaoxiang.md)
+- [消费者导向](/duan/zhuti/09-xiaofeizhedaoxiang)
 
 ## 原始出处
 
-- [茅台：产品与模式](../wenda/29-wenda-company-maotai-01.md)
+- [茅台：产品与模式](/duan/wenda/29-wenda-company-maotai-01)
 
-- [茅台：治理与渠道](../wenda/30-wenda-company-maotai-02.md)
+- [茅台：治理与渠道](/duan/wenda/30-wenda-company-maotai-02)

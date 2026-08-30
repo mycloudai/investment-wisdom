@@ -8,7 +8,7 @@
 
 巴菲特如何用财务数字判断企业经济实质？
 
-他的基本方法是：先承认[财务报表](../../keywords/049-cai-wu-bao-biao.md)是必要入口，再把每个指标翻译成所有者视角。[账面价值](../../keywords/064-zhang-mian-jia-zhi.md)、[每股收益](../../keywords/057-mei-gu-shou-yi.md)、[留存收益](../../keywords/056-liu-cun-shou-yi.md)和[现金流](../../keywords/062-xian-jin-liu.md)都不是结论，它们只是线索。真正的问题是企业能否把资本转化为未来可分配现金，能否在不破坏竞争地位的前提下创造[真实收益](../../keywords/065-zhen-shi-shou-yi.md)。
+他的基本方法是：先承认[财务报表](/buffett/keywords/049-cai-wu-bao-biao)是必要入口，再把每个指标翻译成所有者视角。[账面价值](/buffett/keywords/064-zhang-mian-jia-zhi)、[每股收益](/buffett/keywords/057-mei-gu-shou-yi)、[留存收益](/buffett/keywords/056-liu-cun-shou-yi)和[现金流](/buffett/keywords/062-xian-jin-liu)都不是结论，它们只是线索。真正的问题是企业能否把资本转化为未来可分配现金，能否在不破坏竞争地位的前提下创造[真实收益](/buffett/keywords/065-zhen-shi-shou-yi)。
 
 ## 这类问题在巴菲特体系中的位置
 
@@ -20,13 +20,13 @@
 
 ## 关键词地图
 
-第一组是价值指标：[估值](../../keywords/053-gu-zhi.md)、[现金流](../../keywords/062-xian-jin-liu.md)、[内在价值](../../keywords/012-nei-zai-jia-zhi.md)、[真实收益](../../keywords/065-zhen-shi-shou-yi.md)。它们回答“这家企业未来能为所有者拿回多少现金”。
+第一组是价值指标：[估值](/buffett/keywords/053-gu-zhi)、[现金流](/buffett/keywords/062-xian-jin-liu)、[内在价值](/buffett/keywords/012-nei-zai-jia-zhi)、[真实收益](/buffett/keywords/065-zhen-shi-shou-yi)。它们回答“这家企业未来能为所有者拿回多少现金”。
 
-第二组是会计入口：[股东权益](../../keywords/051-gu-dong-quan-yi.md)、[账面价值](../../keywords/064-zhang-mian-jia-zhi.md)、[每股收益](../../keywords/057-mei-gu-shou-yi.md)、[财务报表](../../keywords/049-cai-wu-bao-biao.md)。它们提供观察起点，但不能自动等同于价值。
+第二组是会计入口：[股东权益](/buffett/keywords/051-gu-dong-quan-yi)、[账面价值](/buffett/keywords/064-zhang-mian-jia-zhi)、[每股收益](/buffett/keywords/057-mei-gu-shou-yi)、[财务报表](/buffett/keywords/049-cai-wu-bao-biao)。它们提供观察起点，但不能自动等同于价值。
 
-第三组是收益质量：[留存收益](../../keywords/056-liu-cun-shou-yi.md)、[留存收益再投资](../../keywords/025-liu-cun-shou-yi-zai-tou-zi.md)、[资本回报率](../../keywords/066-zi-ben-hui-bao-lv.md)、[盈利质量](../../keywords/063-ying-li-zhi-liang.md)。它们判断企业是否能把留下来的钱变成更多所有者价值。
+第三组是收益质量：[留存收益](/buffett/keywords/056-liu-cun-shou-yi)、[留存收益再投资](/buffett/keywords/025-liu-cun-shou-yi-zai-tou-zi)、[资本回报率](/buffett/keywords/066-zi-ben-hui-bao-lv)、[盈利质量](/buffett/keywords/063-ying-li-zhi-liang)。它们判断企业是否能把留下来的钱变成更多所有者价值。
 
-第四组是边界条件：[能力圈](../../keywords/013-neng-li-quan.md)、[安全边际](../../keywords/001-an-quan-bian-ji.md)、[资本配置](../../keywords/032-zi-ben-pei-zhi.md)。即使公式正确，投资者如果无法理解未来现金流，也不能把估值当成可靠结论。
+第四组是边界条件：[能力圈](/buffett/keywords/013-neng-li-quan)、[安全边际](/buffett/keywords/001-an-quan-bian-ji)、[资本配置](/buffett/keywords/032-zi-ben-pei-zhi)。即使公式正确，投资者如果无法理解未来现金流，也不能把估值当成可靠结论。
 
 ## 原文依据概览
 
@@ -99,15 +99,15 @@
 
 ## 延伸主题
 
-- [内在价值](../../keywords/012-nei-zai-jia-zhi.md)：如何把未来现金流转化为今天的判断。
+- [内在价值](/buffett/keywords/012-nei-zai-jia-zhi)：如何把未来现金流转化为今天的判断。
 
-- [留存收益再投资](../../keywords/025-liu-cun-shou-yi-zai-tou-zi.md)：每留存一美元是否真的创造价值。
+- [留存收益再投资](/buffett/keywords/025-liu-cun-shou-yi-zai-tou-zi)：每留存一美元是否真的创造价值。
 
-- [资本配置](../../keywords/032-zi-ben-pei-zhi.md)：管理层如何决定现金的去处。
+- [资本配置](/buffett/keywords/032-zi-ben-pei-zhi)：管理层如何决定现金的去处。
 
-- [安全边际](../../keywords/001-an-quan-bian-ji.md)：估值不精确时如何保护自己。
+- [安全边际](/buffett/keywords/001-an-quan-bian-ji)：估值不精确时如何保护自己。
 
-- [能力圈](../../keywords/013-neng-li-quan.md)：为什么不懂现金流就不能估值。
+- [能力圈](/buffett/keywords/013-neng-li-quan)：为什么不懂现金流就不能估值。
 
 ## 总结
 

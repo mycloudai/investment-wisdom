@@ -8,13 +8,13 @@
 
 ## 段永平的核心评价
 
-- 产品把[用户体验](../zhuti/30-yonghutiyan.md)和[消费者导向](../zhuti/09-xiaofeizhedaoxiang.md)做到极致。
+- 产品把[用户体验](/duan/zhuti/30-yonghutiyan)和[消费者导向](/duan/zhuti/09-xiaofeizhedaoxiang)做到极致。
 
-- 平台、生态系统和[商业模式](../zhuti/12-shangyemoshi.md)已经形成。
+- 平台、生态系统和[商业模式](/duan/zhuti/12-shangyemoshi)已经形成。
 
-- [单一产品](../zhuti/34-danyichanpin.md)模式带来研发、供应链、渠道和质量优势。
+- [单一产品](/duan/zhuti/34-danyichanpin)模式带来研发、供应链、渠道和质量优势。
 
-- 长期聚焦[做对的事情](../zhuti/03-zuoduideshiqing.md)，而不是追求短期排名。
+- 长期聚焦[做对的事情](/duan/zhuti/03-zuoduideshiqing)，而不是追求短期排名。
 
 - 乔布斯是“造钟人”，库克是更理性、值得信任的 CEO。
 
@@ -46,7 +46,7 @@
 
 ### 4. 企业文化
 
-苹果能长期做出好产品，段永平归因于[企业文化](../zhuti/26-qiyewenhua.md)。他认为没有强大的文化，就不会有伟大的公司。苹果的文化不是墙上的口号，而是长期围绕消费者体验做取舍。
+苹果能长期做出好产品，段永平归因于[企业文化](/duan/zhuti/26-qiyewenhua)。他认为没有强大的文化，就不会有伟大的公司。苹果的文化不是墙上的口号，而是长期围绕消费者体验做取舍。
 
 ### 5. 管理层
 
@@ -70,28 +70,28 @@
 
 ## 相关人物
 
-- [乔布斯](../zhuti/35-zaozhongren.md)
+- [乔布斯](/duan/zhuti/35-zaozhongren)
 
 - 库克
 
-- [巴菲特](../zhuti/10-jiazhitouzi.md)
+- [巴菲特](/duan/zhuti/10-jiazhitouzi)
 
 ## 相关概念
 
-- [商业模式](../zhuti/12-shangyemoshi.md)
+- [商业模式](/duan/zhuti/12-shangyemoshi)
 
-- [企业文化](../zhuti/26-qiyewenhua.md)
+- [企业文化](/duan/zhuti/26-qiyewenhua)
 
-- [护城河](../zhuti/13-huchenghe.md)
+- [护城河](/duan/zhuti/13-huchenghe)
 
-- [用户体验](../zhuti/30-yonghutiyan.md)
+- [用户体验](/duan/zhuti/30-yonghutiyan)
 
-- [消费者导向](../zhuti/09-xiaofeizhedaoxiang.md)
+- [消费者导向](/duan/zhuti/09-xiaofeizhedaoxiang)
 
-- [做对的事情](../zhuti/03-zuoduideshiqing.md)
+- [做对的事情](/duan/zhuti/03-zuoduideshiqing)
 
 ## 原始出处
 
-- [苹果：产品与生态](../wenda/26-wenda-company-apple-01.md)
+- [苹果：产品与生态](/duan/wenda/26-wenda-company-apple-01)
 
-- [苹果：估值与资本配置](../wenda/28-wenda-company-apple-03.md)
+- [苹果：估值与资本配置](/duan/wenda/28-wenda-company-apple-03)

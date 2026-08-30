@@ -30,7 +30,7 @@ GE 是段永平体系里的反面教材：他曾因企业文化和韦尔奇叙�
 
 ### 1. 企业文化叙事
 
-段永平当年买 GE，很大程度上来自《基业长青》和韦尔奇关于企业文化、integrity 的表达。他一直重视[企业文化](../zhuti/26-qiyewenhua.md)，所以这些叙事对他有吸引力。
+段永平当年买 GE，很大程度上来自《基业长青》和韦尔奇关于企业文化、integrity 的表达。他一直重视[企业文化](/duan/zhuti/26-qiyewenhua)，所以这些叙事对他有吸引力。
 
 这也说明段永平不是只看报表。他会把文化、管理层和长期组织能力放进投资判断。
 
@@ -76,18 +76,18 @@ GE 文章不是为了否定曾经赚到的钱，而是说明赚钱不等于逻�
 
 ## 相关概念
 
-- [企业文化](../zhuti/26-qiyewenhua.md)
+- [企业文化](/duan/zhuti/26-qiyewenhua)
 
-- [正直](../zhuti/42-zhengzhi.md)
+- [正直](/duan/zhuti/42-zhengzhi)
 
-- [能力圈](../zhuti/05-nengliquan.md)
+- [能力圈](/duan/zhuti/05-nengliquan)
 
-- [真实利润](../zhuti/17-zhenshilirun.md)
+- [真实利润](/duan/zhuti/17-zhenshilirun)
 
-- [不做什么](../zhuti/06-buzuoshenme.md)
+- [不做什么](/duan/zhuti/06-buzuoshenme)
 
 ## 原始出处
 
-- [GE 公司问答](../wenda/40-wenda-company-energy-industrial.md)
+- [GE 公司问答](/duan/wenda/40-wenda-company-energy-industrial)
 
-- [核心概念：企业文化](../zhuti/26-qiyewenhua.md)
+- [核心概念：企业文化](/duan/zhuti/26-qiyewenhua)

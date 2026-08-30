@@ -32,9 +32,9 @@
 
 ### 1. 对“做对的事情”的理解
 
-王宁谈领导力时说，领导力就是[做对的事情](../zhuti/03-zuoduideshiqing.md)，其他同理心、鼓舞士气、分工明确等都是方法。段永平明确表示喜欢这个说法，并判断王宁大概率是自己琢磨出来的。
+王宁谈领导力时说，领导力就是[做对的事情](/duan/zhuti/03-zuoduideshiqing)，其他同理心、鼓舞士气、分工明确等都是方法。段永平明确表示喜欢这个说法，并判断王宁大概率是自己琢磨出来的。
 
-这和段永平长期强调的“做对的事情、[把事情做对](../zhuti/04-bashiqingzuodui.md)”高度一致。
+这和段永平长期强调的“做对的事情、[把事情做对](/duan/zhuti/04-bashiqingzuodui)”高度一致。
 
 ### 2. 商业理解
 
@@ -64,7 +64,7 @@
 
 欣赏王宁，不等于泡泡玛特没有风险。段永平仍然反复提醒，真正需要验证的是潮玩需求能不能持续，以及泡泡玛特能否长期保持用户关注。
 
-对人物的高评价，只是提高公司长期做对事情的概率，不能替代对[商业模式](../zhuti/12-shangyemoshi.md)、[护城河](../zhuti/13-huchenghe.md)和价格的判断。
+对人物的高评价，只是提高公司长期做对事情的概率，不能替代对[商业模式](/duan/zhuti/12-shangyemoshi)、[护城河](/duan/zhuti/13-huchenghe)和价格的判断。
 
 ## 投资启发
 
@@ -78,24 +78,24 @@
 
 ## 相关公司
 
-- [泡泡玛特](08-company-pop-mart.md)
+- [泡泡玛特](/duan/renwu-gongsi/08-company-pop-mart)
 
 ## 相关概念
 
-- [做对的事情](../zhuti/03-zuoduideshiqing.md)
+- [做对的事情](/duan/zhuti/03-zuoduideshiqing)
 
-- [把事情做对](../zhuti/04-bashiqingzuodui.md)
+- [把事情做对](/duan/zhuti/04-bashiqingzuodui)
 
-- [企业文化](../zhuti/26-qiyewenhua.md)
+- [企业文化](/duan/zhuti/26-qiyewenhua)
 
-- [商业模式](../zhuti/12-shangyemoshi.md)
+- [商业模式](/duan/zhuti/12-shangyemoshi)
 
-- [护城河](../zhuti/13-huchenghe.md)
+- [护城河](/duan/zhuti/13-huchenghe)
 
-- [能力圈](../zhuti/05-nengliquan.md)
+- [能力圈](/duan/zhuti/05-nengliquan)
 
 ## 原始出处
 
-- [泡泡玛特公司问答](../wenda/35-wenda-company-pop-mart.md)
+- [泡泡玛特公司问答](/duan/wenda/35-wenda-company-pop-mart)
 
-- [2025年谈躺平与内卷、与王石交流子女教育](../yanjiang-fangtan/30-duanyongping-2025niantantangpingyuneijuan-yuwangshijiaoliuzinvjiaoyu.md)
+- [2025年谈躺平与内卷、与王石交流子女教育](/duan/yanjiang-fangtan/30-duanyongping-2025niantantangpingyuneijuan-yuwangshijiaoliuzinvjiaoyu)

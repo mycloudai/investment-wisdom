@@ -8,21 +8,21 @@
 
 巴菲特判断行业时看重哪些经济特征？
 
-这篇总论的答案是：巴菲特看行业，不是先问行业是否热门，而是问行业结构是否允许优秀企业长期保留利润。一个行业可能增长很快，却把所有利润都交给竞争、资本开支或[杠杆](../../keywords/098-gang-gan.md)风险；另一个行业可能增长很慢，却因为[护城河](../../keywords/009-hu-cheng-he.md)、低成本、监管框架或客户习惯，让少数企业长期获得合理甚至优秀的[资本回报率](../../keywords/066-zi-ben-hui-bao-lv.md)。
+这篇总论的答案是：巴菲特看行业，不是先问行业是否热门，而是问行业结构是否允许优秀企业长期保留利润。一个行业可能增长很快，却把所有利润都交给竞争、资本开支或[杠杆](/buffett/keywords/098-gang-gan)风险；另一个行业可能增长很慢，却因为[护城河](/buffett/keywords/009-hu-cheng-he)、低成本、监管框架或客户习惯，让少数企业长期获得合理甚至优秀的[资本回报率](/buffett/keywords/066-zi-ben-hui-bao-lv)。
 
 ## 这类问题在巴菲特体系中的位置
 
 行业判断位于公司分析之前。巴菲特常说买股票就是买公司，但公司并不生活在真空里。管理层再优秀，如果身处长期逆风行业，也可能只能取得平庸结果；管理层一般，如果行业特许经营权足够强，也可能暂时维持不错收益。
 
-这不是说行业比管理更重要，而是说二者互相放大。银行业会放大信贷纪律的价值，也会放大放松标准的代价；报纸业曾经享受地方垄断，后来被广告和信息渠道碎片化削弱；[铁路](../industry/02-tie-lu.md)和[公用事业](../industry/03-gong-yong-shi-ye.md)需要巨额资本，却能在长期社会契约中获得合理回报；能源和保险则提醒投资者，周期、监管、承保和资本结构都可能改变最终收益。
+这不是说行业比管理更重要，而是说二者互相放大。银行业会放大信贷纪律的价值，也会放大放松标准的代价；报纸业曾经享受地方垄断，后来被广告和信息渠道碎片化削弱；[铁路](/buffett/articles/industry/02-tie-lu)和[公用事业](/buffett/articles/industry/03-gong-yong-shi-ye)需要巨额资本，却能在长期社会契约中获得合理回报；能源和保险则提醒投资者，周期、监管、承保和资本结构都可能改变最终收益。
 
 ## 关键词地图
 
-第一组是金融和风险：[银行](../industry/05-yin-hang.md)、[杠杆](../../keywords/098-gang-gan.md)、[风险偏好](../../keywords/097-feng-xian-pian-hao.md)、[流动性](../../keywords/102-liu-dong-xing.md)。这组关键词说明金融行业的核心不是增长速度，而是资产质量、资金来源和危机中能否活下来。
+第一组是金融和风险：[银行](/buffett/articles/industry/05-yin-hang)、[杠杆](/buffett/keywords/098-gang-gan)、[风险偏好](/buffett/keywords/097-feng-xian-pian-hao)、[流动性](/buffett/keywords/102-liu-dong-xing)。这组关键词说明金融行业的核心不是增长速度，而是资产质量、资金来源和危机中能否活下来。
 
-第二组是信息和特许经营：[报纸](../industry/01-bao-zhi.md)、[品牌](../../keywords/044-pin-pai.md)、[定价权](../../keywords/035-ding-jia-quan.md)、[护城河](../../keywords/009-hu-cheng-he.md)。报纸案例说明，行业护城河可以变窄，估值也会随预期变化剧烈调整。
+第二组是信息和特许经营：[报纸](/buffett/articles/industry/01-bao-zhi)、[品牌](/buffett/keywords/044-pin-pai)、[定价权](/buffett/keywords/035-ding-jia-quan)、[护城河](/buffett/keywords/009-hu-cheng-he)。报纸案例说明，行业护城河可以变窄，估值也会随预期变化剧烈调整。
 
-第三组是基础设施：[公用事业](../industry/03-gong-yong-shi-ye.md)、[铁路](../industry/02-tie-lu.md)、[能源](../industry/04-neng-yuan.md)、[资本配置](../../keywords/032-zi-ben-pei-zhi.md)。这类行业通常回报不惊人，但需要长期资本、监管信任和运营纪律。
+第三组是基础设施：[公用事业](/buffett/articles/industry/03-gong-yong-shi-ye)、[铁路](/buffett/articles/industry/02-tie-lu)、[能源](/buffett/articles/industry/04-neng-yuan)、[资本配置](/buffett/keywords/032-zi-ben-pei-zhi)。这类行业通常回报不惊人，但需要长期资本、监管信任和运营纪律。
 
 第四组是反面行业逻辑：纺织、航空、大宗商品式保险定价。它们共同说明：增长、产能扩张和辛苦经营都不等于股东回报。
 
@@ -97,15 +97,15 @@
 
 ## 延伸主题
 
-- [银行](../industry/05-yin-hang.md)：杠杆、信任和风险控制。
+- [银行](/buffett/articles/industry/05-yin-hang)：杠杆、信任和风险控制。
 
-- [报纸](../industry/01-bao-zhi.md)：从地方特许经营权到竞争优势削弱。
+- [报纸](/buffett/articles/industry/01-bao-zhi)：从地方特许经营权到竞争优势削弱。
 
-- [公用事业](../industry/03-gong-yong-shi-ye.md)：监管、资本开支和合理回报。
+- [公用事业](/buffett/articles/industry/03-gong-yong-shi-ye)：监管、资本开支和合理回报。
 
-- [铁路](../industry/02-tie-lu.md)：重资产生意里的网络护城河。
+- [铁路](/buffett/articles/industry/02-tie-lu)：重资产生意里的网络护城河。
 
-- [能源](../industry/04-neng-yuan.md)：长期需求、政策和资本投入。
+- [能源](/buffett/articles/industry/04-neng-yuan)：长期需求、政策和资本投入。
 
 ## 总结
 

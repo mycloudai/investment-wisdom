@@ -8,25 +8,25 @@
 
 巴菲特用哪些公司案例说明好生意、好管理和好价格？
 
-这篇总论的答案是：巴菲特理解一家公司时，首先不把它当成股票代码，而是把它当成一门生意。他关心这门生意是否能被理解，是否有持久[护城河](../../keywords/009-hu-cheng-he.md)，是否由可信且能干的[经理人](../../keywords/043-jing-li-ren.md)经营，是否能以合理价格买入，以及赚到的钱能否继续被有效配置。[GEICO](../company/09-geico.md)、[喜诗糖果](../company/12-sees-candies.md)、[可口可乐](../company/07-coca-cola.md)、[美国运通](../company/02-american-express.md)、[苹果](../company/04-apple.md)、[BNSF](../company/05-bnsf.md)、[伯克希尔能源](../company/01-berkshire-hathaway-energy.md)、[比亚迪](../company/06-byd.md)和[五大商社](../company/14-wu-da-shang-she.md)，分别展示了这套判断在不同商业类型中的应用。
+这篇总论的答案是：巴菲特理解一家公司时，首先不把它当成股票代码，而是把它当成一门生意。他关心这门生意是否能被理解，是否有持久[护城河](/buffett/keywords/009-hu-cheng-he)，是否由可信且能干的[经理人](/buffett/keywords/043-jing-li-ren)经营，是否能以合理价格买入，以及赚到的钱能否继续被有效配置。[GEICO](/buffett/articles/company/09-geico)、[喜诗糖果](/buffett/articles/company/12-sees-candies)、[可口可乐](/buffett/articles/company/07-coca-cola)、[美国运通](/buffett/articles/company/02-american-express)、[苹果](/buffett/articles/company/04-apple)、[BNSF](/buffett/articles/company/05-bnsf)、[伯克希尔能源](/buffett/articles/company/01-berkshire-hathaway-energy)、[比亚迪](/buffett/articles/company/06-byd)和[五大商社](/buffett/articles/company/14-wu-da-shang-she)，分别展示了这套判断在不同商业类型中的应用。
 
 ## 这类问题在巴菲特体系中的位置
 
-公司案例是知识库里的“检验场”。如果只谈[安全边际](../../keywords/001-an-quan-bian-ji.md)、[能力圈](../../keywords/013-neng-li-quan.md)、[护城河](../../keywords/009-hu-cheng-he.md)和[资本配置](../../keywords/032-zi-ben-pei-zhi.md)，这些概念容易变成抽象原则；一旦放到具体公司里，判断就必须面对真实问题：这家公司为什么比竞争者强？这种优势能持续多久？管理层会不会把好生意做坏？当前价格是否给长期股东留下足够回报？
+公司案例是知识库里的“检验场”。如果只谈[安全边际](/buffett/keywords/001-an-quan-bian-ji)、[能力圈](/buffett/keywords/013-neng-li-quan)、[护城河](/buffett/keywords/009-hu-cheng-he)和[资本配置](/buffett/keywords/032-zi-ben-pei-zhi)，这些概念容易变成抽象原则；一旦放到具体公司里，判断就必须面对真实问题：这家公司为什么比竞争者强？这种优势能持续多久？管理层会不会把好生意做坏？当前价格是否给长期股东留下足够回报？
 
 巴菲特的公司案例还有一个重要作用：把全资收购和股票投资放在同一张地图上。买下喜诗糖果、GEICO 和 BNSF，是买入整家公司；买入可口可乐、美国运通、苹果和五大商社，是买入公司的一部分。但在他的语言里，两者都属于买生意。区别在于控制权、税收、会计和资本配置方式不同，本质上都要回答企业经济特征是否足够好。
 
 ## 关键词地图
 
-第一组是企业质量：[护城河](../../keywords/009-hu-cheng-he.md)、[品牌](../../keywords/044-pin-pai.md)、[定价权](../../keywords/035-ding-jia-quan.md)、[消费者垄断](../../keywords/047-xiao-fei-zhe-long-duan.md)。喜诗糖果、可口可乐和美国运通主要用来理解这组关键词。
+第一组是企业质量：[护城河](/buffett/keywords/009-hu-cheng-he)、[品牌](/buffett/keywords/044-pin-pai)、[定价权](/buffett/keywords/035-ding-jia-quan)、[消费者垄断](/buffett/keywords/047-xiao-fei-zhe-long-duan)。喜诗糖果、可口可乐和美国运通主要用来理解这组关键词。
 
-第二组是成本和结构：[GEICO](../company/09-geico.md)、[保险](../../keywords/087-bao-xian.md)、[浮存金](../../keywords/092-fu-cun-jin.md)、低成本运营、直销模式。它们说明低成本也可以是一种非常坚固的护城河。
+第二组是成本和结构：[GEICO](/buffett/articles/company/09-geico)、[保险](/buffett/keywords/087-bao-xian)、[浮存金](/buffett/keywords/092-fu-cun-jin)、低成本运营、直销模式。它们说明低成本也可以是一种非常坚固的护城河。
 
-第三组是重资产复利：[BNSF](../company/05-bnsf.md)、[伯克希尔能源](../company/01-berkshire-hathaway-energy.md)、[铁路](../industry/02-tie-lu.md)、[公用事业](../industry/03-gong-yong-shi-ye.md)、[资本配置](../../keywords/032-zi-ben-pei-zhi.md)。这组案例提醒读者，低资本需求当然好，但需要大量资本且能获得合理回报的业务，也可能适合伯克希尔。
+第三组是重资产复利：[BNSF](/buffett/articles/company/05-bnsf)、[伯克希尔能源](/buffett/articles/company/01-berkshire-hathaway-energy)、[铁路](/buffett/articles/industry/02-tie-lu)、[公用事业](/buffett/articles/industry/03-gong-yong-shi-ye)、[资本配置](/buffett/keywords/032-zi-ben-pei-zhi)。这组案例提醒读者，低资本需求当然好，但需要大量资本且能获得合理回报的业务，也可能适合伯克希尔。
 
-第四组是上市公司少数股权：[可口可乐](../company/07-coca-cola.md)、[美国运通](../company/02-american-express.md)、[苹果](../company/04-apple.md)、[五大商社](../company/14-wu-da-shang-she.md)。这些案例说明，不能买下整家公司时，买入优秀企业的一部分也可以成为长期资本配置。
+第四组是上市公司少数股权：[可口可乐](/buffett/articles/company/07-coca-cola)、[美国运通](/buffett/articles/company/02-american-express)、[苹果](/buffett/articles/company/04-apple)、[五大商社](/buffett/articles/company/14-wu-da-shang-she)。这些案例说明，不能买下整家公司时，买入优秀企业的一部分也可以成为长期资本配置。
 
-第五组是边界和例外：[比亚迪](../company/06-byd.md)、[能力圈](../../keywords/013-neng-li-quan.md)、[查理·芒格](../person/03-charlie-munger.md)。它提醒我们，巴菲特体系不是僵硬拒绝新行业，而是在极少数情况下，因为人、价格和商业进展足够特殊而扩展边界。
+第五组是边界和例外：[比亚迪](/buffett/articles/company/06-byd)、[能力圈](/buffett/keywords/013-neng-li-quan)、[查理·芒格](/buffett/articles/person/03-charlie-munger)。它提醒我们，巴菲特体系不是僵硬拒绝新行业，而是在极少数情况下，因为人、价格和商业进展足够特殊而扩展边界。
 
 ## 原文依据概览
 
@@ -99,15 +99,15 @@
 
 ## 延伸主题
 
-- [GEICO](../company/09-geico.md)：低成本护城河如何成为伯克希尔保险核心。
+- [GEICO](/buffett/articles/company/09-geico)：低成本护城河如何成为伯克希尔保险核心。
 
-- [喜诗糖果](../company/12-sees-candies.md)：品牌、定价权和低资本需求。
+- [喜诗糖果](/buffett/articles/company/12-sees-candies)：品牌、定价权和低资本需求。
 
-- [可口可乐](../company/07-coca-cola.md)：全球品牌和消费者习惯。
+- [可口可乐](/buffett/articles/company/07-coca-cola)：全球品牌和消费者习惯。
 
-- [苹果](../company/04-apple.md)：消费黏性、回购和资本配置。
+- [苹果](/buffett/articles/company/04-apple)：消费黏性、回购和资本配置。
 
-- [BNSF](../company/05-bnsf.md)：铁路这种重资产生意为什么值得拥有。
+- [BNSF](/buffett/articles/company/05-bnsf)：铁路这种重资产生意为什么值得拥有。
 
 ## 总结
 

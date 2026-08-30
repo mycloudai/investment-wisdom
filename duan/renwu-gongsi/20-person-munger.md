@@ -28,13 +28,13 @@
 
 ### 1. 理性
 
-段永平把[理性](../zhuti/43-lixing.md)和[平常心](../zhuti/02-pingchangxin.md)连在一起看。芒格强调 rationality，段永平强调平常心、想长远，本质上都是对抗情绪、短期诱惑和市场噪音。
+段永平把[理性](/duan/zhuti/43-lixing)和[平常心](/duan/zhuti/02-pingchangxin)连在一起看。芒格强调 rationality，段永平强调平常心、想长远，本质上都是对抗情绪、短期诱惑和市场噪音。
 
 ### 2. 逆向思维
 
 芒格最有代表性的思考方式之一是反过来想。段永平常用这种思路解释不做什么：不用 margin、不做空、不碰看不懂的东西。
 
-这和段永平的 [stop doing list](../zhuti/06-buzuoshenme.md) 非常接近。
+这和段永平的 [stop doing list](/duan/zhuti/06-buzuoshenme) 非常接近。
 
 ### 3. 能力圈
 
@@ -64,24 +64,24 @@
 
 - Costco
 
-- [拼多多](14-company-pinduoduo.md)
+- [拼多多](/duan/renwu-gongsi/14-company-pinduoduo)
 
-- [苹果](06-company-apple.md)
+- [苹果](/duan/renwu-gongsi/06-company-apple)
 
 ## 相关概念
 
-- [理性](../zhuti/43-lixing.md)
+- [理性](/duan/zhuti/43-lixing)
 
-- [平常心](../zhuti/02-pingchangxin.md)
+- [平常心](/duan/zhuti/02-pingchangxin)
 
-- [能力圈](../zhuti/05-nengliquan.md)
+- [能力圈](/duan/zhuti/05-nengliquan)
 
-- [不做什么](../zhuti/06-buzuoshenme.md)
+- [不做什么](/duan/zhuti/06-buzuoshenme)
 
-- [安全边际](../zhuti/19-anquanbianji.md)
+- [安全边际](/duan/zhuti/19-anquanbianji)
 
 ## 原始出处
 
-- [投资为什么简单但不容易](../wenda/03-wenda-invest-02.md)
+- [投资为什么简单但不容易](/duan/wenda/03-wenda-invest-02)
 
-- [投资心态、Golf、阅读与学习](../wenda/13-wenda-invest-12.md)
+- [投资心态、Golf、阅读与学习](/duan/wenda/13-wenda-invest-12)

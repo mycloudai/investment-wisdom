@@ -62,22 +62,22 @@ AI 和算力需求变化很快。黄仁勋早早押注并持续投入，使英�
 
 ## 相关公司
 
-- [英伟达](15-company-nvidia.md)
+- [英伟达](/duan/renwu-gongsi/15-company-nvidia)
 
 ## 相关概念
 
-- [护城河](../zhuti/13-huchenghe.md)
+- [护城河](/duan/zhuti/13-huchenghe)
 
-- [差异化](../zhuti/28-chayihua.md)
+- [差异化](/duan/zhuti/28-chayihua)
 
-- [能力圈](../zhuti/05-nengliquan.md)
+- [能力圈](/duan/zhuti/05-nengliquan)
 
-- [生态系统](../zhuti/33-shengtaixitong.md)
+- [生态系统](/duan/zhuti/33-shengtaixitong)
 
-- [长期主义](../zhuti/44-zhangqizhuyi.md)
+- [长期主义](/duan/zhuti/44-zhangqizhuyi)
 
 ## 原始出处
 
-- [英伟达公司问答](../wenda/38-wenda-company-tech-platforms.md)
+- [英伟达公司问答](/duan/wenda/38-wenda-company-tech-platforms)
 
-- [2025年方三文对话段永平](../yanjiang-fangtan/31-duanyongping-2025nian-fangsanwenduihuaduanyongping-zuozijinenggouxihuandeshiqing.md)
+- [2025年方三文对话段永平](/duan/yanjiang-fangtan/31-duanyongping-2025nian-fangsanwenduihuaduanyongping-zuozijinenggouxihuandeshiqing)

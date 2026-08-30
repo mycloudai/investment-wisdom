@@ -6,27 +6,27 @@
 
 ## 中心问题
 
-巴菲特的底层思想如何帮助投资者避免[避免永久性损失](../../keywords/003-bi-mian-yong-jiu-xing-sun-shi.md)？
+巴菲特的底层思想如何帮助投资者避免[避免永久性损失](/buffett/keywords/003-bi-mian-yong-jiu-xing-sun-shi)？
 
-这篇总论的答案很简单：巴菲特不是靠预测市场、追逐热点或寻找复杂公式建立投资体系，而是把少数原则反复用于不同场景。[长期主义](../../keywords/005-chang-qi-zhu-yi.md)提供时间维度，[复利](../../keywords/008-fu-li.md)说明小优势为什么值得坚持，[安全边际](../../keywords/001-an-quan-bian-ji.md)承认判断可能出错，[能力圈](../../keywords/013-neng-li-quan.md)规定什么事情不能做，[护城河](../../keywords/009-hu-cheng-he.md)回答好企业为什么能长期存在，[机会成本](../../keywords/010-ji-hui-cheng-ben.md)让每个选择都面对替代方案，[理性](../../keywords/073-li-xing.md)和[纪律](../../keywords/011-ji-lv.md)则保证人在压力下不背离这些原则。
+这篇总论的答案很简单：巴菲特不是靠预测市场、追逐热点或寻找复杂公式建立投资体系，而是把少数原则反复用于不同场景。[长期主义](/buffett/keywords/005-chang-qi-zhu-yi)提供时间维度，[复利](/buffett/keywords/008-fu-li)说明小优势为什么值得坚持，[安全边际](/buffett/keywords/001-an-quan-bian-ji)承认判断可能出错，[能力圈](/buffett/keywords/013-neng-li-quan)规定什么事情不能做，[护城河](/buffett/keywords/009-hu-cheng-he)回答好企业为什么能长期存在，[机会成本](/buffett/keywords/010-ji-hui-cheng-ben)让每个选择都面对替代方案，[理性](/buffett/keywords/073-li-xing)和[纪律](/buffett/keywords/011-ji-lv)则保证人在压力下不背离这些原则。
 
 ## 这类问题在巴菲特体系中的位置
 
-核心哲学是整个知识库的底座。没有这一层，后面的[价值投资](../../keywords/024-jia-zhi-tou-zi.md)、[资本配置](../../keywords/032-zi-ben-pei-zhi.md)、公司案例和行业判断都会变成零散技巧。
+核心哲学是整个知识库的底座。没有这一层，后面的[价值投资](/buffett/keywords/024-jia-zhi-tou-zi)、[资本配置](/buffett/keywords/032-zi-ben-pei-zhi)、公司案例和行业判断都会变成零散技巧。
 
 巴菲特在 2003 年对田纳西大学学生说，如果要给出一条投资建议，就是记住三件事：“股票是一门生意，股市是为你服务的，而不是指导你的，并始终保持安全边际。”这句话把三条主线放在一起：先看企业，再使用市场，最后给判断留余地。
 
-从 1960 年代合伙人信到 2000 年以后的股东大会，这些原则的表达方式变了，但内核没有变。早期他强调低估股票“自带可观的安全边际”；中期他讨论[内在价值](../../keywords/012-nei-zai-jia-zhi.md)、悲观价格和独立思考；后期他把伟大企业定义为有持久护城河、能在长期内抵御竞争的企业。
+从 1960 年代合伙人信到 2000 年以后的股东大会，这些原则的表达方式变了，但内核没有变。早期他强调低估股票“自带可观的安全边际”；中期他讨论[内在价值](/buffett/keywords/012-nei-zai-jia-zhi)、悲观价格和独立思考；后期他把伟大企业定义为有持久护城河、能在长期内抵御竞争的企业。
 
 ## 关键词地图
 
-第一组是风险底线：[安全边际](../../keywords/001-an-quan-bian-ji.md)、[避免永久性损失](../../keywords/003-bi-mian-yong-jiu-xing-sun-shi.md)、[保守主义](../../keywords/002-bao-shou-zhu-yi.md)、[不懂不做](../../keywords/004-bu-dong-bu-zuo.md)。它们共同回答“怎样避免把一次判断错误变成不可恢复的损失”。
+第一组是风险底线：[安全边际](/buffett/keywords/001-an-quan-bian-ji)、[避免永久性损失](/buffett/keywords/003-bi-mian-yong-jiu-xing-sun-shi)、[保守主义](/buffett/keywords/002-bao-shou-zhu-yi)、[不懂不做](/buffett/keywords/004-bu-dong-bu-zuo)。它们共同回答“怎样避免把一次判断错误变成不可恢复的损失”。
 
-第二组是认知边界：[能力圈](../../keywords/013-neng-li-quan.md)、[常识](../../keywords/006-chang-shi.md)、[独立思考](../../keywords/007-du-li-si-kao.md)、[理性](../../keywords/073-li-xing.md)。它们提醒投资者，真正重要的不是知道多少，而是知道自己不知道什么。
+第二组是认知边界：[能力圈](/buffett/keywords/013-neng-li-quan)、[常识](/buffett/keywords/006-chang-shi)、[独立思考](/buffett/keywords/007-du-li-si-kao)、[理性](/buffett/keywords/073-li-xing)。它们提醒投资者，真正重要的不是知道多少，而是知道自己不知道什么。
 
-第三组是企业质量：[护城河](../../keywords/009-hu-cheng-he.md)、[内在价值](../../keywords/012-nei-zai-jia-zhi.md)、[长期主义](../../keywords/005-chang-qi-zhu-yi.md)、[复利](../../keywords/008-fu-li.md)。它们把投资从价格游戏拉回企业长期经济实质。
+第三组是企业质量：[护城河](/buffett/keywords/009-hu-cheng-he)、[内在价值](/buffett/keywords/012-nei-zai-jia-zhi)、[长期主义](/buffett/keywords/005-chang-qi-zhu-yi)、[复利](/buffett/keywords/008-fu-li)。它们把投资从价格游戏拉回企业长期经济实质。
 
-第四组是行动规则：[机会成本](../../keywords/010-ji-hui-cheng-ben.md)、[市场先生](../../keywords/016-shi-chang-xian-sheng.md)、[纪律](../../keywords/011-ji-lv.md)、[逆向思维](../../keywords/014-ni-xiang-si-wei.md)、[少即是多](../../keywords/015-shao-ji-shi-duo.md)。它们决定何时行动、何时等待、何时拒绝看起来热闹但不值得的机会。
+第四组是行动规则：[机会成本](/buffett/keywords/010-ji-hui-cheng-ben)、[市场先生](/buffett/keywords/016-shi-chang-xian-sheng)、[纪律](/buffett/keywords/011-ji-lv)、[逆向思维](/buffett/keywords/014-ni-xiang-si-wei)、[少即是多](/buffett/keywords/015-shao-ji-shi-duo)。它们决定何时行动、何时等待、何时拒绝看起来热闹但不值得的机会。
 
 ## 原文依据概览
 
@@ -75,7 +75,7 @@
 
 ## 代表案例
 
-1. 华盛顿邮报：巴菲特在 1991 年圣母大学演讲中说明，如果估值范围是 3-5 亿美元而市场报价只有 8000 万美元，就不必精确到小数点后才行动。这个案例连接[内在价值](../../keywords/012-nei-zai-jia-zhi.md)和安全边际。
+1. 华盛顿邮报：巴菲特在 1991 年圣母大学演讲中说明，如果估值范围是 3-5 亿美元而市场报价只有 8000 万美元，就不必精确到小数点后才行动。这个案例连接[内在价值](/buffett/keywords/012-nei-zai-jia-zhi)和安全边际。
 
 2. 富国银行：1990 年致股东信里，巴菲特欢迎恐慌价格，因为伯克希尔会持续买入企业或企业的一部分。这个案例说明下跌对长期买家可能是有利事件。
 
@@ -99,15 +99,15 @@
 
 ## 延伸主题
 
-- [安全边际](../../keywords/001-an-quan-bian-ji.md)：如何把“不知道”转化为价格和风险控制。
+- [安全边际](/buffett/keywords/001-an-quan-bian-ji)：如何把“不知道”转化为价格和风险控制。
 
-- [能力圈](../../keywords/013-neng-li-quan.md)：为什么最重要的是知道边界。
+- [能力圈](/buffett/keywords/013-neng-li-quan)：为什么最重要的是知道边界。
 
-- [护城河](../../keywords/009-hu-cheng-he.md)：什么样的企业优势能穿越时间。
+- [护城河](/buffett/keywords/009-hu-cheng-he)：什么样的企业优势能穿越时间。
 
-- [市场先生](../../keywords/016-shi-chang-xian-sheng.md)：如何利用波动，而不是被波动指挥。
+- [市场先生](/buffett/keywords/016-shi-chang-xian-sheng)：如何利用波动，而不是被波动指挥。
 
-- [机会成本](../../keywords/010-ji-hui-cheng-ben.md)：为什么投资选择永远是比较题。
+- [机会成本](/buffett/keywords/010-ji-hui-cheng-ben)：为什么投资选择永远是比较题。
 
 ## 总结
 

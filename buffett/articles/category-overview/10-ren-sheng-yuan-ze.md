@@ -8,7 +8,7 @@
 
 巴菲特的人格原则如何影响他的投资和经营判断？
 
-答案不是“先做人，后投资”这样简单。巴菲特的[诚信](../../keywords/069-cheng-xin.md)、[理性](../../keywords/073-li-xing.md)、[阅读](../../keywords/082-yue-du.md)习惯、[改正错误](../../keywords/071-gai-zheng-cuo-wu.md)方式和[财富传承](../../keywords/068-cai-fu-chuan-cheng.md)观，直接影响他如何选择经理人、如何保护[声誉](../../keywords/079-sheng-yu.md)、如何复盘收购错误、如何设计伯克希尔文化，以及如何处理巨额财富。
+答案不是“先做人，后投资”这样简单。巴菲特的[诚信](/buffett/keywords/069-cheng-xin)、[理性](/buffett/keywords/073-li-xing)、[阅读](/buffett/keywords/082-yue-du)习惯、[改正错误](/buffett/keywords/071-gai-zheng-cuo-wu)方式和[财富传承](/buffett/keywords/068-cai-fu-chuan-cheng)观，直接影响他如何选择经理人、如何保护[声誉](/buffett/keywords/079-sheng-yu)、如何复盘收购错误、如何设计伯克希尔文化，以及如何处理巨额财富。
 
 ## 这类问题在巴菲特体系中的位置
 
@@ -18,13 +18,13 @@
 
 ## 关键词地图
 
-第一组是道德底线：[诚信](../../keywords/069-cheng-xin.md)、[声誉](../../keywords/079-sheng-yu.md)、[品格](../../keywords/075-pin-ge.md)和信任。它们回答“什么事情不能拿钱交换”。
+第一组是道德底线：[诚信](/buffett/keywords/069-cheng-xin)、[声誉](/buffett/keywords/079-sheng-yu)、[品格](/buffett/keywords/075-pin-ge)和信任。它们回答“什么事情不能拿钱交换”。
 
-第二组是思维方式：[理性](../../keywords/073-li-xing.md)、[阅读](../../keywords/082-yue-du.md)、[耐心](../../keywords/074-nai-xin.md)、[常识](../../keywords/006-chang-shi.md)。它们让投资者不被市场情绪、组织惯性和复杂模型牵着走。
+第二组是思维方式：[理性](/buffett/keywords/073-li-xing)、[阅读](/buffett/keywords/082-yue-du)、[耐心](/buffett/keywords/074-nai-xin)、[常识](/buffett/keywords/006-chang-shi)。它们让投资者不被市场情绪、组织惯性和复杂模型牵着走。
 
-第三组是自我修正：[改正错误](../../keywords/071-gai-zheng-cuo-wu.md)、[纪律](../../keywords/011-ji-lv.md)、[安全边际](../../keywords/001-an-quan-bian-ji.md)。巴菲特不是不犯错，而是公开承认错误类型，并努力降低重复犯错的概率。
+第三组是自我修正：[改正错误](/buffett/keywords/071-gai-zheng-cuo-wu)、[纪律](/buffett/keywords/011-ji-lv)、[安全边际](/buffett/keywords/001-an-quan-bian-ji)。巴菲特不是不犯错，而是公开承认错误类型，并努力降低重复犯错的概率。
 
-第四组是人生安排：[投资自己](../../keywords/080-tou-zi-zi-ji.md)、[榜样](../../keywords/067-bang-yang.md)、[慈善](../../keywords/070-ci-shan.md)、[财富传承](../../keywords/068-cai-fu-chuan-cheng.md)、[子女教育](../../keywords/083-zi-nv-jiao-yu.md)。这些关键词说明财富如何回到个人能力、社会责任和代际选择上。
+第四组是人生安排：[投资自己](/buffett/keywords/080-tou-zi-zi-ji)、[榜样](/buffett/keywords/067-bang-yang)、[慈善](/buffett/keywords/070-ci-shan)、[财富传承](/buffett/keywords/068-cai-fu-chuan-cheng)、[子女教育](/buffett/keywords/083-zi-nv-jiao-yu)。这些关键词说明财富如何回到个人能力、社会责任和代际选择上。
 
 ## 原文依据概览
 
@@ -99,15 +99,15 @@
 
 ## 延伸主题
 
-- [企业文化](../../keywords/045-qi-ye-wen-hua.md)：道德底线如何在组织中传导。
+- [企业文化](/buffett/keywords/045-qi-ye-wen-hua)：道德底线如何在组织中传导。
 
-- [经理人](../../keywords/043-jing-li-ren.md)：为什么巴菲特重视正直、热爱业务和可信赖。
+- [经理人](/buffett/keywords/043-jing-li-ren)：为什么巴菲特重视正直、热爱业务和可信赖。
 
-- [股东沟通](../../keywords/039-gu-dong-gou-tong.md)：为什么坦率说明错误是股东文化的一部分。
+- [股东沟通](/buffett/keywords/039-gu-dong-gou-tong)：为什么坦率说明错误是股东文化的一部分。
 
-- [慈善](../../keywords/070-ci-shan.md)：财富离开个人消费之后如何产生社会用途。
+- [慈善](/buffett/keywords/070-ci-shan)：财富离开个人消费之后如何产生社会用途。
 
-- [投资自己](../../keywords/080-tou-zi-zi-ji.md)：个人长期复利的起点。
+- [投资自己](/buffett/keywords/080-tou-zi-zi-ji)：个人长期复利的起点。
 
 ## 总结
 

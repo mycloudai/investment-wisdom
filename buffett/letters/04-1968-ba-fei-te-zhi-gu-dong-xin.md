@@ -4,9 +4,9 @@
 
 致股东信
 
-致[伯克希尔](../articles/company/03-berkshire.md)·哈撒韦公司全体股东：
+致[伯克希尔](/buffett/articles/company/03-berkshire)·哈撒韦公司全体股东：
 
-1968年，纺织业务和[保险](../keywords/087-bao-xian.md)业务的盈利状况均有所改善。就[股东权益](../keywords/051-gu-dong-quan-yi.md)而言，整体经营收益率仍不尽如人意，但我们正竭尽全力将其提升至应有水平。
+1968年，纺织业务和[保险](/buffett/keywords/087-bao-xian)业务的盈利状况均有所改善。就[股东权益](/buffett/keywords/051-gu-dong-quan-yi)而言，整体经营收益率仍不尽如人意，但我们正竭尽全力将其提升至应有水平。
 
 ### 纺织业务
 
@@ -16,16 +16,16 @@
 
 ### 保险业务
 
-[国民保险](../articles/company/11-national-indemnity.md)公司 (National Indemnity Company) 和国民火灾与海事保险公司 (National Fire Marine Insurance Company) 在杰克·林沃特 ([Jack Ringwalt](../articles/person/05-jack-ringwalt.md)) 的领导下，继续保持出色的经营业绩。1968年保费收入仅小幅增长，但更值得关注的是：在整个财产保险行业普遍出现[承保](../keywords/089-cheng-bao.md)亏损的背景下，我们依然实现了良好的承保利润。投资收益在1968年大幅增加，既得益于资产规模的扩大，也受益于固定收益证券收益率的提升。此外，我们在普通股上的投资再度兑现了部分资本利得。
+[国民保险](/buffett/articles/company/11-national-indemnity)公司 (National Indemnity Company) 和国民火灾与海事保险公司 (National Fire Marine Insurance Company) 在杰克·林沃特 ([Jack Ringwalt](/buffett/articles/person/05-jack-ringwalt)) 的领导下，继续保持出色的经营业绩。1968年保费收入仅小幅增长，但更值得关注的是：在整个财产保险行业普遍出现[承保](/buffett/keywords/089-cheng-bao)亏损的背景下，我们依然实现了良好的承保利润。投资收益在1968年大幅增加，既得益于资产规模的扩大，也受益于固定收益证券收益率的提升。此外，我们在普通股上的投资再度兑现了部分资本利得。
 
-保险公司将继续寻求新的扩张机会，无论是在直接险业务还是[再保险](../keywords/095-zai-bao-xian.md)领域均如此。但有一点必须始终坚守：承保要有利可图，绝不为了追求规模而牺牲利润率。由于我们坚持将保险子公司的全部收益留存于内部，公司的资本金得到大幅充实，承保能力也随之增强，使我们能够保留更大比例的自主承保份额。
+保险公司将继续寻求新的扩张机会，无论是在直接险业务还是[再保险](/buffett/keywords/095-zai-bao-xian)领域均如此。但有一点必须始终坚守：承保要有利可图，绝不为了追求规模而牺牲利润率。由于我们坚持将保险子公司的全部收益留存于内部，公司的资本金得到大幅充实，承保能力也随之增强，使我们能够保留更大比例的自主承保份额。
 
 ### 有价证券投资与收购
 
-1968年，我们出售了投资组合中的部分有价证券，税后获利约150万[美元](../keywords/116-mei-yuan.md)。至1968年底，投资组合中剩余持仓的未实现资本利得达640万美元。这些普通股有价证券作为临时性投资持有，随时可以为收购或扩大经营业务调配资金——这与我们构建更强劲、更多元化盈利能力的整体规划一脉相承。
+1968年，我们出售了投资组合中的部分有价证券，税后获利约150万[美元](/buffett/keywords/116-mei-yuan)。至1968年底，投资组合中剩余持仓的未实现资本利得达640万美元。这些普通股有价证券作为临时性投资持有，随时可以为收购或扩大经营业务调配资金——这与我们构建更强劲、更多元化盈利能力的整体规划一脉相承。
 
-年底之后，我们购入了太阳报业公司 (Sun [Newspaper](../articles/industry/01-bao-zhi.md)s, Inc.) 和布莱克印务公司 (Blacker Printing Company, Inc.) 的全部股权，由此正式踏入出版业。此次收购仅动用了我们可用收购资金的一小部分。太阳报业在内布拉斯加州奥马哈地区发行五份周报，付费订阅规模约5万份；配套的印刷业务则由布莱克印务公司承接。这笔买卖规模虽小，但未来增长潜力不容小觑。业务将继续由斯坦福·利普西 (Stanford Lipsey) 负责经营。
+年底之后，我们购入了太阳报业公司 (Sun [Newspaper](/buffett/articles/industry/01-bao-zhi)s, Inc.) 和布莱克印务公司 (Blacker Printing Company, Inc.) 的全部股权，由此正式踏入出版业。此次收购仅动用了我们可用收购资金的一小部分。太阳报业在内布拉斯加州奥马哈地区发行五份周报，付费订阅规模约5万份；配套的印刷业务则由布莱克印务公司承接。这笔买卖规模虽小，但未来增长潜力不容小觑。业务将继续由斯坦福·利普西 (Stanford Lipsey) 负责经营。
 
 肯尼思·V·蔡斯 (Kenneth V. Chace) 总裁
 
-（[沃伦·巴菲特](../articles/person/13-warren-buffett.md)执笔）
+（[沃伦·巴菲特](/buffett/articles/person/13-warren-buffett)执笔）

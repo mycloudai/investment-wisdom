@@ -8,23 +8,23 @@
 
 巴菲特如何区分市场波动和真正的投资风险？
 
-这篇总论的答案是：巴菲特不把[市场波动](../../keywords/104-shi-chang-bo-dong.md)等同于风险。对他来说，[股票市场](../../keywords/099-gu-piao-shi-chang.md)每天报价只是[市场先生](../../keywords/016-shi-chang-xian-sheng.md)提供的机会；真正的风险是永久性资本损失、企业经济特征恶化、价格过高、[杠杆](../../keywords/098-gang-gan.md)强迫卖出、[衍生品](../../keywords/108-yan-sheng-pin.md)和交易对手风险、以及在[金融危机](../../keywords/100-jin-rong-wei-ji.md)中缺乏[流动性](../../keywords/102-liu-dong-xing.md)。所以他的市场观不是预测下一次[恐慌](../../keywords/101-kong-huang.md)，而是在任何时候都让自己有能力利用恐慌。
+这篇总论的答案是：巴菲特不把[市场波动](/buffett/keywords/104-shi-chang-bo-dong)等同于风险。对他来说，[股票市场](/buffett/keywords/099-gu-piao-shi-chang)每天报价只是[市场先生](/buffett/keywords/016-shi-chang-xian-sheng)提供的机会；真正的风险是永久性资本损失、企业经济特征恶化、价格过高、[杠杆](/buffett/keywords/098-gang-gan)强迫卖出、[衍生品](/buffett/keywords/108-yan-sheng-pin)和交易对手风险、以及在[金融危机](/buffett/keywords/100-jin-rong-wei-ji)中缺乏[流动性](/buffett/keywords/102-liu-dong-xing)。所以他的市场观不是预测下一次[恐慌](/buffett/keywords/101-kong-huang)，而是在任何时候都让自己有能力利用恐慌。
 
 ## 这类问题在巴菲特体系中的位置
 
-巴菲特面对市场的逻辑有两条线。第一条是投资线：市场短期投票，长期称重。投资者要理解[企业价值](../../keywords/058-qi-ye-jia-zhi.md)和[内在价值](../../keywords/012-nei-zai-jia-zhi.md)，把价格波动当作机会，而不是当作指令。第二条是生存线：不要用杠杆，不要依赖别人提供流动性，不要把重要东西押在不重要的额外收益上。
+巴菲特面对市场的逻辑有两条线。第一条是投资线：市场短期投票，长期称重。投资者要理解[企业价值](/buffett/keywords/058-qi-ye-jia-zhi)和[内在价值](/buffett/keywords/012-nei-zai-jia-zhi)，把价格波动当作机会，而不是当作指令。第二条是生存线：不要用杠杆，不要依赖别人提供流动性，不要把重要东西押在不重要的额外收益上。
 
 这也是巴菲特风险控制和普通金融教科书最不同的地方。他不接受“波动率就是风险”的定义。波动可能让报价变得更便宜，反而降低长期买入风险；真正危险的是，你没有判断、没有现金、使用保证金，或持有自己无法理解的复杂金融合约。
 
 ## 关键词地图
 
-第一组是市场心态：[股票市场](../../keywords/099-gu-piao-shi-chang.md)、[市场波动](../../keywords/104-shi-chang-bo-dong.md)、[市场先生](../../keywords/016-shi-chang-xian-sheng.md)、[投机](../../keywords/106-tou-ji.md)。它们说明市场报价本身不是价值，只是买卖机会。
+第一组是市场心态：[股票市场](/buffett/keywords/099-gu-piao-shi-chang)、[市场波动](/buffett/keywords/104-shi-chang-bo-dong)、[市场先生](/buffett/keywords/016-shi-chang-xian-sheng)、[投机](/buffett/keywords/106-tou-ji)。它们说明市场报价本身不是价值，只是买卖机会。
 
-第二组是真实风险：永久性资本损失、[杠杆](../../keywords/098-gang-gan.md)、[衍生品](../../keywords/108-yan-sheng-pin.md)、交易对手风险、[流动性](../../keywords/102-liu-dong-xing.md)。这组关键词强调，投资者应防止自己在错误时点被迫卖出或因复杂结构遭受不可控损失。
+第二组是真实风险：永久性资本损失、[杠杆](/buffett/keywords/098-gang-gan)、[衍生品](/buffett/keywords/108-yan-sheng-pin)、交易对手风险、[流动性](/buffett/keywords/102-liu-dong-xing)。这组关键词强调，投资者应防止自己在错误时点被迫卖出或因复杂结构遭受不可控损失。
 
-第三组是周期与危机：[泡沫](../../keywords/103-pao-mo.md)、[金融危机](../../keywords/100-jin-rong-wei-ji.md)、[恐慌](../../keywords/101-kong-huang.md)、[衰退](../../keywords/105-shuai-tui.md)、[房地产](../../keywords/096-fang-di-chan.md)。泡沫通常来自价格上涨反过来强化乐观，危机则会暴露杠杆、估值和流动性上的脆弱。
+第三组是周期与危机：[泡沫](/buffett/keywords/103-pao-mo)、[金融危机](/buffett/keywords/100-jin-rong-wei-ji)、[恐慌](/buffett/keywords/101-kong-huang)、[衰退](/buffett/keywords/105-shuai-tui)、[房地产](/buffett/keywords/096-fang-di-chan)。泡沫通常来自价格上涨反过来强化乐观，危机则会暴露杠杆、估值和流动性上的脆弱。
 
-第四组是行动能力：[资本配置](../../keywords/032-zi-ben-pei-zhi.md)、现金、美国国库券、[伯克希尔](../company/03-berkshire.md)。巴菲特持有大量流动性，不是为了预测危机，而是为了在危机中不用求助、还能出手。
+第四组是行动能力：[资本配置](/buffett/keywords/032-zi-ben-pei-zhi)、现金、美国国库券、[伯克希尔](/buffett/articles/company/03-berkshire)。巴菲特持有大量流动性，不是为了预测危机，而是为了在危机中不用求助、还能出手。
 
 ## 原文依据概览
 
@@ -32,11 +32,11 @@
 
 1993 年致股东信系统反驳了把贝塔和波动率当作风险的观点。巴菲特把风险定义为“遭受损失或伤害的可能性”，并指出企业所有者应关心企业经济特征、竞争优势、资本结构和买入价格，而不是价格历史的统计波动。
 
-1997 年股东大会进一步把这套观点讲得更直白：波动对真正投资者是巨大优势；如果投资者用保证金，波动才会变成敌人。同一场会议还讨论[泡沫](../../keywords/103-pao-mo.md)形成：当股价上涨本身成为买入理由时，投资者会忘记最初的商业约束。
+1997 年股东大会进一步把这套观点讲得更直白：波动对真正投资者是巨大优势；如果投资者用保证金，波动才会变成敌人。同一场会议还讨论[泡沫](/buffett/keywords/103-pao-mo)形成：当股价上涨本身成为买入理由时，投资者会忘记最初的商业约束。
 
-1999 年股东大会和 2002 年致股东信解释[杠杆](../../keywords/098-gang-gan.md)与[衍生品](../../keywords/108-yan-sheng-pin.md)如何放大风险。长期资本管理公司说明，聪明人也会因为杠杆和衍生品冒着失去重要东西的风险去追逐无关紧要的额外收益。2002 年信中，巴菲特称衍生品是“定时炸弹”和“大规模杀伤性金融武器”，重点在于估值不透明、退出困难、交易对手关联和系统性风险。
+1999 年股东大会和 2002 年致股东信解释[杠杆](/buffett/keywords/098-gang-gan)与[衍生品](/buffett/keywords/108-yan-sheng-pin)如何放大风险。长期资本管理公司说明，聪明人也会因为杠杆和衍生品冒着失去重要东西的风险去追逐无关紧要的额外收益。2002 年信中，巴菲特称衍生品是“定时炸弹”和“大规模杀伤性金融武器”，重点在于估值不透明、退出困难、交易对手关联和系统性风险。
 
-2008、2009 和 2023 年材料说明危机中的[流动性](../../keywords/102-liu-dong-xing.md)。巴菲特不声称能预测[金融危机](../../keywords/100-jin-rong-wei-ji.md)，但伯克希尔长期保持现金、国库券、多元收益和低债务。2008 年金融体系冻结时，伯克希尔提供资本，而不是求助者。2023 年信中，他再次强调永远不要冒永久性资本损失风险，瞬间恐慌不会常发生，但一定会发生。
+2008、2009 和 2023 年材料说明危机中的[流动性](/buffett/keywords/102-liu-dong-xing)。巴菲特不声称能预测[金融危机](/buffett/keywords/100-jin-rong-wei-ji)，但伯克希尔长期保持现金、国库券、多元收益和低债务。2008 年金融体系冻结时，伯克希尔提供资本，而不是求助者。2023 年信中，他再次强调永远不要冒永久性资本损失风险，瞬间恐慌不会常发生，但一定会发生。
 
 ## 主引用
 
@@ -68,19 +68,19 @@
 
 1. 波动不是风险。价格每天变化，只说明市场情绪在变化；真正风险来自企业经济价值下降、买入价格过高、债务压力或流动性不足。
 
-2. 市场是工具，不是老师。[市场先生](../../keywords/016-shi-chang-xian-sheng.md)给出报价，投资者可以等待、拒绝或利用；如果被市场情绪牵着走，就会把工具变成指挥官。
+2. 市场是工具，不是老师。[市场先生](/buffett/keywords/016-shi-chang-xian-sheng)给出报价，投资者可以等待、拒绝或利用；如果被市场情绪牵着走，就会把工具变成指挥官。
 
 3. 杠杆会改变波动的性质。没有杠杆时，价格下跌可能是机会；有杠杆时，价格下跌会带来追加保证金、被迫卖出和破产风险。
 
-4. 泡沫来自价格自我强化。当投资者因为价格上涨而相信价格还会继续上涨，[投机](../../keywords/106-tou-ji.md)就会替代企业分析。
+4. 泡沫来自价格自我强化。当投资者因为价格上涨而相信价格还会继续上涨，[投机](/buffett/keywords/106-tou-ji)就会替代企业分析。
 
-5. 危机无法预测，但可以准备。伯克希尔长期保留大量[流动性](../../keywords/102-liu-dong-xing.md)，因为[恐慌](../../keywords/101-kong-huang.md)到来时，最重要的是不用求助并能出手。
+5. 危机无法预测，但可以准备。伯克希尔长期保留大量[流动性](/buffett/keywords/102-liu-dong-xing)，因为[恐慌](/buffett/keywords/101-kong-huang)到来时，最重要的是不用求助并能出手。
 
 ## 代表场景
 
 1. 1987 年股灾：巴菲特用市场先生解释，剧烈下跌并不自动增加投资风险。对能独立判断企业价值的人来说，市场非理性反而增加机会。
 
-2. 长期资本管理公司：它说明聪明、模型和历史业绩无法抵消[杠杆](../../keywords/098-gang-gan.md)风险。只要用借来的钱追求额外收益，一次相关性上升就可能致命。
+2. 长期资本管理公司：它说明聪明、模型和历史业绩无法抵消[杠杆](/buffett/keywords/098-gang-gan)风险。只要用借来的钱追求额外收益，一次相关性上升就可能致命。
 
 3. 互联网泡沫和大泡沫后遗症：2002 年信中，巴菲特指出泡沫后的痛苦与狂欢程度成正比。估值疯狂会在破裂后留下资本损失、会计问题和信誉问题。
 
@@ -102,19 +102,19 @@
 
 ## 延伸主题
 
-- [市场先生](../../keywords/016-shi-chang-xian-sheng.md)：如何把市场报价变成工具。
+- [市场先生](/buffett/keywords/016-shi-chang-xian-sheng)：如何把市场报价变成工具。
 
-- [市场波动](../../keywords/104-shi-chang-bo-dong.md)：为什么波动可能是优势。
+- [市场波动](/buffett/keywords/104-shi-chang-bo-dong)：为什么波动可能是优势。
 
-- [泡沫](../../keywords/103-pao-mo.md)：价格上涨如何替代商业理由。
+- [泡沫](/buffett/keywords/103-pao-mo)：价格上涨如何替代商业理由。
 
-- [杠杆](../../keywords/098-gang-gan.md)：为什么小概率事件会变成破产风险。
+- [杠杆](/buffett/keywords/098-gang-gan)：为什么小概率事件会变成破产风险。
 
-- [衍生品](../../keywords/108-yan-sheng-pin.md)：复杂金融合约的估值、交易对手和系统风险。
+- [衍生品](/buffett/keywords/108-yan-sheng-pin)：复杂金融合约的估值、交易对手和系统风险。
 
-- [金融危机](../../keywords/100-jin-rong-wei-ji.md)：为什么危机中流动性比收益率更重要。
+- [金融危机](/buffett/keywords/100-jin-rong-wei-ji)：为什么危机中流动性比收益率更重要。
 
-- [流动性](../../keywords/102-liu-dong-xing.md)：伯克希尔为何长期持有现金和国库券。
+- [流动性](/buffett/keywords/102-liu-dong-xing)：伯克希尔为何长期持有现金和国库券。
 
 ## 总结
 

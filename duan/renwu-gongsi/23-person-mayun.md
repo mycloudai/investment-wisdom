@@ -60,22 +60,22 @@
 
 ## 相关公司
 
-- [阿里巴巴](13-company-alibaba.md)
+- [阿里巴巴](/duan/renwu-gongsi/13-company-alibaba)
 
 ## 相关概念
 
-- [企业文化](../zhuti/26-qiyewenhua.md)
+- [企业文化](/duan/zhuti/26-qiyewenhua)
 
-- [平常心](../zhuti/02-pingchangxin.md)
+- [平常心](/duan/zhuti/02-pingchangxin)
 
-- [做对的事情](../zhuti/03-zuoduideshiqing.md)
+- [做对的事情](/duan/zhuti/03-zuoduideshiqing)
 
-- [商业模式](../zhuti/12-shangyemoshi.md)
+- [商业模式](/duan/zhuti/12-shangyemoshi)
 
-- [长期主义](../zhuti/44-zhangqizhuyi.md)
+- [长期主义](/duan/zhuti/44-zhangqizhuyi)
 
 ## 原始出处
 
-- [阿里巴巴与雅虎公司问答](../wenda/34-wenda-company-alibaba-yahoo.md)
+- [阿里巴巴与雅虎公司问答](/duan/wenda/34-wenda-company-alibaba-yahoo)
 
-- [企业文化](../wenda/21-wenda-business-08.md)
+- [企业文化](/duan/wenda/21-wenda-business-08)

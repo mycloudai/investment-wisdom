@@ -16,7 +16,7 @@
 
 - 腾讯产品之间有内在关联，不是一般意义上的多元化。
 
-- 投资腾讯仍然要比较[机会成本](../zhuti/22-jihuichengben.md)。
+- 投资腾讯仍然要比较[机会成本](/duan/zhuti/22-jihuichengben)。
 
 - 他更懂苹果，所以腾讯仓位一度较小。
 
@@ -32,7 +32,7 @@
 
 腾讯最重要的资产不是某一个游戏，也不是某一次流量红利，而是人与人之间长期沉淀的社交关系。微信把这种关系变成高频基础设施。
 
-这种基础设施性质，使腾讯的[商业模式](../zhuti/12-shangyemoshi.md)不只是卖广告或卖游戏，而是围绕用户关系持续展开服务。
+这种基础设施性质，使腾讯的[商业模式](/duan/zhuti/12-shangyemoshi)不只是卖广告或卖游戏，而是围绕用户关系持续展开服务。
 
 ### 2. 微信和微信支付
 
@@ -68,22 +68,22 @@
 
 ## 相关人物
 
-- [马化腾](25-person-mahuateng.md)
+- [马化腾](/duan/renwu-gongsi/25-person-mahuateng)
 
 ## 相关概念
 
-- [商业模式](../zhuti/12-shangyemoshi.md)
+- [商业模式](/duan/zhuti/12-shangyemoshi)
 
-- [护城河](../zhuti/13-huchenghe.md)
+- [护城河](/duan/zhuti/13-huchenghe)
 
-- [平台](../zhuti/32-pingtai.md)
+- [平台](/duan/zhuti/32-pingtai)
 
-- [机会成本](../zhuti/22-jihuichengben.md)
+- [机会成本](/duan/zhuti/22-jihuichengben)
 
-- [企业文化](../zhuti/26-qiyewenhua.md)
+- [企业文化](/duan/zhuti/26-qiyewenhua)
 
 ## 原始出处
 
-- [腾讯公司问答](../wenda/38-wenda-company-tech-platforms.md)
+- [腾讯公司问答](/duan/wenda/38-wenda-company-tech-platforms)
 
-- [收购与多元化](../wenda/25-wenda-business-12.md)
+- [收购与多元化](/duan/wenda/25-wenda-business-12)

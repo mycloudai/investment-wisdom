@@ -68,20 +68,20 @@
 
 ## 相关人物
 
-- [黄仁勋](28-person-huangrenxun.md)
+- [黄仁勋](/duan/renwu-gongsi/28-person-huangrenxun)
 
 ## 相关概念
 
-- [护城河](../zhuti/13-huchenghe.md)
+- [护城河](/duan/zhuti/13-huchenghe)
 
-- [差异化](../zhuti/28-chayihua.md)
+- [差异化](/duan/zhuti/28-chayihua)
 
-- [能力圈](../zhuti/05-nengliquan.md)
+- [能力圈](/duan/zhuti/05-nengliquan)
 
-- [现金流](../zhuti/16-xianjinliu.md)
+- [现金流](/duan/zhuti/16-xianjinliu)
 
-- [生态系统](../zhuti/33-shengtaixitong.md)
+- [生态系统](/duan/zhuti/33-shengtaixitong)
 
 ## 原始出处
 
-- [英伟达公司问答](../wenda/38-wenda-company-tech-platforms.md)
+- [英伟达公司问答](/duan/wenda/38-wenda-company-tech-platforms)

@@ -6,7 +6,7 @@
 
 ## 一句话定义
 
-[保守主义](002-bao-shou-zhu-yi.md)在巴菲特体系里，不是胆小，也不是拒绝回报，而是先把最坏结果控制在可承受范围内，再去争取更好的长期回报。
+[保守主义](/buffett/keywords/002-bao-shou-zhu-yi)在巴菲特体系里，不是胆小，也不是拒绝回报，而是先把最坏结果控制在可承受范围内，再去争取更好的长期回报。
 
 ## 中心问题
 
@@ -16,7 +16,7 @@
 
 ## 这类问题在巴菲特体系中的位置
 
-保守主义和[安全边际](001-an-quan-bian-ji.md)、[避免永久性损失](003-bi-mian-yong-jiu-xing-sun-shi.md)、[现金储备](030-xian-jin-chu-bei.md)、[独立思考](007-du-li-si-kao.md)是同一组语言。它回答的不是“怎样把某一年的收益做高”，而是“怎样让企业和股东在坏年份不出局”。
+保守主义和[安全边际](/buffett/keywords/001-an-quan-bian-ji)、[避免永久性损失](/buffett/keywords/003-bi-mian-yong-jiu-xing-sun-shi)、[现金储备](/buffett/keywords/030-xian-jin-chu-bei)、[独立思考](/buffett/keywords/007-du-li-si-kao)是同一组语言。它回答的不是“怎样把某一年的收益做高”，而是“怎样让企业和股东在坏年份不出局”。
 
 巴菲特早年就把这种倾向说得很直接：真正的保守，不是跟随大众，而是基于知识和理性做出不把自己逼到边缘的选择。到了伯克希尔阶段，这种态度进一步体现在较少杠杆、较强现金、较长期限和较低强迫性的资本结构上。
 
@@ -81,15 +81,15 @@
 
 ## 和其他关键词的关系
 
-- [安全边际](001-an-quan-bian-ji.md)：保守主义把价格和结构上的余地变成习惯。
+- [安全边际](/buffett/keywords/001-an-quan-bian-ji)：保守主义把价格和结构上的余地变成习惯。
 
-- [避免永久性损失](003-bi-mian-yong-jiu-xing-sun-shi.md)：保守主义的直接目标，就是避免毁灭性后果。
+- [避免永久性损失](/buffett/keywords/003-bi-mian-yong-jiu-xing-sun-shi)：保守主义的直接目标，就是避免毁灭性后果。
 
-- [现金储备](030-xian-jin-chu-bei.md)：现金是保守主义最直接的结构工具之一。
+- [现金储备](/buffett/keywords/030-xian-jin-chu-bei)：现金是保守主义最直接的结构工具之一。
 
-- [独立思考](007-du-li-si-kao.md)：只有独立思考，才能知道什么地方该保守。
+- [独立思考](/buffett/keywords/007-du-li-si-kao)：只有独立思考，才能知道什么地方该保守。
 
-- [纪律](011-ji-lv.md)：保守主义要靠纪律执行，而不是口头认同。
+- [纪律](/buffett/keywords/011-ji-lv)：保守主义要靠纪律执行，而不是口头认同。
 
 ## 总结
 

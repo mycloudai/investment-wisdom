@@ -18,68 +18,68 @@
 
 ## 已建样板
 
-- [苹果：段永平为什么高度评价这家公司](06-company-apple.md)
+- [苹果：段永平为什么高度评价这家公司](/duan/renwu-gongsi/06-company-apple)
 
-- [黄峥：段永平为什么高度评价他](07-person-huangzheng.md)
+- [黄峥：段永平为什么高度评价他](/duan/renwu-gongsi/07-person-huangzheng)
 
-- [泡泡玛特：段永平如何重新评估这家公司](08-company-pop-mart.md)
+- [泡泡玛特：段永平如何重新评估这家公司](/duan/renwu-gongsi/08-company-pop-mart)
 
-- [王宁：段永平为什么欣赏泡泡玛特创始人](09-person-wangning.md)
+- [王宁：段永平为什么欣赏泡泡玛特创始人](/duan/renwu-gongsi/09-person-wangning)
 
 ## 公司
 
-- [苹果：段永平为什么高度评价这家公司](06-company-apple.md)
+- [苹果：段永平为什么高度评价这家公司](/duan/renwu-gongsi/06-company-apple)
 
-- [贵州茅台：段永平为什么高度评价这家公司](10-company-maotai.md)
+- [贵州茅台：段永平为什么高度评价这家公司](/duan/renwu-gongsi/10-company-maotai)
 
-- [网易：段永平为什么长期评价这家公司](11-company-netease.md)
+- [网易：段永平为什么长期评价这家公司](/duan/renwu-gongsi/11-company-netease)
 
-- [腾讯：段永平为什么认为它是长坡厚雪](12-company-tencent.md)
+- [腾讯：段永平为什么认为它是长坡厚雪](/duan/renwu-gongsi/12-company-tencent)
 
-- [阿里巴巴：段永平为什么曾高度评价又保留](13-company-alibaba.md)
+- [阿里巴巴：段永平为什么曾高度评价又保留](/duan/renwu-gongsi/13-company-alibaba)
 
-- [拼多多：段永平如何看这家公司](14-company-pinduoduo.md)
+- [拼多多：段永平如何看这家公司](/duan/renwu-gongsi/14-company-pinduoduo)
 
-- [英伟达：段永平为什么说它厉害但难看懂](15-company-nvidia.md)
+- [英伟达：段永平为什么说它厉害但难看懂](/duan/renwu-gongsi/15-company-nvidia)
 
-- [任天堂：段永平从中学到什么](16-company-nintendo.md)
+- [任天堂：段永平从中学到什么](/duan/renwu-gongsi/16-company-nintendo)
 
-- [GE：段永平为什么后来修正这笔投资](17-company-ge.md)
+- [GE：段永平为什么后来修正这笔投资](/duan/renwu-gongsi/17-company-ge)
 
-- [新东方：段永平为什么既认可又保留](18-company-new-oriental.md)
+- [新东方：段永平为什么既认可又保留](/duan/renwu-gongsi/18-company-new-oriental)
 
-- [泡泡玛特：段永平如何重新评估这家公司](08-company-pop-mart.md)
+- [泡泡玛特：段永平如何重新评估这家公司](/duan/renwu-gongsi/08-company-pop-mart)
 
 ## 人物
 
-- [巴菲特：段永平为什么高度尊重他](19-person-buffett.md)
+- [巴菲特：段永平为什么高度尊重他](/duan/renwu-gongsi/19-person-buffett)
 
-- [芒格：段永平为什么重视他的理性](20-person-munger.md)
+- [芒格：段永平为什么重视他的理性](/duan/renwu-gongsi/20-person-munger)
 
-- [乔布斯：段永平为什么说他既是报时人也是造钟人](21-person-steve-jobs.md)
+- [乔布斯：段永平为什么说他既是报时人也是造钟人](/duan/renwu-gongsi/21-person-steve-jobs)
 
-- [库克：段永平为什么认为他是更好的 CEO](22-person-tim-cook.md)
+- [库克：段永平为什么认为他是更好的 CEO](/duan/renwu-gongsi/22-person-tim-cook)
 
-- [马云：段永平为什么一直认为他了不起](23-person-mayun.md)
+- [马云：段永平为什么一直认为他了不起](/duan/renwu-gongsi/23-person-mayun)
 
-- [丁磊：段永平为什么说他很有悟性](24-person-dinglei.md)
+- [丁磊：段永平为什么说他很有悟性](/duan/renwu-gongsi/24-person-dinglei)
 
-- [马化腾：段永平为什么正面评价他](25-person-mahuateng.md)
+- [马化腾：段永平为什么正面评价他](/duan/renwu-gongsi/25-person-mahuateng)
 
-- [黄峥：段永平为什么高度评价他](07-person-huangzheng.md)
+- [黄峥：段永平为什么高度评价他](/duan/renwu-gongsi/07-person-huangzheng)
 
-- [俞敏洪：段永平为什么说他是条汉子](26-person-yuminhong.md)
+- [俞敏洪：段永平为什么说他是条汉子](/duan/renwu-gongsi/26-person-yuminhong)
 
-- [季克良：段永平为什么说他对茅台至关重要](27-person-jikeliang.md)
+- [季克良：段永平为什么说他对茅台至关重要](/duan/renwu-gongsi/27-person-jikeliang)
 
-- [黄仁勋：段永平为什么欣赏他](28-person-huangrenxun.md)
+- [黄仁勋：段永平为什么欣赏他](/duan/renwu-gongsi/28-person-huangrenxun)
 
-- [王宁：段永平为什么欣赏泡泡玛特创始人](09-person-wangning.md)
+- [王宁：段永平为什么欣赏泡泡玛特创始人](/duan/renwu-gongsi/09-person-wangning)
 
 ## 专题
 
-- [段永平高度评价过的公司](../zhuti/46-topic-highly-rated-companies.md)
+- [段永平高度评价过的公司](/duan/zhuti/46-topic-highly-rated-companies)
 
-- [段永平高度评价过的人](../zhuti/47-topic-highly-rated-people.md)
+- [段永平高度评价过的人](/duan/zhuti/47-topic-highly-rated-people)
 
-- [段永平正在重估的公司](../zhuti/48-topic-revaluated-companies.md)
+- [段永平正在重估的公司](/duan/zhuti/48-topic-revaluated-companies)

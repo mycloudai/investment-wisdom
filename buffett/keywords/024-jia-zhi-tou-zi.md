@@ -6,7 +6,7 @@
 
 ## 一句话定义
 
-[价值投资](024-jia-zhi-tou-zi.md)是把股票当作企业的一部分，先独立估算它的[内在价值](012-nei-zai-jia-zhi.md)，再只在市场价格明显低于价值、留有足够[安全边际](001-an-quan-bian-ji.md)时买入，并耐心等待价格向价值靠拢。
+[价值投资](/buffett/keywords/024-jia-zhi-tou-zi)是把股票当作企业的一部分，先独立估算它的[内在价值](/buffett/keywords/012-nei-zai-jia-zhi)，再只在市场价格明显低于价值、留有足够[安全边际](/buffett/keywords/001-an-quan-bian-ji)时买入，并耐心等待价格向价值靠拢。
 
 ## 中心问题
 
@@ -101,15 +101,15 @@
 
 ## 延伸阅读
 
-- [内在价值](012-nei-zai-jia-zhi.md)：价值投资的前提是先估算企业大致值多少钱。
+- [内在价值](/buffett/keywords/012-nei-zai-jia-zhi)：价值投资的前提是先估算企业大致值多少钱。
 
-- [安全边际](001-an-quan-bian-ji.md)：价格低于价值的差距，是价值投资的保护垫。
+- [安全边际](/buffett/keywords/001-an-quan-bian-ji)：价格低于价值的差距，是价值投资的保护垫。
 
-- [市场先生](016-shi-chang-xian-sheng.md)：把市场报价当成可以利用的工具，而不是判断依据。
+- [市场先生](/buffett/keywords/016-shi-chang-xian-sheng)：把市场报价当成可以利用的工具，而不是判断依据。
 
-- [能力圈](013-neng-li-quan.md)：只对能够理解的企业估值，价值投资才有基础。
+- [能力圈](/buffett/keywords/013-neng-li-quan)：只对能够理解的企业估值，价值投资才有基础。
 
-- [长期投资](017-chang-qi-tou-zi.md)：价值修复往往需要时间，价值投资天然指向长期持有。
+- [长期投资](/buffett/keywords/017-chang-qi-tou-zi)：价值修复往往需要时间，价值投资天然指向长期持有。
 
 ## 常见问题
 

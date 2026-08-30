@@ -6,35 +6,35 @@
 
 ## 中心问题
 
-为什么[保险](../../keywords/087-bao-xian.md)是伯克希尔长期复利的核心引擎？
+为什么[保险](/buffett/keywords/087-bao-xian)是伯克希尔长期复利的核心引擎？
 
-这篇总论的答案是：伯克希尔的保险机器由三部分组成。第一，保险业务先收保费、后付赔款，形成[浮存金](../../keywords/092-fu-cun-jin.md)；第二，只要[承保](../../keywords/089-cheng-bao.md)长期有纪律，浮存金的成本就可能低于普通融资成本，甚至接近免费；第三，伯克希尔用强大的资产负债表承受别人不愿承担的[巨灾风险](../../keywords/093-ju-zai-feng-xian.md)，同时把浮存金投入更广泛的[保险投资组合](../../keywords/085-bao-xian-tou-zi-zu-he.md)和企业资产中。真正关键的不是保费规模，而是[承保纪律](../../keywords/090-cheng-bao-ji-lv.md)、[保单定价](../../keywords/084-bao-dan-ding-jia.md)和风险边界。
+这篇总论的答案是：伯克希尔的保险机器由三部分组成。第一，保险业务先收保费、后付赔款，形成[浮存金](/buffett/keywords/092-fu-cun-jin)；第二，只要[承保](/buffett/keywords/089-cheng-bao)长期有纪律，浮存金的成本就可能低于普通融资成本，甚至接近免费；第三，伯克希尔用强大的资产负债表承受别人不愿承担的[巨灾风险](/buffett/keywords/093-ju-zai-feng-xian)，同时把浮存金投入更广泛的[保险投资组合](/buffett/keywords/085-bao-xian-tou-zi-zu-he)和企业资产中。真正关键的不是保费规模，而是[承保纪律](/buffett/keywords/090-cheng-bao-ji-lv)、[保单定价](/buffett/keywords/084-bao-dan-ding-jia)和风险边界。
 
 ## 这类问题在巴菲特体系中的位置
 
 保险是理解伯克希尔的入口之一。巴菲特多次说，评估一家保险公司要看三个变量：能产生多少浮存金、取得浮存金的成本是多少，以及这两个因素的长期前景。这个框架把保险从普通金融业务中区分出来：保险公司拿到钱时，还不知道最终赔付是多少；账面利润可能看起来很好，但损失成本可能多年后才显现。
 
-伯克希尔喜欢保险，不是因为保险天然赚钱，而是因为它能把低成本资金、保守资产负债表和优秀投资能力结合起来。[GEICO](../company/09-geico.md)、[国民保险](../company/11-national-indemnity.md)、通用再保险和阿吉特·贾恩的再保险业务，分别展示了不同类型的保险优势：低成本直销、长期承保纪律、承诺质量和巨额风险判断。
+伯克希尔喜欢保险，不是因为保险天然赚钱，而是因为它能把低成本资金、保守资产负债表和优秀投资能力结合起来。[GEICO](/buffett/articles/company/09-geico)、[国民保险](/buffett/articles/company/11-national-indemnity)、通用再保险和阿吉特·贾恩的再保险业务，分别展示了不同类型的保险优势：低成本直销、长期承保纪律、承诺质量和巨额风险判断。
 
 ## 关键词地图
 
-第一组是保险机制：[保险](../../keywords/087-bao-xian.md)、[财产险](../../keywords/088-cai-chan-xian.md)、[意外险](../../keywords/094-yi-wai-xian.md)、[承保](../../keywords/089-cheng-bao.md)、[浮存金](../../keywords/092-fu-cun-jin.md)。它们解释先收保费、后付赔款为什么能形成可投资资金。
+第一组是保险机制：[保险](/buffett/keywords/087-bao-xian)、[财产险](/buffett/keywords/088-cai-chan-xian)、[意外险](/buffett/keywords/094-yi-wai-xian)、[承保](/buffett/keywords/089-cheng-bao)、[浮存金](/buffett/keywords/092-fu-cun-jin)。它们解释先收保费、后付赔款为什么能形成可投资资金。
 
-第二组是风险和价格：[承保纪律](../../keywords/090-cheng-bao-ji-lv.md)、[保单定价](../../keywords/084-bao-dan-ding-jia.md)、[风险分类](../../keywords/091-feng-xian-fen-lei.md)、[保险周期](../../keywords/086-bao-xian-zhou-qi.md)。它们说明保险业务最危险的不是亏损年份，而是为了增长而低估损失成本。
+第二组是风险和价格：[承保纪律](/buffett/keywords/090-cheng-bao-ji-lv)、[保单定价](/buffett/keywords/084-bao-dan-ding-jia)、[风险分类](/buffett/keywords/091-feng-xian-fen-lei)、[保险周期](/buffett/keywords/086-bao-xian-zhou-qi)。它们说明保险业务最危险的不是亏损年份，而是为了增长而低估损失成本。
 
-第三组是再保险与尾部风险：[再保险](../../keywords/095-zai-bao-xian.md)、[巨灾风险](../../keywords/093-ju-zai-feng-xian.md)、[阿吉特·贾恩](../person/02-ajit-jain.md)。再保险卖的是承诺，伯克希尔的优势来自资本实力、理性定价和愿意在合适价格下承担大额风险。
+第三组是再保险与尾部风险：[再保险](/buffett/keywords/095-zai-bao-xian)、[巨灾风险](/buffett/keywords/093-ju-zai-feng-xian)、[阿吉特·贾恩](/buffett/articles/person/02-ajit-jain)。再保险卖的是承诺，伯克希尔的优势来自资本实力、理性定价和愿意在合适价格下承担大额风险。
 
-第四组是资金运用：[保险投资组合](../../keywords/085-bao-xian-tou-zi-zu-he.md)、[资本配置](../../keywords/032-zi-ben-pei-zhi.md)、[伯克希尔](../company/03-berkshire.md)。浮存金的价值不仅取决于成本，也取决于伯克希尔能否把这笔资金长期有效地配置出去。
+第四组是资金运用：[保险投资组合](/buffett/keywords/085-bao-xian-tou-zi-zu-he)、[资本配置](/buffett/keywords/032-zi-ben-pei-zhi)、[伯克希尔](/buffett/articles/company/03-berkshire)。浮存金的价值不仅取决于成本，也取决于伯克希尔能否把这笔资金长期有效地配置出去。
 
 ## 原文依据概览
 
 1999 年致股东信是理解保险机器的基础材料。巴菲特明确说，保险公司评估的关键是浮存金规模、浮存金成本和长期前景；浮存金是“我们持有但并不属于我们的资金”；真正重要的不是增长本身，而是取得浮存金的成本。与此同时，他提醒读者，保险利润依赖损失估算，准备金可能多年后才被证明过高或过低。
 
-2000 年致股东信进一步说明，某些[再保险](../../keywords/095-zai-bao-xian.md)业务会先出现承保损失，但能带来多年可用浮存金。如果价格合理，伯克希尔愿意接受这种“先苦后甜”的安排。巴菲特还强调，浮存金最终价值不仅取决于获取成本，也取决于运用效率，这把保险业务和伯克希尔的[资本配置](../../keywords/032-zi-ben-pei-zhi.md)连接起来。
+2000 年致股东信进一步说明，某些[再保险](/buffett/keywords/095-zai-bao-xian)业务会先出现承保损失，但能带来多年可用浮存金。如果价格合理，伯克希尔愿意接受这种“先苦后甜”的安排。巴菲特还强调，浮存金最终价值不仅取决于获取成本，也取决于运用效率，这把保险业务和伯克希尔的[资本配置](/buffett/keywords/032-zi-ben-pei-zhi)连接起来。
 
-2004 年致股东信重点解释[承保纪律](../../keywords/090-cheng-bao-ji-lv.md)。国民保险宁愿业务下滑，也不愿用错误价格追逐保费；再保险不应被看作同质化商品，因为保单本质上是一个承诺。巴菲特还用超级巨灾说明，保险公司必须准备好应对行业损失达到 1,000 亿美元甚至更高的场景。
+2004 年致股东信重点解释[承保纪律](/buffett/keywords/090-cheng-bao-ji-lv)。国民保险宁愿业务下滑，也不愿用错误价格追逐保费；再保险不应被看作同质化商品，因为保单本质上是一个承诺。巴菲特还用超级巨灾说明，保险公司必须准备好应对行业损失达到 1,000 亿美元甚至更高的场景。
 
-2009 年致股东信把保险机器放到伯克希尔长期发展中：浮存金从 1967 年的 1,600 万美元增长到 2009 年底的 620 亿美元；若承保盈利，伯克希尔不但能免费使用资金，还能因持有这些资金而获得报酬。2023 年致股东信则再次确认，[财产险](../../keywords/088-cai-chan-xian.md)和[意外险](../../keywords/094-yi-wai-xian.md)是伯克希尔繁荣与增长的核心。
+2009 年致股东信把保险机器放到伯克希尔长期发展中：浮存金从 1967 年的 1,600 万美元增长到 2009 年底的 620 亿美元；若承保盈利，伯克希尔不但能免费使用资金，还能因持有这些资金而获得报酬。2023 年致股东信则再次确认，[财产险](/buffett/keywords/088-cai-chan-xian)和[意外险](/buffett/keywords/094-yi-wai-xian)是伯克希尔繁荣与增长的核心。
 
 2024 年股东大会提供了当代风险案例。阿吉特谈网络安全保险时强调，损失上限和聚合风险难以估量；巴菲特总结，保险业务必须先清楚损失成本，否则保单价格再高也可能错误。这说明伯克希尔的保险优势不在于敢接所有风险，而在于知道哪些风险不能接。
 
@@ -78,9 +78,9 @@
 
 ## 代表案例
 
-1. [GEICO](../company/09-geico.md)：它展示低成本结构如何成为保险优势。汽车保险产品相对标准化，低成本直销能让 GEICO 以更低价格获取客户，并长期扩大市场份额。但车险仍然需要持续修正费率和损失估计。
+1. [GEICO](/buffett/articles/company/09-geico)：它展示低成本结构如何成为保险优势。汽车保险产品相对标准化，低成本直销能让 GEICO 以更低价格获取客户，并长期扩大市场份额。但车险仍然需要持续修正费率和损失估计。
 
-2. [国民保险](../company/11-national-indemnity.md)：它展示承保纪律。巴菲特用国民保险说明，当价格不合适时，业务萎缩不是失败，而是纪律。保险公司不能为了维持收入而签下未来会亏损的保单。
+2. [国民保险](/buffett/articles/company/11-national-indemnity)：它展示承保纪律。巴菲特用国民保险说明，当价格不合适时，业务萎缩不是失败，而是纪律。保险公司不能为了维持收入而签下未来会亏损的保单。
 
 3. 阿吉特·贾恩的再保险业务：它展示伯克希尔的特殊风险承接能力。阿吉特能在价格合适时承接巨额风险，也能在风险不可估或保费不足时拒绝业务。
 
@@ -102,19 +102,19 @@
 
 ## 延伸主题
 
-- [浮存金](../../keywords/092-fu-cun-jin.md)：保险机器的资金来源。
+- [浮存金](/buffett/keywords/092-fu-cun-jin)：保险机器的资金来源。
 
-- [承保纪律](../../keywords/090-cheng-bao-ji-lv.md)：为什么保险不是只看规模。
+- [承保纪律](/buffett/keywords/090-cheng-bao-ji-lv)：为什么保险不是只看规模。
 
-- [再保险](../../keywords/095-zai-bao-xian.md)：伯克希尔为什么能卖出高质量承诺。
+- [再保险](/buffett/keywords/095-zai-bao-xian)：伯克希尔为什么能卖出高质量承诺。
 
-- [阿吉特·贾恩](../person/02-ajit-jain.md)：复杂风险和大额保单的关键人物。
+- [阿吉特·贾恩](/buffett/articles/person/02-ajit-jain)：复杂风险和大额保单的关键人物。
 
-- [GEICO](../company/09-geico.md)：低成本车险模式。
+- [GEICO](/buffett/articles/company/09-geico)：低成本车险模式。
 
-- [巨灾风险](../../keywords/093-ju-zai-feng-xian.md)：极端损失和资产负债表韧性。
+- [巨灾风险](/buffett/keywords/093-ju-zai-feng-xian)：极端损失和资产负债表韧性。
 
-- [保险投资组合](../../keywords/085-bao-xian-tou-zi-zu-he.md)：浮存金如何进入资本配置。
+- [保险投资组合](/buffett/keywords/085-bao-xian-tou-zi-zu-he)：浮存金如何进入资本配置。
 
 ## 总结
 

@@ -6,25 +6,25 @@
 
 ## 中心问题
 
-什么样的企业经营方式能长期保护[股东利益](../../keywords/038-gu-dong-li-yi.md)？
+什么样的企业经营方式能长期保护[股东利益](/buffett/keywords/038-gu-dong-li-yi)？
 
-巴菲特的答案不是“总部更聪明”，也不是“制度越复杂越好”。他反复强调的是：找到有能力且可信赖的[经理人](../../keywords/043-jing-li-ren.md)，让他们像所有者一样经营，把激励和资本成本挂钩，尊重已经有效的[企业文化](../../keywords/045-qi-ye-wen-hua.md)，并用清晰的股东沟通吸引[长期股东](../../keywords/034-chang-qi-gu-dong.md)。
+巴菲特的答案不是“总部更聪明”，也不是“制度越复杂越好”。他反复强调的是：找到有能力且可信赖的[经理人](/buffett/keywords/043-jing-li-ren)，让他们像所有者一样经营，把激励和资本成本挂钩，尊重已经有效的[企业文化](/buffett/keywords/045-qi-ye-wen-hua)，并用清晰的股东沟通吸引[长期股东](/buffett/keywords/034-chang-qi-gu-dong)。
 
 ## 这类问题在巴菲特体系中的位置
 
-企业经营是巴菲特从“买股票”走向“拥有企业”之后必须回答的问题。一个企业即使价格便宜，如果管理层不能把资本转化为长期价值，最终仍会伤害股东。反过来，一个有[品牌](../../keywords/044-pin-pai.md)、[定价权](../../keywords/035-ding-jia-quan.md)和好经理人的企业，如果又有合理激励和去中心化结构，就能把商业优势留在企业内部。
+企业经营是巴菲特从“买股票”走向“拥有企业”之后必须回答的问题。一个企业即使价格便宜，如果管理层不能把资本转化为长期价值，最终仍会伤害股东。反过来，一个有[品牌](/buffett/keywords/044-pin-pai)、[定价权](/buffett/keywords/035-ding-jia-quan)和好经理人的企业，如果又有合理激励和去中心化结构，就能把商业优势留在企业内部。
 
 这也是伯克希尔和普通控股公司的差别。伯克希尔总部不试图替子公司做日常经营决策，它更像一个资本配置和文化保护中心：把现金从不需要大量再投资的业务转到更好的机会，同时让优秀经营者继续经营他们真正懂的业务。
 
 ## 关键词地图
 
-第一组是人：[经理人](../../keywords/043-jing-li-ren.md)、[CEO](../../keywords/033-ceo.md)、[董事会](../../keywords/036-dong-shi-hui.md)、[继任](../../keywords/042-ji-ren.md)。它们回答“谁在经营，谁负责监督，谁在关键时刻接手”。
+第一组是人：[经理人](/buffett/keywords/043-jing-li-ren)、[CEO](/buffett/keywords/033-ceo)、[董事会](/buffett/keywords/036-dong-shi-hui)、[继任](/buffett/keywords/042-ji-ren)。它们回答“谁在经营，谁负责监督，谁在关键时刻接手”。
 
-第二组是机制：[去中心化管理](../../keywords/046-qu-zhong-xin-hua-guan-li.md)、[管理层激励](../../keywords/041-guan-li-ceng-ji-li.md)、[管理层动机](../../keywords/040-guan-li-ceng-dong-ji.md)、[薪酬](../../keywords/048-xin-chou.md)、[董事责任](../../keywords/037-dong-shi-ze-ren.md)。它们决定经理人是否像股东一样思考。
+第二组是机制：[去中心化管理](/buffett/keywords/046-qu-zhong-xin-hua-guan-li)、[管理层激励](/buffett/keywords/041-guan-li-ceng-ji-li)、[管理层动机](/buffett/keywords/040-guan-li-ceng-dong-ji)、[薪酬](/buffett/keywords/048-xin-chou)、[董事责任](/buffett/keywords/037-dong-shi-ze-ren)。它们决定经理人是否像股东一样思考。
 
-第三组是关系：[股东利益](../../keywords/038-gu-dong-li-yi.md)、[长期股东](../../keywords/034-chang-qi-gu-dong.md)、[股东沟通](../../keywords/039-gu-dong-gou-tong.md)。伯克希尔努力让股东理解公司如何运行，并筛选出能接受这种运行方式的人。
+第三组是关系：[股东利益](/buffett/keywords/038-gu-dong-li-yi)、[长期股东](/buffett/keywords/034-chang-qi-gu-dong)、[股东沟通](/buffett/keywords/039-gu-dong-gou-tong)。伯克希尔努力让股东理解公司如何运行，并筛选出能接受这种运行方式的人。
 
-第四组是经营质量：[品牌](../../keywords/044-pin-pai.md)、[定价权](../../keywords/035-ding-jia-quan.md)、[消费者垄断](../../keywords/047-xiao-fei-zhe-long-duan.md)、[企业文化](../../keywords/045-qi-ye-wen-hua.md)。它们说明企业真正的经济特征如何通过日常经营体现出来。
+第四组是经营质量：[品牌](/buffett/keywords/044-pin-pai)、[定价权](/buffett/keywords/035-ding-jia-quan)、[消费者垄断](/buffett/keywords/047-xiao-fei-zhe-long-duan)、[企业文化](/buffett/keywords/045-qi-ye-wen-hua)。它们说明企业真正的经济特征如何通过日常经营体现出来。
 
 ## 原文依据概览
 
@@ -97,15 +97,15 @@
 
 ## 延伸主题
 
-- [资本配置](../../keywords/032-zi-ben-pei-zhi.md)：总部如何处理子公司创造的现金。
+- [资本配置](/buffett/keywords/032-zi-ben-pei-zhi)：总部如何处理子公司创造的现金。
 
-- [管理层激励](../../keywords/041-guan-li-ceng-ji-li.md)：什么样的薪酬真正和股东一致。
+- [管理层激励](/buffett/keywords/041-guan-li-ceng-ji-li)：什么样的薪酬真正和股东一致。
 
-- [股东沟通](../../keywords/039-gu-dong-gou-tong.md)：为什么巴菲特把股东信写给“姐妹”一样的读者。
+- [股东沟通](/buffett/keywords/039-gu-dong-gou-tong)：为什么巴菲特把股东信写给“姐妹”一样的读者。
 
-- [定价权](../../keywords/035-ding-jia-quan.md)：企业经营质量如何在价格上体现。
+- [定价权](/buffett/keywords/035-ding-jia-quan)：企业经营质量如何在价格上体现。
 
-- [继任](../../keywords/042-ji-ren.md)：去中心化组织如何保证关键岗位不断档。
+- [继任](/buffett/keywords/042-ji-ren)：去中心化组织如何保证关键岗位不断档。
 
 ## 总结
 

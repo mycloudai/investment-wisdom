@@ -6,25 +6,25 @@
 
 ## 中心问题
 
-巴菲特如何在价格、质量、[机会成本](../../keywords/010-ji-hui-cheng-ben.md)和[资本配置](../../keywords/032-zi-ben-pei-zhi.md)之间做选择？
+巴菲特如何在价格、质量、[机会成本](/buffett/keywords/010-ji-hui-cheng-ben)和[资本配置](/buffett/keywords/032-zi-ben-pei-zhi)之间做选择？
 
-这篇总论的答案是：巴菲特的投资理念不是“买便宜股票”这么窄，也不是“买好公司长期持有”这么粗。它是一套连续决策：先判断企业是否能理解，再比较[内在价值](../../keywords/012-nei-zai-jia-zhi.md)和价格，再决定仓位，再决定持有、卖出、回购、分红或继续留存收益。所有选择都必须面对同一个问题：这笔资本放在这里，是否比放在别处更好？
+这篇总论的答案是：巴菲特的投资理念不是“买便宜股票”这么窄，也不是“买好公司长期持有”这么粗。它是一套连续决策：先判断企业是否能理解，再比较[内在价值](/buffett/keywords/012-nei-zai-jia-zhi)和价格，再决定仓位，再决定持有、卖出、回购、分红或继续留存收益。所有选择都必须面对同一个问题：这笔资本放在这里，是否比放在别处更好？
 
 ## 这类问题在巴菲特体系中的位置
 
-如果“核心哲学”回答为什么要理性、长期和避免大错，那么“投资理念”回答如何行动。它把[安全边际](../../keywords/001-an-quan-bian-ji.md)、[能力圈](../../keywords/013-neng-li-quan.md)、[护城河](../../keywords/009-hu-cheng-he.md)这些原则转化为买入、持有、卖出、留存收益、股票回购和分红政策。
+如果“核心哲学”回答为什么要理性、长期和避免大错，那么“投资理念”回答如何行动。它把[安全边际](/buffett/keywords/001-an-quan-bian-ji)、[能力圈](/buffett/keywords/013-neng-li-quan)、[护城河](/buffett/keywords/009-hu-cheng-he)这些原则转化为买入、持有、卖出、留存收益、股票回购和分红政策。
 
-巴菲特早期的语言更接近格雷厄姆：以低于价值的价格买入。到了伯克希尔阶段，他更强调企业质量、经理人、资本再配置和规模约束。这个变化不是抛弃[价值投资](../../keywords/024-jia-zhi-tou-zi.md)，而是把价值投资从“便宜资产”扩展到“长期能高效使用资本的企业”。
+巴菲特早期的语言更接近格雷厄姆：以低于价值的价格买入。到了伯克希尔阶段，他更强调企业质量、经理人、资本再配置和规模约束。这个变化不是抛弃[价值投资](/buffett/keywords/024-jia-zhi-tou-zi)，而是把价值投资从“便宜资产”扩展到“长期能高效使用资本的企业”。
 
 ## 关键词地图
 
-第一组是买入逻辑：[价值投资](../../keywords/024-jia-zhi-tou-zi.md)、[买入时机](../../keywords/027-mai-ru-shi-ji.md)、[安全边际](../../keywords/001-an-quan-bian-ji.md)、[内在价值](../../keywords/012-nei-zai-jia-zhi.md)。它们共同决定买入前的价格纪律。
+第一组是买入逻辑：[价值投资](/buffett/keywords/024-jia-zhi-tou-zi)、[买入时机](/buffett/keywords/027-mai-ru-shi-ji)、[安全边际](/buffett/keywords/001-an-quan-bian-ji)、[内在价值](/buffett/keywords/012-nei-zai-jia-zhi)。它们共同决定买入前的价格纪律。
 
-第二组是持有逻辑：[长期投资](../../keywords/017-chang-qi-tou-zi.md)、[集中投资](../../keywords/023-ji-zhong-tou-zi.md)、[分散投资](../../keywords/021-fen-san-tou-zi.md)、[低成本指数基金](../../keywords/018-di-cheng-ben-zhi-shu-ji-jin.md)。它们回答不同能力水平的投资者应该如何持有资产。
+第二组是持有逻辑：[长期投资](/buffett/keywords/017-chang-qi-tou-zi)、[集中投资](/buffett/keywords/023-ji-zhong-tou-zi)、[分散投资](/buffett/keywords/021-fen-san-tou-zi)、[低成本指数基金](/buffett/keywords/018-di-cheng-ben-zhi-shu-ji-jin)。它们回答不同能力水平的投资者应该如何持有资产。
 
-第三组是资本用途：[资本配置](../../keywords/032-zi-ben-pei-zhi.md)、[收购](../../keywords/029-shou-gou.md)、[股票回购](../../keywords/022-gu-piao-hui-gou.md)、[分红](../../keywords/020-fen-hong.md)、[留存收益再投资](../../keywords/025-liu-cun-shou-yi-zai-tou-zi.md)、[现金储备](../../keywords/030-xian-jin-chu-bei.md)。这些关键词说明企业赚到钱以后，下一步比赚到钱本身更重要。
+第三组是资本用途：[资本配置](/buffett/keywords/032-zi-ben-pei-zhi)、[收购](/buffett/keywords/029-shou-gou)、[股票回购](/buffett/keywords/022-gu-piao-hui-gou)、[分红](/buffett/keywords/020-fen-hong)、[留存收益再投资](/buffett/keywords/025-liu-cun-shou-yi-zai-tou-zi)、[现金储备](/buffett/keywords/030-xian-jin-chu-bei)。这些关键词说明企业赚到钱以后，下一步比赚到钱本身更重要。
 
-第四组是退出和替代：[卖出纪律](../../keywords/026-mai-chu-ji-lv.md)、[机会成本](../../keywords/010-ji-hui-cheng-ben.md)、[债券](../../keywords/031-zhai-quan.md)、[短期国债](../../keywords/019-duan-qi-guo-zhai.md)。它们提醒投资者，卖出并不总是因为原资产变坏，也可能因为出现了更好的替代方案。
+第四组是退出和替代：[卖出纪律](/buffett/keywords/026-mai-chu-ji-lv)、[机会成本](/buffett/keywords/010-ji-hui-cheng-ben)、[债券](/buffett/keywords/031-zhai-quan)、[短期国债](/buffett/keywords/019-duan-qi-guo-zhai)。它们提醒投资者，卖出并不总是因为原资产变坏，也可能因为出现了更好的替代方案。
 
 ## 原文依据概览
 
@@ -63,7 +63,7 @@
 
 2. 投资目标是长期税后复利，不是某一年排名、不卖出带来的心理安慰，或账面利润的漂亮数字。
 
-3. 能力越强，越应该把资本投向少数确定性高、期望收益明显更好的机会；能力不足时，[低成本指数基金](../../keywords/018-di-cheng-ben-zhi-shu-ji-jin.md)比伪装成主动投资更诚实。
+3. 能力越强，越应该把资本投向少数确定性高、期望收益明显更好的机会；能力不足时，[低成本指数基金](/buffett/keywords/018-di-cheng-ben-zhi-shu-ji-jin)比伪装成主动投资更诚实。
 
 4. 企业赚到钱以后，资本配置才刚开始。留存、分红、回购、收购和持有现金都必须比较机会成本。
 
@@ -95,15 +95,15 @@
 
 ## 延伸主题
 
-- [安全边际](../../keywords/001-an-quan-bian-ji.md)：价格纪律的底层保护。
+- [安全边际](/buffett/keywords/001-an-quan-bian-ji)：价格纪律的底层保护。
 
-- [内在价值](../../keywords/012-nei-zai-jia-zhi.md)：所有买入、卖出和回购判断的基础。
+- [内在价值](/buffett/keywords/012-nei-zai-jia-zhi)：所有买入、卖出和回购判断的基础。
 
-- [资本配置](../../keywords/032-zi-ben-pei-zhi.md)：伯克希尔 CEO 最重要的工作。
+- [资本配置](/buffett/keywords/032-zi-ben-pei-zhi)：伯克希尔 CEO 最重要的工作。
 
-- [股票回购](../../keywords/022-gu-piao-hui-gou.md)：什么时候回购才创造价值。
+- [股票回购](/buffett/keywords/022-gu-piao-hui-gou)：什么时候回购才创造价值。
 
-- [低成本指数基金](../../keywords/018-di-cheng-ben-zhi-shu-ji-jin.md)：普通投资者的理性长期方案。
+- [低成本指数基金](/buffett/keywords/018-di-cheng-ben-zhi-shu-ji-jin)：普通投资者的理性长期方案。
 
 ## 总结
 

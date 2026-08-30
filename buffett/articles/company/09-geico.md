@@ -6,13 +6,13 @@
 
 ## 一句话定义
 
-[GEICO](09-geico.md) 是巴菲特理解低成本[护城河](../../keywords/009-hu-cheng-he.md)、[保险](../../keywords/087-bao-xian.md)、[浮存金](../../keywords/092-fu-cun-jin.md)和优秀[经理人](../../keywords/043-jing-li-ren.md)的核心案例：它用直销模式降低费用，用[风险分类](../../keywords/091-feng-xian-fen-lei.md)筛选客户，用[承保纪律](../../keywords/090-cheng-bao-ji-lv.md)保护盈利，再把规模增长转化为伯克希尔可配置的低成本资金。
+[GEICO](/buffett/articles/company/09-geico) 是巴菲特理解低成本[护城河](/buffett/keywords/009-hu-cheng-he)、[保险](/buffett/keywords/087-bao-xian)、[浮存金](/buffett/keywords/092-fu-cun-jin)和优秀[经理人](/buffett/keywords/043-jing-li-ren)的核心案例：它用直销模式降低费用，用[风险分类](/buffett/keywords/091-feng-xian-fen-lei)筛选客户，用[承保纪律](/buffett/keywords/090-cheng-bao-ji-lv)保护盈利，再把规模增长转化为伯克希尔可配置的低成本资金。
 
 ## 中心问题
 
 为什么 GEICO 能成为伯克希尔保险机器的核心？
 
-因为汽车保险产品相对标准化，客户非常在意价格，而 GEICO 的直销模式让它比代理制竞争对手有结构性成本优势。低成本带来低价格，低价格吸引并留住优质保户，规模扩大又进一步摊薄成本。这种循环如果配合严格承保和正确激励，就会同时扩大市场份额、产生低成本浮存金，并提高伯克希尔的[内在价值](../../keywords/012-nei-zai-jia-zhi.md)。
+因为汽车保险产品相对标准化，客户非常在意价格，而 GEICO 的直销模式让它比代理制竞争对手有结构性成本优势。低成本带来低价格，低价格吸引并留住优质保户，规模扩大又进一步摊薄成本。这种循环如果配合严格承保和正确激励，就会同时扩大市场份额、产生低成本浮存金，并提高伯克希尔的[内在价值](/buffett/keywords/012-nei-zai-jia-zhi)。
 
 ## 原文依据概览
 
@@ -81,7 +81,7 @@ GEICO 的关键创新是直接面向客户销售，不依赖传统代理网络�
 
 GEICO 是巴菲特投资生涯的“初恋”。1951 年，他亲自到华盛顿拜访 GEICO，在 Lorimer Davidson 的介绍下理解了保险行业和 GEICO 的差异化模式。之后他写文推荐 GEICO，并把个人大量资金投入这家公司。
 
-这段经历说明，GEICO 不只是伯克希尔后来买到的好公司，也是巴菲特很早就纳入[能力圈](../../keywords/013-neng-li-quan.md)的企业。
+这段经历说明，GEICO 不只是伯克希尔后来买到的好公司，也是巴菲特很早就纳入[能力圈](/buffett/keywords/013-neng-li-quan)的企业。
 
 ### 全资拥有让保险机器更完整
 
@@ -121,7 +121,7 @@ GEICO 的管理还体现了伯克希尔的激励原则。1996 年信中，巴菲
 
 1990 年致股东信中，巴菲特说 GEICO 通常能实现承保盈利，增长产生越来越多可投资资金，其有效成本远低于零。实质上，GEICO 保户是在向公司支付浮存金利息，而不是公司向保户支付利息。
 
-这正是伯克希尔保险机器的理想状态：既有增长，又有低成本甚至负成本资金，还能把这些资金交给伯克希尔进行[资本配置](../../keywords/032-zi-ben-pei-zhi.md)。
+这正是伯克希尔保险机器的理想状态：既有增长，又有低成本甚至负成本资金，还能把这些资金交给伯克希尔进行[资本配置](/buffett/keywords/032-zi-ben-pei-zhi)。
 
 ### 内在价值超过账面利润
 
@@ -179,17 +179,17 @@ GEICO 的低成本模式只有在风险分类准确、费率合理时才有效�
 
 ## 和其他关键词的关系
 
-[护城河](../../keywords/009-hu-cheng-he.md)：GEICO 展示低成本也可以是强护城河，尤其当竞争对手难以复制成本结构时。
+[护城河](/buffett/keywords/009-hu-cheng-he)：GEICO 展示低成本也可以是强护城河，尤其当竞争对手难以复制成本结构时。
 
-[浮存金](../../keywords/092-fu-cun-jin.md)：GEICO 的增长带来更多可投资资金，且在承保盈利时浮存金成本低于零。
+[浮存金](/buffett/keywords/092-fu-cun-jin)：GEICO 的增长带来更多可投资资金，且在承保盈利时浮存金成本低于零。
 
-[承保纪律](../../keywords/090-cheng-bao-ji-lv.md)：低价只有配合正确风险选择才有价值，否则会变成亏损增长。
+[承保纪律](/buffett/keywords/090-cheng-bao-ji-lv)：低价只有配合正确风险选择才有价值，否则会变成亏损增长。
 
-[风险分类](../../keywords/091-feng-xian-fen-lei.md)：GEICO 能够给不同驾驶人合理定价，是低成本模式可持续的重要前提。
+[风险分类](/buffett/keywords/091-feng-xian-fen-lei)：GEICO 能够给不同驾驶人合理定价，是低成本模式可持续的重要前提。
 
-[经理人](../../keywords/043-jing-li-ren.md)：Tony Nicely 说明好生意还需要专注、正直、能执行的经营者。
+[经理人](/buffett/keywords/043-jing-li-ren)：Tony Nicely 说明好生意还需要专注、正直、能执行的经营者。
 
-[安全边际](../../keywords/001-an-quan-bian-ji.md)：伯克希尔评估 GEICO 时不仅看成长，也看成本结构、价格、浮存金成本和承保风险。
+[安全边际](/buffett/keywords/001-an-quan-bian-ji)：伯克希尔评估 GEICO 时不仅看成长，也看成本结构、价格、浮存金成本和承保风险。
 
 ## 常见问题
 

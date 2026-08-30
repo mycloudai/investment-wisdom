@@ -32,9 +32,9 @@ Dear Garg：
 
 To the Lantana Group：
 
-18年前，我给您寄送了一份备忘录，其中详细介绍了Walter Schloss 自1955年开始合伙公司以来所取得的业绩。前几天，我收到了Walter 合伙公司1993年的业绩表，该表附在后面。伴随着这些业绩数据的是一份[财务报表](../keywords/049-cai-wu-bao-biao.md)，该报表应该会激励Ben Graham 制片公司去拍摄《公民Schloss》。请注意，沃尔特的办公支出约为1.1万[美元](../keywords/116-mei-yuan.md)，而净收益为1900万美元。固定资产[账面价值](../keywords/064-zhang-mian-jia-zhi.md)为2605美元(未省略000)，但Walter 希望我提及这些资产现在的成本为6569美元。
+18年前，我给您寄送了一份备忘录，其中详细介绍了Walter Schloss 自1955年开始合伙公司以来所取得的业绩。前几天，我收到了Walter 合伙公司1993年的业绩表，该表附在后面。伴随着这些业绩数据的是一份[财务报表](/buffett/keywords/049-cai-wu-bao-biao)，该报表应该会激励Ben Graham 制片公司去拍摄《公民Schloss》。请注意，沃尔特的办公支出约为1.1万[美元](/buffett/keywords/116-mei-yuan)，而净收益为1900万美元。固定资产[账面价值](/buffett/keywords/064-zhang-mian-jia-zhi)为2605美元(未省略000)，但Walter 希望我提及这些资产现在的成本为6569美元。
 
-我认为Walter 的运营风格应该成为我们所有人的一堂课(查理已经完全掌握了这一点)。实际上，Walter 运营他的办公室一年的成本，仅仅够[伯克希尔](../articles/company/03-berkshire.md)“不可辩驳”号的引擎启动一次。
+我认为Walter 的运营风格应该成为我们所有人的一堂课(查理已经完全掌握了这一点)。实际上，Walter 运营他的办公室一年的成本，仅仅够[伯克希尔](/buffett/articles/company/03-berkshire)“不可辩驳”号的引擎启动一次。
 
 与此同时，Walter 继续超越那些在充满绘画、员工和电脑的豪华办公室中工作的经理们。他通过在资本主义的地板上翻找雪茄烟蒂完成了这一壮举。这是一项长达38年的记录，是对作为老师的Ben，作为学生的Walter，以及对免费烟蒂投资优势的致敬。
 

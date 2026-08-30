@@ -10,7 +10,7 @@
 
 - 网易当年有大量现金，市场价格明显低于价值。
 
-- 游戏业务是段永平能理解的[能力圈](../zhuti/05-nengliquan.md)。
+- 游戏业务是段永平能理解的[能力圈](/duan/zhuti/05-nengliquan)。
 
 - 网易在游戏上整体做得非常好。
 
@@ -32,7 +32,7 @@
 
 段永平做过游戏机，对游戏需求和用户行为有一手理解。所以网易不是一个抽象的互联网概念股，而是一个他能理解产品和市场的公司。
 
-这正好体现了[能力圈](../zhuti/05-nengliquan.md)：同样是互联网公司，别人看不懂的游戏业务，对段永平反而是熟悉领域。
+这正好体现了[能力圈](/duan/zhuti/05-nengliquan)：同样是互联网公司，别人看不懂的游戏业务，对段永平反而是熟悉领域。
 
 ### 2. 低价背后的价值
 
@@ -66,22 +66,22 @@
 
 ## 相关人物
 
-- [丁磊](24-person-dinglei.md)
+- [丁磊](/duan/renwu-gongsi/24-person-dinglei)
 
-- [巴菲特](19-person-buffett.md)
+- [巴菲特](/duan/renwu-gongsi/19-person-buffett)
 
 ## 相关概念
 
-- [现金流](../zhuti/16-xianjinliu.md)
+- [现金流](/duan/zhuti/16-xianjinliu)
 
-- [净现金](../zhuti/14-jingxianjin.md)
+- [净现金](/duan/zhuti/14-jingxianjin)
 
-- [能力圈](../zhuti/05-nengliquan.md)
+- [能力圈](/duan/zhuti/05-nengliquan)
 
-- [长期持有](../zhuti/23-zhangqichiyou.md)
+- [长期持有](/duan/zhuti/23-zhangqichiyou)
 
-- [平常心](../zhuti/02-pingchangxin.md)
+- [平常心](/duan/zhuti/02-pingchangxin)
 
 ## 原始出处
 
-- [网易公司问答](../wenda/33-wenda-company-netease.md)
+- [网易公司问答](/duan/wenda/33-wenda-company-netease)

@@ -6,7 +6,7 @@
 
 ## 一句话定义
 
-[常识](006-chang-shi.md)在巴菲特体系里，不是“随便猜一猜”，而是把商业问题压回基本事实、基本算术和基本人性。
+[常识](/buffett/keywords/006-chang-shi)在巴菲特体系里，不是“随便猜一猜”，而是把商业问题压回基本事实、基本算术和基本人性。
 
 ## 中心问题
 
@@ -16,7 +16,7 @@
 
 ## 这类问题在巴菲特体系中的位置
 
-常识连接[理性](073-li-xing.md)、[独立思考](007-du-li-si-kao.md)、[能力圈](013-neng-li-quan.md)和[保守主义](002-bao-shou-zhu-yi.md)。它不是一种“低级能力”，恰恰相反，它要求你在噪音里保留最关键的判断线索。
+常识连接[理性](/buffett/keywords/073-li-xing)、[独立思考](/buffett/keywords/007-du-li-si-kao)、[能力圈](/buffett/keywords/013-neng-li-quan)和[保守主义](/buffett/keywords/002-bao-shou-zhu-yi)。它不是一种“低级能力”，恰恰相反，它要求你在噪音里保留最关键的判断线索。
 
 巴菲特多次说，商学院和市场都喜欢复杂，但现实世界里真正有用的往往是简单原则：知道企业怎么赚钱，知道自己付出的是什么，知道什么事不能做。越是大资金、复杂市场和高诱惑环境，越需要常识来做过滤器。
 
@@ -81,15 +81,15 @@
 
 ## 和其他关键词的关系
 
-- [理性](073-li-xing.md)：常识是理性的日常版本。
+- [理性](/buffett/keywords/073-li-xing)：常识是理性的日常版本。
 
-- [独立思考](007-du-li-si-kao.md)：常识不能外包给大众。
+- [独立思考](/buffett/keywords/007-du-li-si-kao)：常识不能外包给大众。
 
-- [能力圈](013-neng-li-quan.md)：只有在理解范围内，常识才有效。
+- [能力圈](/buffett/keywords/013-neng-li-quan)：只有在理解范围内，常识才有效。
 
-- [保守主义](002-bao-shou-zhu-yi.md)：常识通常会导向更保守的结构选择。
+- [保守主义](/buffett/keywords/002-bao-shou-zhu-yi)：常识通常会导向更保守的结构选择。
 
-- [安全边际](001-an-quan-bian-ji.md)：常识会提醒你给错误留余地。
+- [安全边际](/buffett/keywords/001-an-quan-bian-ji)：常识会提醒你给错误留余地。
 
 ## 总结
 

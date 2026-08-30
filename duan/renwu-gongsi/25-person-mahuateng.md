@@ -56,22 +56,22 @@
 
 ## 相关公司
 
-- [腾讯](12-company-tencent.md)
+- [腾讯](/duan/renwu-gongsi/12-company-tencent)
 
 ## 相关概念
 
-- [平台](../zhuti/32-pingtai.md)
+- [平台](/duan/zhuti/32-pingtai)
 
-- [商业模式](../zhuti/12-shangyemoshi.md)
+- [商业模式](/duan/zhuti/12-shangyemoshi)
 
-- [护城河](../zhuti/13-huchenghe.md)
+- [护城河](/duan/zhuti/13-huchenghe)
 
-- [企业文化](../zhuti/26-qiyewenhua.md)
+- [企业文化](/duan/zhuti/26-qiyewenhua)
 
-- [机会成本](../zhuti/22-jihuichengben.md)
+- [机会成本](/duan/zhuti/22-jihuichengben)
 
 ## 原始出处
 
-- [腾讯公司问答](../wenda/38-wenda-company-tech-platforms.md)
+- [腾讯公司问答](/duan/wenda/38-wenda-company-tech-platforms)
 
-- [收购与多元化](../wenda/25-wenda-business-12.md)
+- [收购与多元化](/duan/wenda/25-wenda-business-12)

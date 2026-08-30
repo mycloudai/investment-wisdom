@@ -62,20 +62,20 @@
 
 ## 相关公司
 
-- [网易](11-company-netease.md)
+- [网易](/duan/renwu-gongsi/11-company-netease)
 
 ## 相关概念
 
-- [现金流](../zhuti/16-xianjinliu.md)
+- [现金流](/duan/zhuti/16-xianjinliu)
 
-- [净现金](../zhuti/14-jingxianjin.md)
+- [净现金](/duan/zhuti/14-jingxianjin)
 
-- [做对的事情](../zhuti/03-zuoduideshiqing.md)
+- [做对的事情](/duan/zhuti/03-zuoduideshiqing)
 
-- [商业模式](../zhuti/12-shangyemoshi.md)
+- [商业模式](/duan/zhuti/12-shangyemoshi)
 
-- [能力圈](../zhuti/05-nengliquan.md)
+- [能力圈](/duan/zhuti/05-nengliquan)
 
 ## 原始出处
 
-- [网易公司问答](../wenda/33-wenda-company-netease.md)
+- [网易公司问答](/duan/wenda/33-wenda-company-netease)

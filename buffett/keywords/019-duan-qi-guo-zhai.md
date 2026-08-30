@@ -6,7 +6,7 @@
 
 ## 一句话定义
 
-[短期国债](019-duan-qi-guo-zhai.md)是期限很短（伯克希尔平均约 88 天）的美国国库券；它是巴菲特存放[现金储备](030-xian-jin-chu-bei.md)的首选方式，因为它兼具最高的安全性和流动性，又能避开长期[债券](031-zhai-quan.md)的利率和通胀风险，且不依赖任何人的承诺。
+[短期国债](/buffett/keywords/019-duan-qi-guo-zhai)是期限很短（伯克希尔平均约 88 天）的美国国库券；它是巴菲特存放[现金储备](/buffett/keywords/030-xian-jin-chu-bei)的首选方式，因为它兼具最高的安全性和流动性，又能避开长期[债券](/buffett/keywords/031-zhai-quan)的利率和通胀风险，且不依赖任何人的承诺。
 
 ## 中心问题
 
@@ -96,15 +96,15 @@
 
 ## 延伸阅读
 
-- [现金储备](030-xian-jin-chu-bei.md)：短期国债是现金储备最主要的存放形式。
+- [现金储备](/buffett/keywords/030-xian-jin-chu-bei)：短期国债是现金储备最主要的存放形式。
 
-- [债券](031-zhai-quan.md)：与长期债券形成对比——短期限避开了长期债券的购买力风险。
+- [债券](/buffett/keywords/031-zhai-quan)：与长期债券形成对比——短期限避开了长期债券的购买力风险。
 
-- [流动性](102-liu-dong-xing.md)：短期国债的核心功能，是在任何时候都能迅速变现。
+- [流动性](/buffett/keywords/102-liu-dong-xing)：短期国债的核心功能，是在任何时候都能迅速变现。
 
-- [利率](114-li-lv.md)：利率水平决定短期国债顺带能带来多少收益。
+- [利率](/buffett/keywords/114-li-lv)：利率水平决定短期国债顺带能带来多少收益。
 
-- [避免永久性损失](003-bi-mian-yong-jiu-xing-sun-shi.md)：把保命的钱放在最安全的资产里，是避免被迫卖出的前提。
+- [避免永久性损失](/buffett/keywords/003-bi-mian-yong-jiu-xing-sun-shi)：把保命的钱放在最安全的资产里，是避免被迫卖出的前提。
 
 ## 常见问题
 

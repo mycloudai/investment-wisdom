@@ -60,18 +60,18 @@
 
 ## 相关概念
 
-- [渠道](../zhuti/31-qudao.md)
+- [渠道](/duan/zhuti/31-qudao)
 
-- [单一产品](../zhuti/34-danyichanpin.md)
+- [单一产品](/duan/zhuti/34-danyichanpin)
 
-- [能力圈](../zhuti/05-nengliquan.md)
+- [能力圈](/duan/zhuti/05-nengliquan)
 
-- [商业模式](../zhuti/12-shangyemoshi.md)
+- [商业模式](/duan/zhuti/12-shangyemoshi)
 
-- [消费者导向](../zhuti/09-xiaofeizhedaoxiang.md)
+- [消费者导向](/duan/zhuti/09-xiaofeizhedaoxiang)
 
 ## 原始出处
 
-- [任天堂公司问答](../wenda/36-wenda-company-consumer-electronics.md)
+- [任天堂公司问答](/duan/wenda/36-wenda-company-consumer-electronics)
 
-- [核心概念：渠道](../zhuti/31-qudao.md)
+- [核心概念：渠道](/duan/zhuti/31-qudao)

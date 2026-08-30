@@ -6,7 +6,7 @@
 
 ## 一句话定义
 
-[政府债务](121-zheng-fu-zhai-wu.md)在巴菲特眼中的关键不是名义规模，而是可持续性：债务随资源同步增长并不可怕，真正的威胁是它会不会逼出失控的[通货膨胀](119-tong-huo-peng-zhang.md)、损害美元购买力和储备货币地位。
+[政府债务](/buffett/keywords/121-zheng-fu-zhai-wu)在巴菲特眼中的关键不是名义规模，而是可持续性：债务随资源同步增长并不可怕，真正的威胁是它会不会逼出失控的[通货膨胀](/buffett/keywords/119-tong-huo-peng-zhang)、损害美元购买力和储备货币地位。
 
 ## 中心问题
 
@@ -102,15 +102,15 @@
 
 ## 和其他关键词的关系
 
-[赤字](111-chi-zi.md)是政府债务的流量来源，巴菲特说真正担忧的是财政赤字。
+[赤字](/buffett/keywords/111-chi-zi)是政府债务的流量来源，巴菲特说真正担忧的是财政赤字。
 
-[财政政策](110-cai-zheng-zheng-ce.md)决定赤字和债务的规模与走向。
+[财政政策](/buffett/keywords/110-cai-zheng-zheng-ce)决定赤字和债务的规模与走向。
 
-[货币政策](113-huo-bi-zheng-ce.md)可能被用来印钞稀释债务，是债务与通胀的连接点。
+[货币政策](/buffett/keywords/113-huo-bi-zheng-ce)可能被用来印钞稀释债务，是债务与通胀的连接点。
 
-[通货膨胀](119-tong-huo-peng-zhang.md)是政府债务真正的危险落点——稀释债务等于侵蚀购买力。
+[通货膨胀](/buffett/keywords/119-tong-huo-peng-zhang)是政府债务真正的危险落点——稀释债务等于侵蚀购买力。
 
-[美元](116-mei-yuan.md)的储备货币地位是美国国债被广为接受的支柱。
+[美元](/buffett/keywords/116-mei-yuan)的储备货币地位是美国国债被广为接受的支柱。
 
 ## 常见问题
 

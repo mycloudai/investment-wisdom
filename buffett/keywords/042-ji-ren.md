@@ -6,7 +6,7 @@
 
 ## 一句话定义
 
-[继任](042-ji-ren.md)是巴菲特为伯克希尔在他离开后仍能顺畅运转所做的人事与制度安排：提前选定一位年轻、内部、文化契合的[CEO](033-ceo.md)接班人，把守护[企业文化](045-qi-ye-wen-hua.md)、抵御企业衰败作为交给他的首要任务。
+[继任](/buffett/keywords/042-ji-ren)是巴菲特为伯克希尔在他离开后仍能顺畅运转所做的人事与制度安排：提前选定一位年轻、内部、文化契合的[CEO](/buffett/keywords/033-ceo)接班人，把守护[企业文化](/buffett/keywords/045-qi-ye-wen-hua)、抵御企业衰败作为交给他的首要任务。
 
 ## 中心问题
 
@@ -101,15 +101,15 @@
 
 ## 延伸阅读
 
-- [企业文化](045-qi-ye-wen-hua.md)：守住文化是巴菲特交给继任 CEO 的首要任务。
+- [企业文化](/buffett/keywords/045-qi-ye-wen-hua)：守住文化是巴菲特交给继任 CEO 的首要任务。
 
-- [CEO](033-ceo.md)：继任的核心，是选对并留住合适的 CEO。
+- [CEO](/buffett/keywords/033-ceo)：继任的核心，是选对并留住合适的 CEO。
 
-- [经理人](043-jing-li-ren.md)：子公司经理人的稳定与培养，是继任顺畅的基础。
+- [经理人](/buffett/keywords/043-jing-li-ren)：子公司经理人的稳定与培养，是继任顺畅的基础。
 
-- [去中心化管理](046-qu-zhong-xin-hua-guan-li.md)：放权形成的”伯克希尔系统”，让继任风险降到最低。
+- [去中心化管理](/buffett/keywords/046-qu-zhong-xin-hua-guan-li)：放权形成的”伯克希尔系统”，让继任风险降到最低。
 
-- [格雷格·阿贝尔](../articles/person/04-greg-abel.md)：巴菲特继任安排最终选定的 CEO 接班人。
+- [格雷格·阿贝尔](/buffett/articles/person/04-greg-abel)：巴菲特继任安排最终选定的 CEO 接班人。
 
 ## 常见问题
 

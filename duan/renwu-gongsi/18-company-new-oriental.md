@@ -64,22 +64,22 @@
 
 ## 相关人物
 
-- [俞敏洪](26-person-yuminhong.md)
+- [俞敏洪](/duan/renwu-gongsi/26-person-yuminhong)
 
 ## 相关概念
 
-- [商业模式](../zhuti/12-shangyemoshi.md)
+- [商业模式](/duan/zhuti/12-shangyemoshi)
 
-- [企业文化](../zhuti/26-qiyewenhua.md)
+- [企业文化](/duan/zhuti/26-qiyewenhua)
 
-- [平常心](../zhuti/02-pingchangxin.md)
+- [平常心](/duan/zhuti/02-pingchangxin)
 
-- [能力圈](../zhuti/05-nengliquan.md)
+- [能力圈](/duan/zhuti/05-nengliquan)
 
-- [机会成本](../zhuti/22-jihuichengben.md)
+- [机会成本](/duan/zhuti/22-jihuichengben)
 
 ## 原始出处
 
-- [新东方公司问答](../wenda/39-wenda-company-retail-services.md)
+- [新东方公司问答](/duan/wenda/39-wenda-company-retail-services)
 
-- [企业文化](../wenda/21-wenda-business-08.md)
+- [企业文化](/duan/wenda/21-wenda-business-08)
