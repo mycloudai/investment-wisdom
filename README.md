@@ -1,23 +1,40 @@
-# investment-wisdom
+# 投资智慧知识库
 
-投资大师内容离线知识库。开启 GitHub Pages 后可在线阅读（docsify：目录导航 + 全文搜索 + 上一篇/下一篇）。
+段永平 · 巴菲特 · 芒格 三位投资者的言与行，**995 篇**全文离线收录。
 
-> 在线阅读：仓库 Settings → Pages → Deploy from a branch → main /root，访问 https://mycloudai.github.io/investment-wisdom/
-目录结构与各来源网站一致，文章文件名带序号前缀（站内阅读顺序），正文内站内链接均转换为仓库内相对路径，图片已本地化，无外部原站引用。
+> 在线阅读：https://mycloudai.github.io/investment-wisdom/
 
-## 来源总览
+## 怎么用
 
-| 目录 | 内容 | 篇数 |
+- **找内容**：左侧目录按大师分组，进入任意分区后按序号阅读
+- **搜全文**：侧边栏搜索框，输入关键词直接搜 995 篇正文
+- **顺读**：每页底部有「上一篇 / 下一篇」，可跨章节连续阅读
+- **护眼**：右下角 ◐ 按钮切换深色模式，默认跟随系统
+
+## 内容总览
+
+| 分区 | 收录 | 篇数 |
 |---|---|---|
-| duan/ | 段永平：问答、主题、演讲访谈、人物公司 | 154 |
-| buffett/ | 巴菲特：股东信、合伙人信、股东大会、访谈、主题解读、关键词、分类 | 482 |
-| munger/ | 芒格：演讲、股东会、致股东信、李录、主题解读、思维格栅、专题 | 359 |
+| 段永平 | 问答、主题、演讲访谈、人物公司 | 154 |
+| 巴菲特 | 致股东信、致合伙人信、股东大会、访谈演讲、主题解读、关键词、分类 | 482 |
+| 芒格 | 致股东信、股东会讲话、演讲访谈、李录、主题解读、思维格栅、专题、指南书单 | 359 |
 | **合计** | | **995** |
+
+## 技术说明
+
+- docsify 静态站，GitHub Pages 托管，全部资源自托管（无 CDN 依赖）
+- 目录结构与来源网站一致，文件名序号即站内阅读顺序
+- 正文站内链接已转为仓库相对路径，图片已本地化，无原站外部依赖
 
 ## 目录结构
 
-- **duan/**：zhuti（主题）/ wenda（问答）/ yanjiang-fangtan（演讲访谈）/ renwu-gongsi（人物公司）
-- **buffett/**：letters / partner-letters / meetings / interviews / articles/{company,industry,person,question,timeline,category-overview} / keywords / categories
-- **munger/**：letters / meetings / speeches / li-lu / articles / thinking-grids / topics / guides
+```
+duan/      段永平  zhuti / wenda / yanjiang-fangtan / renwu-gongsi
+buffett/   巴菲特  letters / partner-letters / meetings / interviews
+                  articles/{company,industry,person,question,timeline,category-overview}
+                  keywords / categories
+munger/    芒格    letters / meetings / speeches / li-lu
+                  articles / thinking-grids / topics / guides
+```
 
-各来源子目录详见其 README.md 索引。
+各分区详见其目录下 README.md 索引。

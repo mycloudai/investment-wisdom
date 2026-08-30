@@ -4,43 +4,81 @@
 <meta charset="UTF-8">
 <title>投资智慧知识库</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="vendor/theme-vue.css">
-<style>
-/* 手机端适配 */
-.markdown-section { max-width: 100%; padding: 1rem 1.2rem; }
-.markdown-section table { display: block; overflow-x: auto; white-space: nowrap; }
-.markdown-section img, .markdown-section video { max-width: 100%; height: auto; }
-.markdown-section pre { overflow-x: auto; font-size: 13px; }
-.markdown-section h1 { font-size: 1.5rem; }
-body { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
-@media screen and (max-width: 768px) {
-  .markdown-section { padding: 0.8rem 1rem; }
-  .docsify-pagination-container { flex-wrap: wrap; gap: 0.5rem; }
-  .pagination-item { width: 100%; margin: 0 !important; }
-}
-</style>
+<meta name="description" content="段永平 · 巴菲特 · 芒格：995 篇离线全文知识库，支持全文搜索">
+<link rel="stylesheet" href="vendor/theme.css">
 </head>
 <body>
 <div id="app">加载中…</div>
+
 <script>
+(function () {
+  // 深色模式：跟随系统，可手动切换并记忆
+  var saved = null;
+  try { saved = localStorage.getItem('iw-theme'); } catch (e) {}
+  var prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  function apply(mode) {
+    document.documentElement.classList.toggle('dark', mode === 'dark');
+  }
+  apply(saved === 'dark' || (saved !== 'light' && prefersDark));
+  window.__iwToggleTheme = function () {
+    var dark = document.documentElement.classList.toggle('dark');
+    try { localStorage.setItem('iw-theme', dark ? 'dark' : 'light'); } catch (e) {}
+  };
+})();
+
 window.$docsify = {
   name: '投资智慧知识库',
   loadSidebar: true,
-  subMaxLevel: 3,
+  subMaxLevel: 2,
   auto2top: true,
   coverpage: true,
+  onlyCover: true,
   mergeNavbar: true,
-  pagination: { previousText: '上一篇', nextText: '下一篇', crossChapter: true },
+  pagination: {
+    previousText: '上一篇',
+    nextText: '下一篇',
+    crossChapter: true
+  },
   search: {
     depth: 3,
     noData: { '/': '没有找到相关结果' },
     placeholder: { '/': '搜索全文…' },
     hideOtherSidebarContent: false
-  }
+  },
+  plugins: [
+    // 索引页检测：为分区 README 添加 .page-index，启用卡片化列表
+    function (hook) {
+      hook.doneEach(function () {
+        var h = location.hash;
+        var isIndex = h === '#/' || /\/$/.test(h) || /README(\.md)?$/i.test(h);
+        document.body.classList.toggle('page-index', isIndex);
+        document.body.classList.toggle('show-cover', h === '#/' || h === '#' || h === '');
+      });
+    }
+  ]
 };
 </script>
+
 <script src="vendor/docsify.min.js"></script>
 <script src="vendor/search.min.js"></script>
 <script src="vendor/docsify-pagination.min.js"></script>
+
+<!-- 悬浮按钮：深色切换 / 回到顶部 -->
+<div class="fab-wrap" id="fab-wrap" style="display:none">
+  <div class="fab" title="深浅色切换" onclick="window.__iwToggleTheme()">◐</div>
+  <div class="fab" title="回到顶部" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</div>
+</div>
+
+<script>
+(function () {
+  function sync() {
+    var w = document.getElementById('fab-wrap');
+    if (w) w.style.display = (location.hash === '#/' || location.hash === '#' || location.hash === '') ? 'none' : 'flex';
+  }
+  window.addEventListener('hashchange', sync);
+  window.addEventListener('load', sync);
+})();
+</script>
+
 </body>
 </html>
