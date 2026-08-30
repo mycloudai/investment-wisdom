@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <title>投资智慧知识库</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="description" content="段永平 · 巴菲特 · 芒格：995 篇离线全文知识库，支持全文搜索">
 <link rel="stylesheet" href="vendor/theme.css">
 </head>
@@ -24,6 +24,11 @@
     var dark = document.documentElement.classList.toggle('dark');
     try { localStorage.setItem('iw-theme', dark ? 'dark' : 'light'); } catch (e) {}
   };
+
+  // 移动端预置收起侧栏（docsify 核心不带布局 CSS，close 状态由主题 CSS 控制）
+  if (window.matchMedia && window.matchMedia('(max-width: 768px)').matches) {
+    document.body.classList.add('close');
+  }
 })();
 
 window.$docsify = {
@@ -46,13 +51,37 @@ window.$docsify = {
     hideOtherSidebarContent: false
   },
   plugins: [
-    // 索引页检测：为分区 README 添加 .page-index，启用卡片化列表
     function (hook) {
+      var narrow = function () { return window.innerWidth <= 768; };
+
+      // 遮罩层：移动端侧栏打开时点击关闭
+      hook.mounted(function () {
+        var backdrop = document.createElement('div');
+        backdrop.className = 'sb-backdrop';
+        backdrop.addEventListener('click', function (e) {
+          e.stopPropagation();
+          document.body.classList.add('close');
+        });
+        document.body.appendChild(backdrop);
+
+        // 阻断 docsify 核心的移动端「点正文开侧栏」行为（点击正文不应弹侧栏）
+        var mainEl = document.querySelector('main');
+        if (mainEl) {
+          mainEl.addEventListener('click', function (e) {
+            if (narrow() && document.body.classList.contains('close')) {
+              e.stopPropagation();
+            }
+          }, true);
+        }
+      });
+
+      // 每次导航后：标记索引页（卡片化）/封面页，移动端自动收起侧栏
       hook.doneEach(function () {
         var h = location.hash;
         var isIndex = h === '#/' || /\/$/.test(h) || /README(\.md)?$/i.test(h);
         document.body.classList.toggle('page-index', isIndex);
         document.body.classList.toggle('show-cover', h === '#/' || h === '#' || h === '');
+        if (narrow()) document.body.classList.add('close');
       });
     }
   ]
